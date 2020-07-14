@@ -1,1 +1,4 @@
 .idea/
+build/
+dist/
+summer_invitational_2020.egg-info/
