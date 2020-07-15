@@ -71,3 +71,11 @@ def pipeline_lines(filename_lines: str, filename_stations: str, current_map: fol
     # Add to current map
     for line in dic:
         dic[line].add_to(current_map)
+
+
+def get_raw_map() -> folium.Map:
+    """
+    Make a folium map centered on London.
+    :return: folium.Map
+    """
+    return folium.Map(location=[51.505453, -0.268839])
