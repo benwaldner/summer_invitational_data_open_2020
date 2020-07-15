@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import geopandas as gpd
 
 
 def data_loader(path='datasets_full/', city='London'):
@@ -35,3 +36,22 @@ def load_pubs_data(global_path: str) -> (pd.DataFrame, pd.DataFrame):
             df[col] = df[col].apply(lambda x: int(x.replace(',', ''))).astype(int)
 
     return pubs, pubs_employment
+
+
+def get_path_london_boroughs(global_path: str = '../data/') -> str:
+    """
+    Get the path to London boroughs. If the file doesn't exist, it will automatically make this file.
+    :param global_path: str, path to the data directory
+    :return: str, path to London boroughs (in GeoJSON)
+    """
+    path_london_borough = global_path + "london-borough.json"
+    if not os.path.exists(path_london_borough):
+        # Load json
+        data_source = global_path + 'statistical-gis-boundaries-london/ESRI/London_Borough_Excluding_MHW.shp'
+        data = gpd.read_file(data_source)
+
+        # Transform cordinates
+        data['geometry'] = data['geometry'].to_crs(epsg=4326)
+        data.to_file(path_london_borough, driver="GeoJSON")
+        print("GeoJSON saved at: " + path_london_borough)
+    return path_london_borough
