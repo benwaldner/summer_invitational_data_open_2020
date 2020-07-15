@@ -12,7 +12,7 @@ def data_loader(path='datasets_full/', city='London'):
     return dict(
         zip(
             [dataset.split('.')[0] for dataset in os.listdir(full_path)],
-            [pd.read_csv(full_path + dataset, encoding='latin1')
+            [pd.read_csv(full_path + dataset, encoding='latin1', low_memory=False)
              for dataset in os.listdir(full_path)]
         )
     )
