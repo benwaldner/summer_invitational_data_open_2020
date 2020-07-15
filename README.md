@@ -1,6 +1,6 @@
 # Summer Invitational Data Open 2020
 
-Github for the team composed of: Khaoula Belahsen, Patrick Saux and Louis Lapassat.
+Github for the team composed of: Khaoula Belahsen, Patrick Saux, Reda Arab and Louis Lapassat.
 
 ### Rules
 
