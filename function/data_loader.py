@@ -39,6 +39,14 @@ def load_satisfaction(path='../data/London_satisfaction/', transpose=True):
             dfs[key] = df
     return dfs
 
+
+def load_carbon(path='../data/London_atlas/london-borough-atlas_carbon'):
+    """Load carbon emission by borough for LDN (processed from
+    London datastore borough atlas).
+    """
+    return pd.read_csv(path + '.csv', encoding='latin1', low_memory=False)
+
+
 def load_pubs_data(global_path: str) -> (pd.DataFrame, pd.DataFrame):
     """
     Treat the data from  https://data.london.gov.uk/dataset/pubs-clubs-restaurants-takeaways-borough
