@@ -1,0 +1,2193 @@
+state;region;year;value;Colonne1
+Rondônia;Madeira-Guaporé;2002;2903642.81;0
+Rondônia;Madeira-Guaporé;2003;3542366.88;0.219973362
+Rondônia;Madeira-Guaporé;2004;4328270.64;0.221858375
+Rondônia;Madeira-Guaporé;2005;4871565.76;0.125522447
+Rondônia;Madeira-Guaporé;2006;5210185.96;0.06950952
+Rondônia;Madeira-Guaporé;2007;5725773.26;0.098957562
+Rondônia;Madeira-Guaporé;2008;6836125.96;0.193921877
+Rondônia;Madeira-Guaporé;2009;8564778.63;0.252870219
+Rondônia;Madeira-Guaporé;2010;11177549.49;0.305059941
+Rondônia;Madeira-Guaporé;2011;13546245.02;0.211915459
+Rondônia;Madeira-Guaporé;2012;14298553.73;0.055536328
+Rondônia;Madeira-Guaporé;2013;14286915.65;-0.000813934
+Rondônia;Madeira-Guaporé;2014;15611905.02;0.092741457
+Rondônia;Madeira-Guaporé;2015;17086962.65;0.094482872
+Rondônia;Madeira-Guaporé;2016;18108011.83;0.059756037
+Rondônia;Madeira-Guaporé;2017;20315306.68;0.121896035
+Rondônia;Leste Rondoniense;2002;4563987.07;0
+Rondônia;Leste Rondoniense;2003;5882643.6;0.288926439
+Rondônia;Leste Rondoniense;2004;6676370.8;0.134926957
+Rondônia;Leste Rondoniense;2005;7640255.42;0.144372541
+Rondônia;Leste Rondoniense;2006;7844527.38;0.026736274
+Rondônia;Leste Rondoniense;2007;8712603.24;0.110660059
+Rondônia;Leste Rondoniense;2008;10449415.77;0.199344844
+Rondônia;Leste Rondoniense;2009;11160230.87;0.068024387
+Rondônia;Leste Rondoniense;2010;12730337.39;0.140687638
+Rondônia;Leste Rondoniense;2011;14028469.36;0.101971529
+Rondônia;Leste Rondoniense;2012;15814166.6;0.127290953
+Rondônia;Leste Rondoniense;2013;16834496.88;0.064520016
+Rondônia;Leste Rondoniense;2014;18419076.95;0.094126963
+Rondônia;Leste Rondoniense;2015;19476370.05;0.057402068
+Rondônia;Leste Rondoniense;2016;21352347.15;0.096320674
+Rondônia;Leste Rondoniense;2017;23191192.15;0.086119104
+Acre;Vale do Juruá;2002;529029.41;0
+Acre;Vale do Juruá;2003;604101.23;0.141904814
+Acre;Vale do Juruá;2004;656524.66;0.086779214
+Acre;Vale do Juruá;2005;759512.33;0.156867939
+Acre;Vale do Juruá;2006;828454.15;0.090771166
+Acre;Vale do Juruá;2007;1001914.22;0.209377996
+Acre;Vale do Juruá;2008;1199552.36;0.19726054
+Acre;Vale do Juruá;2009;1380042.79;0.15046482
+Acre;Vale do Juruá;2010;1616720.26;0.171500095
+Acre;Vale do Juruá;2011;1647967.92;0.019327809
+Acre;Vale do Juruá;2012;1826724.28;0.108470777
+Acre;Vale do Juruá;2013;2161365.88;0.183192178
+Acre;Vale do Juruá;2014;2535895.62;0.173283822
+Acre;Vale do Juruá;2015;2458068.46;-0.030690206
+Acre;Vale do Juruá;2016;2734296.56;0.112376081
+Acre;Vale do Juruá;2017;2875536.62;0.051654989
+Acre;Vale do Acre;2002;2442271.87;0
+Acre;Vale do Acre;2003;2773133.02;0.135472694
+Acre;Vale do Acre;2004;3127477.92;0.127777823
+Acre;Vale do Acre;2005;3541068.94;0.132244265
+Acre;Vale do Acre;2006;3833352.81;0.082541141
+Acre;Vale do Acre;2007;4456257.95;0.162496167
+Acre;Vale do Acre;2008;5210702.32;0.169299977
+Acre;Vale do Acre;2009;6027778.61;0.156807325
+Acre;Vale do Acre;2010;6725635.27;0.115773439
+Acre;Vale do Acre;2011;7301465.84;0.085617276
+Acre;Vale do Acre;2012;8311200.43;0.138292038
+Acre;Vale do Acre;2013;9312564.29;0.120483662
+Acre;Vale do Acre;2014;10922802.01;0.172910239
+Acre;Vale do Acre;2015;11164733.34;0.0221492
+Acre;Vale do Acre;2016;11019943.42;-0.012968507
+Acre;Vale do Acre;2017;11395526.52;0.034082126
+Amazonas;Norte Amazonense;2002;172660.28;0
+Amazonas;Norte Amazonense;2003;197594.39;0.144411384
+Amazonas;Norte Amazonense;2004;221697.98;0.121985194
+Amazonas;Norte Amazonense;2005;243948.63;0.100364694
+Amazonas;Norte Amazonense;2006;282120.35;0.156474418
+Amazonas;Norte Amazonense;2007;323202.11;0.145617854
+Amazonas;Norte Amazonense;2008;386586.51;0.196113819
+Amazonas;Norte Amazonense;2009;434364.91;0.123590448
+Amazonas;Norte Amazonense;2010;493112.2;0.135248701
+Amazonas;Norte Amazonense;2011;582763.95;0.181808014
+Amazonas;Norte Amazonense;2012;604391.1;0.037111338
+Amazonas;Norte Amazonense;2013;696035.02;0.151630161
+Amazonas;Norte Amazonense;2014;816777.79;0.173472263
+Amazonas;Norte Amazonense;2015;873111.31;0.068970436
+Amazonas;Norte Amazonense;2016;896252.34;0.026504101
+Amazonas;Norte Amazonense;2017;944393.06;0.053713355
+Amazonas;Sudoeste Amazonense;2002;622726.07;0
+Amazonas;Sudoeste Amazonense;2003;677650.02;0.088199214
+Amazonas;Sudoeste Amazonense;2004;719793.14;0.062190096
+Amazonas;Sudoeste Amazonense;2005;797882.01;0.108487933
+Amazonas;Sudoeste Amazonense;2006;945436.84;0.184933146
+Amazonas;Sudoeste Amazonense;2007;957083.74;0.012319067
+Amazonas;Sudoeste Amazonense;2008;1086033.13;0.134731565
+Amazonas;Sudoeste Amazonense;2009;1215654.23;0.119352805
+Amazonas;Sudoeste Amazonense;2010;1482611.68;0.21959982
+Amazonas;Sudoeste Amazonense;2011;1832954.98;0.236301457
+Amazonas;Sudoeste Amazonense;2012;2043156.37;0.11467897
+Amazonas;Sudoeste Amazonense;2013;2460326.04;0.204179022
+Amazonas;Sudoeste Amazonense;2014;2720635.04;0.105802644
+Amazonas;Sudoeste Amazonense;2015;2829326.46;0.039950754
+Amazonas;Sudoeste Amazonense;2016;2988858.73;0.056385247
+Amazonas;Sudoeste Amazonense;2017;3197709.75;0.069876511
+Amazonas;Centro Amazonense;2002;20804792.01;0
+Amazonas;Centro Amazonense;2003;24450502.13;0.175234154
+Amazonas;Centro Amazonense;2004;29557652.81;0.208877129
+Amazonas;Centro Amazonense;2005;32250417.02;0.091102099
+Amazonas;Centro Amazonense;2006;37796084.77;0.171956466
+Amazonas;Centro Amazonense;2007;41251862.65;0.091432166
+Amazonas;Centro Amazonense;2008;45587383.6;0.105098792
+Amazonas;Centro Amazonense;2009;47764068.99;0.047747539
+Amazonas;Centro Amazonense;2010;57525612.45;0.204370014
+Amazonas;Centro Amazonense;2011;66500034.28;0.15600741
+Amazonas;Centro Amazonense;2012;67630310.21;0.016996622
+Amazonas;Centro Amazonense;2013;77633079.2;0.147903639
+Amazonas;Centro Amazonense;2014;80590464.8;0.0380944
+Amazonas;Centro Amazonense;2015;80192735.66;-0.004935189
+Amazonas;Centro Amazonense;2016;82327233.12;0.026617092
+Amazonas;Centro Amazonense;2017;85886452.36;0.043232587
+Amazonas;Sul Amazonense;2002;493159.66;0
+Amazonas;Sul Amazonense;2003;536387.55;0.087654959
+Amazonas;Sul Amazonense;2004;591551.87;0.102844147
+Amazonas;Sul Amazonense;2005;688628.87;0.164105643
+Amazonas;Sul Amazonense;2006;909570.68;0.320843083
+Amazonas;Sul Amazonense;2007;947624.58;0.04183721
+Amazonas;Sul Amazonense;2008;1055261.41;0.113585941
+Amazonas;Sul Amazonense;2009;1145751.55;0.085751397
+Amazonas;Sul Amazonense;2010;1375786.36;0.200771982
+Amazonas;Sul Amazonense;2011;1818648.01;0.321897108
+Amazonas;Sul Amazonense;2012;1964843.0;0.080386633
+Amazonas;Sul Amazonense;2013;2261792.7;0.151131515
+Amazonas;Sul Amazonense;2014;2540766.15;0.123341741
+Amazonas;Sul Amazonense;2015;2673010.81;0.052049127
+Amazonas;Sul Amazonense;2016;2827437.81;0.057772681
+Amazonas;Sul Amazonense;2017;3175619.84;0.12314401
+Roraima;Norte de Roraima;2002;2095513.33;0
+Roraima;Norte de Roraima;2003;2268276.08;0.082444119
+Roraima;Norte de Roraima;2004;2452454.24;0.081197418
+Roraima;Norte de Roraima;2005;2767676.06;0.128533212
+Roraima;Norte de Roraima;2006;3320711.08;0.199819274
+Roraima;Norte de Roraima;2007;3652593.72;0.099943245
+Roraima;Norte de Roraima;2008;4210095.67;0.152631799
+Roraima;Norte de Roraima;2009;4924327.03;0.169647299
+Roraima;Norte de Roraima;2010;5800677.75;0.17796355
+Roraima;Norte de Roraima;2011;6312317.78;0.088203491
+Roraima;Norte de Roraima;2012;6658444.3;0.054833507
+Roraima;Norte de Roraima;2013;7697613.88;0.156067924
+Roraima;Norte de Roraima;2014;8372263.71;0.087644021
+Roraima;Norte de Roraima;2015;8726197.1;0.042274515
+Roraima;Norte de Roraima;2016;9375368.34;0.074393373
+Roraima;Norte de Roraima;2017;10332365.7;0.102075708
+Roraima;Sul de Roraima;2002;296519.34;0
+Roraima;Sul de Roraima;2003;325804.79;0.098764047
+Roraima;Sul de Roraima;2004;370302.74;0.136578563
+Roraima;Sul de Roraima;2005;425754.36;0.149746718
+Roraima;Sul de Roraima;2006;481741.03;0.131499933
+Roraima;Sul de Roraima;2007;550708.41;0.143162769
+Roraima;Sul de Roraima;2008;631766.76;0.147189236
+Roraima;Sul de Roraima;2009;747647.56;0.183423389
+Roraima;Sul de Roraima;2010;838472.73;0.121481263
+Roraima;Sul de Roraima;2011;991401.49;0.182389665
+Roraima;Sul de Roraima;2012;1053022.82;0.062155777
+Roraima;Sul de Roraima;2013;1313111.4;0.246992349
+Roraima;Sul de Roraima;2014;1371858.6;0.044738931
+Roraima;Sul de Roraima;2015;1516708.04;0.105586275
+Roraima;Sul de Roraima;2016;1637868.88;0.079884089
+Roraima;Sul de Roraima;2017;1770870.67;0.081204174
+Pará;Baixo Amazonas;2002;2454376.04;0
+Pará;Baixo Amazonas;2003;2937258.36;0.196743413
+Pará;Baixo Amazonas;2004;3570215.15;0.215492378
+Pará;Baixo Amazonas;2005;3707931.86;0.038573785
+Pará;Baixo Amazonas;2006;3889140.86;0.048870639
+Pará;Baixo Amazonas;2007;4188142.13;0.07688106
+Pará;Baixo Amazonas;2008;5034018.88;0.201969447
+Pará;Baixo Amazonas;2009;4980512.6;-0.010628939
+Pará;Baixo Amazonas;2010;6811746.89;0.367679883
+Pará;Baixo Amazonas;2011;7157364.71;0.0507385
+Pará;Baixo Amazonas;2012;7832735.2;0.094360217
+Pará;Baixo Amazonas;2013;9455622.9;0.207192974
+Pará;Baixo Amazonas;2014;9829858.81;0.039578134
+Pará;Baixo Amazonas;2015;10180142.53;0.035634664
+Pará;Baixo Amazonas;2016;11561837.92;0.135724562
+Pará;Baixo Amazonas;2017;12043521.45;0.041661502
+Pará;Marajó;2002;802806.55;0
+Pará;Marajó;2003;863021.16;0.07500513
+Pará;Marajó;2004;1013148.62;0.173955712
+Pará;Marajó;2005;1095043.01;0.080831566
+Pará;Marajó;2006;1171750.06;0.070049349
+Pará;Marajó;2007;1357319.56;0.158369525
+Pará;Marajó;2008;1445980.59;0.065320675
+Pará;Marajó;2009;1636488.5;0.131749977
+Pará;Marajó;2010;1938687.22;0.184662905
+Pará;Marajó;2011;2280101.95;0.176106144
+Pará;Marajó;2012;2692903.8;0.181045348
+Pará;Marajó;2013;3137402.22;0.165062866
+Pará;Marajó;2014;3310332.01;0.055118782
+Pará;Marajó;2015;3854110.24;0.164266976
+Pará;Marajó;2016;4402860.78;0.142380603
+Pará;Marajó;2017;4605352.04;0.045990839
+Pará;Metropolitana de Belém;2002;11768257.58;0
+Pará;Metropolitana de Belém;2003;13202362.82;0.121862156
+Pará;Metropolitana de Belém;2004;16354752.02;0.238774623
+Pará;Metropolitana de Belém;2005;17381420.28;0.062774921
+Pará;Metropolitana de Belém;2006;20200056.45;0.162163743
+Pará;Metropolitana de Belém;2007;22509267.3;0.114317049
+Pará;Metropolitana de Belém;2008;24595935.35;0.09270262
+Pará;Metropolitana de Belém;2009;26249655.78;0.067235517
+Pará;Metropolitana de Belém;2010;29028871.87;0.105876287
+Pará;Metropolitana de Belém;2011;32918103.22;0.13397804
+Pará;Metropolitana de Belém;2012;38592386.37;0.172375763
+Pará;Metropolitana de Belém;2013;40505616.25;0.049575319
+Pará;Metropolitana de Belém;2014;44931534.32;0.109266775
+Pará;Metropolitana de Belém;2015;48482609.17;0.07903302
+Pará;Metropolitana de Belém;2016;49515732.37;0.02130915
+Pará;Metropolitana de Belém;2017;50813800.94;0.026215276
+Pará;Nordeste Paraense;2002;3295469.21;0
+Pará;Nordeste Paraense;2003;3787607.71;0.149337915
+Pará;Nordeste Paraense;2004;4304733.23;0.136530908
+Pará;Nordeste Paraense;2005;4782504.97;0.110987537
+Pará;Nordeste Paraense;2006;5355554.31;0.119822006
+Pará;Nordeste Paraense;2007;6183915.95;0.154673371
+Pará;Nordeste Paraense;2008;6686136.56;0.08121401
+Pará;Nordeste Paraense;2009;7509422.11;0.123133224
+Pará;Nordeste Paraense;2010;8916638.96;0.187393494
+Pará;Nordeste Paraense;2011;10341915.79;0.159844627
+Pará;Nordeste Paraense;2012;11445273.68;0.106687959
+Pará;Nordeste Paraense;2013;14464971.46;0.263837971
+Pará;Nordeste Paraense;2014;14664340.54;0.013782888
+Pará;Nordeste Paraense;2015;15840487.12;0.080204533
+Pará;Nordeste Paraense;2016;17858941.99;0.127423788
+Pará;Nordeste Paraense;2017;18570078.68;0.039819643
+Pará;Sudoeste Paraense;2002;1275139.44;0
+Pará;Sudoeste Paraense;2003;1433654.62;0.124312036
+Pará;Sudoeste Paraense;2004;1719541.59;0.199411327
+Pará;Sudoeste Paraense;2005;1885363.49;0.096433783
+Pará;Sudoeste Paraense;2006;2065659.21;0.095629156
+Pará;Sudoeste Paraense;2007;2536801.19;0.228083112
+Pará;Sudoeste Paraense;2008;2682107.54;0.057279361
+Pará;Sudoeste Paraense;2009;2905168.45;0.083166281
+Pará;Sudoeste Paraense;2010;3595297.29;0.237552091
+Pará;Sudoeste Paraense;2011;4299398.95;0.195839621
+Pará;Sudoeste Paraense;2012;5465081.91;0.271126958
+Pará;Sudoeste Paraense;2013;7151429.21;0.308567617
+Pará;Sudoeste Paraense;2014;8881083.75;0.24186138
+Pará;Sudoeste Paraense;2015;9073018.37;0.021611621
+Pará;Sudoeste Paraense;2016;8872697.57;-0.022078739
+Pará;Sudoeste Paraense;2017;11520177.89;0.298385051
+Pará;Sudeste Paraense;2002;6886110.05;0
+Pará;Sudeste Paraense;2003;8046247.2;0.168474965
+Pará;Sudeste Paraense;2004;10310335.29;0.281384356
+Pará;Sudeste Paraense;2005;11670629.89;0.13193505
+Pará;Sudeste Paraense;2006;13300865.92;0.139687064
+Pará;Sudeste Paraense;2007;15071430.19;0.133116466
+Pará;Sudeste Paraense;2008;20512799.32;0.361038671
+Pará;Sudeste Paraense;2009;18383848.13;-0.103786478
+Pará;Sudeste Paraense;2010;32393275.58;0.762050869
+Pará;Sudeste Paraense;2011;41713851.26;0.287731806
+Pará;Sudeste Paraense;2012;41052499.96;-0.015854477
+Pará;Sudeste Paraense;2013;46509804.56;0.132934769
+Pará;Sudeste Paraense;2014;42967795.59;-0.076156178
+Pará;Sudeste Paraense;2015;43469137.7;0.011667857
+Pará;Sudeste Paraense;2016;45895443.63;0.055816749
+Pará;Sudeste Paraense;2017;57642439.57;0.255951245
+Amapá;Norte do Amapá;2002;159755.97;0
+Amapá;Norte do Amapá;2003;180497.29;0.129831267
+Amapá;Norte do Amapá;2004;214461.8;0.188171856
+Amapá;Norte do Amapá;2005;250976.15;0.170260391
+Amapá;Norte do Amapá;2006;289968.13;0.155361296
+Amapá;Norte do Amapá;2007;367883.49;0.268703185
+Amapá;Norte do Amapá;2008;427606.73;0.162342811
+Amapá;Norte do Amapá;2009;476687.74;0.114780724
+Amapá;Norte do Amapá;2010;493286.0;0.034819985
+Amapá;Norte do Amapá;2011;573494.62;0.162600641
+Amapá;Norte do Amapá;2012;670795.55;0.169663196
+Amapá;Norte do Amapá;2013;817781.57;0.219121937
+Amapá;Norte do Amapá;2014;793064.39;-0.030224672
+Amapá;Norte do Amapá;2015;796052.04;0.003767222
+Amapá;Norte do Amapá;2016;884584.26;0.111214111
+Amapá;Norte do Amapá;2017;973299.43;0.100290243
+Amapá;Sul do Amapá;2002;3013586.7;0
+Amapá;Sul do Amapá;2003;3232697.86;0.072707767
+Amapá;Sul do Amapá;2004;3610277.96;0.116800306
+Amapá;Sul do Amapá;2005;4055433.98;0.123302423
+Amapá;Sul do Amapá;2006;4990853.82;0.230658382
+Amapá;Sul do Amapá;2007;5644639.37;0.130996734
+Amapá;Sul do Amapá;2008;6522806.35;0.155575392
+Amapá;Sul do Amapá;2009;7013967.81;0.075299102
+Amapá;Sul do Amapá;2010;7744509.35;0.104155246
+Amapá;Sul do Amapá;2011;8835733.42;0.140902931
+Amapá;Sul do Amapá;2012;10460072.25;0.183837465
+Amapá;Sul do Amapá;2013;11945704.64;0.142028884
+Amapá;Sul do Amapá;2014;12607219.2;0.055376772
+Amapá;Sul do Amapá;2015;13065241.23;0.036330139
+Amapá;Sul do Amapá;2016;13457550.82;0.030026969
+Amapá;Sul do Amapá;2017;14506585.64;0.077951392
+Tocantins;Ocidental do Tocantins;2002;3194935.18;0
+Tocantins;Ocidental do Tocantins;2003;4152980.36;0.29986373
+Tocantins;Ocidental do Tocantins;2004;4553149.05;0.096356991
+Tocantins;Ocidental do Tocantins;2005;4737874.38;0.040570895
+Tocantins;Ocidental do Tocantins;2006;5273014.22;0.112949352
+Tocantins;Ocidental do Tocantins;2007;6263773.3;0.187892359
+Tocantins;Ocidental do Tocantins;2008;7316315.79;0.168036492
+Tocantins;Ocidental do Tocantins;2009;8171394.64;0.116872874
+Tocantins;Ocidental do Tocantins;2010;9539146.77;0.167382949
+Tocantins;Ocidental do Tocantins;2011;10560682.48;0.107088793
+Tocantins;Ocidental do Tocantins;2012;11837253.16;0.120879563
+Tocantins;Ocidental do Tocantins;2013;13609272.12;0.149698493
+Tocantins;Ocidental do Tocantins;2014;14428732.22;0.060213367
+Tocantins;Ocidental do Tocantins;2015;16261061.33;0.126991691
+Tocantins;Ocidental do Tocantins;2016;18035868.15;0.109144587
+Tocantins;Ocidental do Tocantins;2017;18833831.13;0.044243115
+Tocantins;Oriental do Tocantins;2002;2127627.73;0
+Tocantins;Oriental do Tocantins;2003;2459358.69;0.155915885
+Tocantins;Oriental do Tocantins;2004;2698430.93;0.097209179
+Tocantins;Oriental do Tocantins;2005;2969465.3;0.10044147
+Tocantins;Oriental do Tocantins;2006;3382599.1;0.139127337
+Tocantins;Oriental do Tocantins;2007;3929070.69;0.161553756
+Tocantins;Oriental do Tocantins;2008;4800077.5;0.221682652
+Tocantins;Oriental do Tocantins;2009;5518409.78;0.149650142
+Tocantins;Oriental do Tocantins;2010;6865669.32;0.24413909
+Tocantins;Oriental do Tocantins;2011;7785005.25;0.133903322
+Tocantins;Oriental do Tocantins;2012;8847176.78;0.136438126
+Tocantins;Oriental do Tocantins;2013;10187384.29;0.151484201
+Tocantins;Oriental do Tocantins;2014;11760590.42;0.154426896
+Tocantins;Oriental do Tocantins;2015;12669229.47;0.077261346
+Tocantins;Oriental do Tocantins;2016;13548948.05;0.069437418
+Tocantins;Oriental do Tocantins;2017;15267856.24;0.126866542
+Maranhão;Norte Maranhense;2002;7700256.12;0
+Maranhão;Norte Maranhense;2003;9023885.1;0.17189415
+Maranhão;Norte Maranhense;2004;10418290.71;0.154523866
+Maranhão;Norte Maranhense;2005;12169919.04;0.168130107
+Maranhão;Norte Maranhense;2006;15001754.3;0.23269138
+Maranhão;Norte Maranhense;2007;15257382.77;0.017039905
+Maranhão;Norte Maranhense;2008;18578179.83;0.217651816
+Maranhão;Norte Maranhense;2009;19953849.64;0.07404761
+Maranhão;Norte Maranhense;2010;24055758.5;0.205569799
+Maranhão;Norte Maranhense;2011;26963224.1;0.120863601
+Maranhão;Norte Maranhense;2012;30646339.87;0.136597751
+Maranhão;Norte Maranhense;2013;32104629.75;0.047584471
+Maranhão;Norte Maranhense;2014;37816350.73;0.177909573
+Maranhão;Norte Maranhense;2015;37853320.86;0.000977623
+Maranhão;Norte Maranhense;2016;41020434.16;0.083668044
+Maranhão;Norte Maranhense;2017;42657440.21;0.039907087
+Maranhão;Oeste Maranhense;2002;3397493.78;0
+Maranhão;Oeste Maranhense;2003;4217867.41;0.241464351
+Maranhão;Oeste Maranhense;2004;4655803.39;0.103828769
+Maranhão;Oeste Maranhense;2005;5216439.73;0.12041667
+Maranhão;Oeste Maranhense;2006;6231381.33;0.194565959
+Maranhão;Oeste Maranhense;2007;6335299.45;0.016676579
+Maranhão;Oeste Maranhense;2008;7366006.65;0.162692736
+Maranhão;Oeste Maranhense;2009;7789205.21;0.057452916
+Maranhão;Oeste Maranhense;2010;8635888.94;0.108699631
+Maranhão;Oeste Maranhense;2011;9880542.91;0.14412575
+Maranhão;Oeste Maranhense;2012;11830781.47;0.197381721
+Maranhão;Oeste Maranhense;2013;13547606.75;0.145115121
+Maranhão;Oeste Maranhense;2014;15344715.43;0.132651376
+Maranhão;Oeste Maranhense;2015;16547383.85;0.078376717
+Maranhão;Oeste Maranhense;2016;18681828.87;0.128989878
+Maranhão;Oeste Maranhense;2017;18278247.02;-0.021602909
+Maranhão;Centro Maranhense;2002;1548903.77;0
+Maranhão;Centro Maranhense;2003;1828598.73;0.180576073
+Maranhão;Centro Maranhense;2004;2023255.84;0.106451518
+Maranhão;Centro Maranhense;2005;2191279.5;0.083046176
+Maranhão;Centro Maranhense;2006;2533007.54;0.155949088
+Maranhão;Centro Maranhense;2007;2675469.79;0.056242332
+Maranhão;Centro Maranhense;2008;3363492.32;0.257159521
+Maranhão;Centro Maranhense;2009;3722185.24;0.106643003
+Maranhão;Centro Maranhense;2010;3982611.58;0.069965981
+Maranhão;Centro Maranhense;2011;4568635.91;0.14714574
+Maranhão;Centro Maranhense;2012;5063537.89;0.108325984
+Maranhão;Centro Maranhense;2013;7423907.0;0.466150182
+Maranhão;Centro Maranhense;2014;7364979.28;-0.007937562
+Maranhão;Centro Maranhense;2015;7611214.9;0.033433308
+Maranhão;Centro Maranhense;2016;8667029.93;0.138718331
+Maranhão;Centro Maranhense;2017;9410231.11;0.085750388
+Maranhão;Leste Maranhense;2002;2161730.29;0
+Maranhão;Leste Maranhense;2003;2766938.53;0.279964731
+Maranhão;Leste Maranhense;2004;3164743.86;0.143770932
+Maranhão;Leste Maranhense;2005;3414993.88;0.079074336
+Maranhão;Leste Maranhense;2006;4075045.12;0.193280358
+Maranhão;Leste Maranhense;2007;4194111.3;0.029218371
+Maranhão;Leste Maranhense;2008;5001180.78;0.192429199
+Maranhão;Leste Maranhense;2009;5530913.2;0.10592147
+Maranhão;Leste Maranhense;2010;5873304.95;0.061905103
+Maranhão;Leste Maranhense;2011;6620250.86;0.127176422
+Maranhão;Leste Maranhense;2012;7280162.36;0.099680739
+Maranhão;Leste Maranhense;2013;8087300.34;0.110868129
+Maranhão;Leste Maranhense;2014;9463926.29;0.170220703
+Maranhão;Leste Maranhense;2015;9638794.77;0.018477371
+Maranhão;Leste Maranhense;2016;10854482.42;0.126124446
+Maranhão;Leste Maranhense;2017;11309784.83;0.041946027
+Maranhão;Sul Maranhense;2002;1115618.57;0
+Maranhão;Sul Maranhense;2003;1665610.33;0.492992654
+Maranhão;Sul Maranhense;2004;1865038.02;0.119732501
+Maranhão;Sul Maranhense;2005;2111577.14;0.132189863
+Maranhão;Sul Maranhense;2006;1869454.74;-0.114664246
+Maranhão;Sul Maranhense;2007;2268602.47;0.21351024
+Maranhão;Sul Maranhense;2008;3623542.59;0.597257624
+Maranhão;Sul Maranhense;2009;3998417.36;0.103455323
+Maranhão;Sul Maranhense;2010;3762069.14;-0.059110443
+Maranhão;Sul Maranhense;2011;4110881.55;0.092718235
+Maranhão;Sul Maranhense;2012;5669286.93;0.379092747
+Maranhão;Sul Maranhense;2013;6531400.69;0.152067406
+Maranhão;Sul Maranhense;2014;6852055.92;0.049094405
+Maranhão;Sul Maranhense;2015;6825279.47;-0.003907798
+Maranhão;Sul Maranhense;2016;6086262.76;-0.108276403
+Maranhão;Sul Maranhense;2017;7868480.44;0.292826279
+Piauí;Norte Piauiense;2002;954410.56;0
+Piauí;Norte Piauiense;2003;1098029.63;0.150479339
+Piauí;Norte Piauiense;2004;1266728.37;0.153637694
+Piauí;Norte Piauiense;2005;1407355.03;0.111015639
+Piauí;Norte Piauiense;2006;1715126.2;0.218687654
+Piauí;Norte Piauiense;2007;1868702.67;0.089542373
+Piauí;Norte Piauiense;2008;2133782.09;0.141852112
+Piauí;Norte Piauiense;2009;2426835.2;0.137339755
+Piauí;Norte Piauiense;2010;2880083.58;0.186765208
+Piauí;Norte Piauiense;2011;3254705.81;0.130073388
+Piauí;Norte Piauiense;2012;3614315.21;0.110489064
+Piauí;Norte Piauiense;2013;4181764.09;0.157000385
+Piauí;Norte Piauiense;2014;4842079.54;0.157903563
+Piauí;Norte Piauiense;2015;5220982.11;0.078252033
+Piauí;Norte Piauiense;2016;5720606.36;0.095695453
+Piauí;Norte Piauiense;2017;6079503.19;0.06273755
+Piauí;Centro-Norte Piauiense;2002;4410322.49;0
+Piauí;Centro-Norte Piauiense;2003;5064529.25;0.148335357
+Piauí;Centro-Norte Piauiense;2004;5424669.47;0.071110305
+Piauí;Centro-Norte Piauiense;2005;6287876.84;0.159126261
+Piauí;Centro-Norte Piauiense;2006;8192468.44;0.302898999
+Piauí;Centro-Norte Piauiense;2007;8153496.76;-0.004757013
+Piauí;Centro-Norte Piauiense;2008;9281609.73;0.138359406
+Piauí;Centro-Norte Piauiense;2009;10989812.26;0.184041624
+Piauí;Centro-Norte Piauiense;2010;13262106.09;0.206763662
+Piauí;Centro-Norte Piauiense;2011;15190092.19;0.14537556
+Piauí;Centro-Norte Piauiense;2012;16593146.44;0.092366408
+Piauí;Centro-Norte Piauiense;2013;18386058.93;0.108051387
+Piauí;Centro-Norte Piauiense;2014;22056493.19;0.199631377
+Piauí;Centro-Norte Piauiense;2015;22244489.44;0.008523397
+Piauí;Centro-Norte Piauiense;2016;24207237.16;0.088235234
+Piauí;Centro-Norte Piauiense;2017;24497901.67;0.012007339
+Piauí;Sudoeste Piauiense;2002;921568.66;0
+Piauí;Sudoeste Piauiense;2003;1293544.36;0.403633192
+Piauí;Sudoeste Piauiense;2004;1618663.27;0.251339591
+Piauí;Sudoeste Piauiense;2005;1749010.22;0.080527527
+Piauí;Sudoeste Piauiense;2006;1866042.16;0.06691324
+Piauí;Sudoeste Piauiense;2007;2042950.8;0.094804203
+Piauí;Sudoeste Piauiense;2008;2807847.07;0.374407582
+Piauí;Sudoeste Piauiense;2009;3285756.44;0.170204914
+Piauí;Sudoeste Piauiense;2010;3465868.57;0.054816032
+Piauí;Sudoeste Piauiense;2011;4397837.39;0.268899066
+Piauí;Sudoeste Piauiense;2012;5184680.19;0.178915847
+Piauí;Sudoeste Piauiense;2013;5074785.4;-0.02119606
+Piauí;Sudoeste Piauiense;2014;6556421.75;0.291960395
+Piauí;Sudoeste Piauiense;2015;7136470.65;0.088470346
+Piauí;Sudoeste Piauiense;2016;6420964.71;-0.100260475
+Piauí;Sudoeste Piauiense;2017;8864808.71;0.380603867
+Piauí;Sudeste Piauiense;2002;836332.91;0
+Piauí;Sudeste Piauiense;2003;958797.28;0.14643017
+Piauí;Sudeste Piauiense;2004;1096399.64;0.143515593
+Piauí;Sudeste Piauiense;2005;1267592.41;0.156140848
+Piauí;Sudeste Piauiense;2006;1586841.69;0.251854837
+Piauí;Sudeste Piauiense;2007;1670934.31;0.052993705
+Piauí;Sudeste Piauiense;2008;1980100.97;0.18502622
+Piauí;Sudeste Piauiense;2009;2244045.43;0.133298485
+Piauí;Sudeste Piauiense;2010;2661090.9;0.185845377
+Piauí;Sudeste Piauiense;2011;3098727.01;0.164457407
+Piauí;Sudeste Piauiense;2012;3245542.86;0.047379408
+Piauí;Sudeste Piauiense;2013;3640984.6;0.121841478
+Piauí;Sudeste Piauiense;2014;4268502.17;0.172348318
+Piauí;Sudeste Piauiense;2015;4547743.55;0.065419055
+Piauí;Sudeste Piauiense;2016;5068128.5;0.114427066
+Piauí;Sudeste Piauiense;2017;5916401.96;0.167374103
+Ceará;Noroeste Cearense;2002;2886001.23;0
+Ceará;Noroeste Cearense;2003;3391771.55;0.175249516
+Ceará;Noroeste Cearense;2004;3886952.96;0.145994918
+Ceará;Noroeste Cearense;2005;4329087.85;0.113748454
+Ceará;Noroeste Cearense;2006;4776493.42;0.103348693
+Ceará;Noroeste Cearense;2007;5120884.22;0.072101178
+Ceará;Noroeste Cearense;2008;6046982.05;0.18084725
+Ceará;Noroeste Cearense;2009;6521070.24;0.078400793
+Ceará;Noroeste Cearense;2010;7872066.47;0.207174004
+Ceará;Noroeste Cearense;2011;8743392.88;0.110685855
+Ceará;Noroeste Cearense;2012;9439650.17;0.079632392
+Ceará;Noroeste Cearense;2013;10720920.76;0.135732847
+Ceará;Noroeste Cearense;2014;12352711.27;0.152206191
+Ceará;Noroeste Cearense;2015;12929809.68;0.04671836
+Ceará;Noroeste Cearense;2016;14131038.03;0.092903792
+Ceará;Noroeste Cearense;2017;16081594.7;0.138033502
+Ceará;Norte Cearense;2002;2229932.38;0
+Ceará;Norte Cearense;2003;2554140.74;0.145389323
+Ceará;Norte Cearense;2004;2973582.84;0.164220434
+Ceará;Norte Cearense;2005;3244027.34;0.090949038
+Ceará;Norte Cearense;2006;3643912.29;0.123268058
+Ceará;Norte Cearense;2007;3695020.09;0.01402553
+Ceará;Norte Cearense;2008;4592680.72;0.242937957
+Ceará;Norte Cearense;2009;4783369.59;0.041520167
+Ceará;Norte Cearense;2010;6133806.77;0.282319222
+Ceará;Norte Cearense;2011;7159197.42;0.167170354
+Ceará;Norte Cearense;2012;7160010.79;0.000113612
+Ceará;Norte Cearense;2013;8196230.03;0.144723139
+Ceará;Norte Cearense;2014;10200526.41;0.244538815
+Ceará;Norte Cearense;2015;10814889.36;0.060228553
+Ceará;Norte Cearense;2016;12060459.06;0.115171747
+Ceará;Norte Cearense;2017;14119377.86;0.170716454
+Ceará;Metropolitana de Fortaleza;2002;17838817.58;0
+Ceará;Metropolitana de Fortaleza;2003;20069115.4;0.12502498
+Ceará;Metropolitana de Fortaleza;2004;22903836.96;0.141247958
+Ceará;Metropolitana de Fortaleza;2005;25609154.73;0.118116356
+Ceará;Metropolitana de Fortaleza;2006;28844390.3;0.126331213
+Ceará;Metropolitana de Fortaleza;2007;32131427.09;0.113957576
+Ceará;Metropolitana de Fortaleza;2008;37802488.79;0.176495793
+Ceará;Metropolitana de Fortaleza;2009;42953380.69;0.13625801
+Ceará;Metropolitana de Fortaleza;2010;49982117.11;0.163636396
+Ceará;Metropolitana de Fortaleza;2011;55916559.31;0.118731309
+Ceará;Metropolitana de Fortaleza;2012;61558089.98;0.100891949
+Ceará;Metropolitana de Fortaleza;2013;68630598.47;0.114891617
+Ceará;Metropolitana de Fortaleza;2014;77879688.21;0.13476627
+Ceará;Metropolitana de Fortaleza;2015;80446784.86;0.032962339
+Ceará;Metropolitana de Fortaleza;2016;84275554.95;0.047593824
+Ceará;Metropolitana de Fortaleza;2017;87075776.3;0.03322697
+Ceará;Sertões Cearenses;2002;1599190.34;0
+Ceará;Sertões Cearenses;2003;1860094.68;0.163147771
+Ceará;Sertões Cearenses;2004;1938638.19;0.042225544
+Ceará;Sertões Cearenses;2005;2230060.13;0.150323016
+Ceará;Sertões Cearenses;2006;2543737.79;0.140658835
+Ceará;Sertões Cearenses;2007;2641258.6;0.038337603
+Ceará;Sertões Cearenses;2008;3348349.22;0.267709727
+Ceará;Sertões Cearenses;2009;3470796.46;0.036569435
+Ceará;Sertões Cearenses;2010;4044685.71;0.165347999
+Ceará;Sertões Cearenses;2011;4910125.49;0.213969599
+Ceará;Sertões Cearenses;2012;4727579.42;-0.037177475
+Ceará;Sertões Cearenses;2013;5341423.52;0.129843213
+Ceará;Sertões Cearenses;2014;6394258.24;0.197107516
+Ceará;Sertões Cearenses;2015;6698164.9;0.047528055
+Ceará;Sertões Cearenses;2016;7326572.1;0.093817816
+Ceará;Sertões Cearenses;2017;7986436.34;0.090064526
+Ceará;Jaguaribe;2002;1450641.55;0
+Ceará;Jaguaribe;2003;1666533.04;0.148824835
+Ceará;Jaguaribe;2004;1873604.82;0.12425303
+Ceará;Jaguaribe;2005;1982837.67;0.058300901
+Ceará;Jaguaribe;2006;2277941.32;0.148828951
+Ceará;Jaguaribe;2007;2499648.41;0.097327832
+Ceará;Jaguaribe;2008;2957062.86;0.182991515
+Ceará;Jaguaribe;2009;3126681.78;0.057360607
+Ceará;Jaguaribe;2010;3658911.0;0.170221742
+Ceará;Jaguaribe;2011;4184977.67;0.143776842
+Ceará;Jaguaribe;2012;4689722.25;0.120608667
+Ceará;Jaguaribe;2013;5687313.09;0.212718534
+Ceará;Jaguaribe;2014;6297981.42;0.107373784
+Ceará;Jaguaribe;2015;6538524.64;0.038193701
+Ceará;Jaguaribe;2016;6755137.32;0.033128678
+Ceará;Jaguaribe;2017;7551178.05;0.117842272
+Ceará;Centro-Sul Cearense;2002;781267.41;0
+Ceará;Centro-Sul Cearense;2003;921775.2;0.179845963
+Ceará;Centro-Sul Cearense;2004;970690.89;0.053066832
+Ceará;Centro-Sul Cearense;2005;1070839.35;0.10317235
+Ceará;Centro-Sul Cearense;2006;1231542.63;0.150072259
+Ceará;Centro-Sul Cearense;2007;1316944.15;0.069345159
+Ceará;Centro-Sul Cearense;2008;1572221.13;0.193840399
+Ceará;Centro-Sul Cearense;2009;1690365.68;0.075144996
+Ceará;Centro-Sul Cearense;2010;2090007.39;0.236423228
+Ceará;Centro-Sul Cearense;2011;2357033.83;0.127763395
+Ceará;Centro-Sul Cearense;2012;2521277.27;0.069682258
+Ceará;Centro-Sul Cearense;2013;2791011.58;0.1069832
+Ceará;Centro-Sul Cearense;2014;3406728.78;0.220607182
+Ceará;Centro-Sul Cearense;2015;3430206.64;0.006891614
+Ceará;Centro-Sul Cearense;2016;3599785.51;0.049436925
+Ceará;Centro-Sul Cearense;2017;3807485.27;0.057697815
+Ceará;Sul Cearense;2002;1932989.86;0
+Ceará;Sul Cearense;2003;2223987.66;0.150542849
+Ceará;Sul Cearense;2004;2343509.54;0.053742151
+Ceará;Sul Cearense;2005;2593452.16;0.106653127
+Ceará;Sul Cearense;2006;3182302.99;0.227052898
+Ceará;Sul Cearense;2007;3413566.46;0.072671732
+Ceará;Sul Cearense;2008;4095788.9;0.199856206
+Ceará;Sul Cearense;2009;4654293.62;0.136360719
+Ceará;Sul Cearense;2010;5554704.82;0.193458186
+Ceará;Sul Cearense;2011;6424541.83;0.156594642
+Ceará;Sul Cearense;2012;6877423.01;0.07049237
+Ceará;Sul Cearense;2013;7669058.91;0.115106472
+Ceará;Sul Cearense;2014;9522577.32;0.241687857
+Ceará;Sul Cearense;2015;9771468.44;0.026136949
+Ceará;Sul Cearense;2016;10273973.7;0.051425767
+Ceará;Sul Cearense;2017;11268543.23;0.096804757
+Rio Grande do Norte;Oeste Potiguar;2002;3909017.74;0
+Rio Grande do Norte;Oeste Potiguar;2003;4257432.73;0.089131084
+Rio Grande do Norte;Oeste Potiguar;2004;5148595.42;0.209319265
+Rio Grande do Norte;Oeste Potiguar;2005;6048046.58;0.174698357
+Rio Grande do Norte;Oeste Potiguar;2006;6686109.75;0.10549905
+Rio Grande do Norte;Oeste Potiguar;2007;7315985.07;0.094206548
+Rio Grande do Norte;Oeste Potiguar;2008;8146685.81;0.113545986
+Rio Grande do Norte;Oeste Potiguar;2009;7798348.13;-0.042758207
+Rio Grande do Norte;Oeste Potiguar;2010;9360849.9;0.200363172
+Rio Grande do Norte;Oeste Potiguar;2011;11322304.05;0.209538041
+Rio Grande do Norte;Oeste Potiguar;2012;12780971.69;0.128831343
+Rio Grande do Norte;Oeste Potiguar;2013;13885856.78;0.08644766
+Rio Grande do Norte;Oeste Potiguar;2014;14023487.79;0.009911597
+Rio Grande do Norte;Oeste Potiguar;2015;13369030.84;-0.046668629
+Rio Grande do Norte;Oeste Potiguar;2016;12924711.87;-0.033234942
+Rio Grande do Norte;Oeste Potiguar;2017;14010591.91;0.084015803
+Rio Grande do Norte;Central Potiguar;2002;1325931.41;0
+Rio Grande do Norte;Central Potiguar;2003;1434717.29;0.082044877
+Rio Grande do Norte;Central Potiguar;2004;1728351.67;0.204663582
+Rio Grande do Norte;Central Potiguar;2005;1974896.78;0.142647538
+Rio Grande do Norte;Central Potiguar;2006;2298131.69;0.1636718
+Rio Grande do Norte;Central Potiguar;2007;2615214.96;0.137974369
+Rio Grande do Norte;Central Potiguar;2008;3030839.58;0.158925605
+Rio Grande do Norte;Central Potiguar;2009;3069655.36;0.01280694
+Rio Grande do Norte;Central Potiguar;2010;3691987.7;0.202736877
+Rio Grande do Norte;Central Potiguar;2011;3802307.18;0.029880782
+Rio Grande do Norte;Central Potiguar;2012;4099358.01;0.078123838
+Rio Grande do Norte;Central Potiguar;2013;4534107.33;0.106053026
+Rio Grande do Norte;Central Potiguar;2014;5334052.18;0.1764283
+Rio Grande do Norte;Central Potiguar;2015;6137473.85;0.150621262
+Rio Grande do Norte;Central Potiguar;2016;6695225.65;0.090876444
+Rio Grande do Norte;Central Potiguar;2017;7310584.15;0.091910046
+Rio Grande do Norte;Agreste Potiguar;2002;836194.79;0
+Rio Grande do Norte;Agreste Potiguar;2003;950418.28;0.136599141
+Rio Grande do Norte;Agreste Potiguar;2004;1103421.46;0.160985098
+Rio Grande do Norte;Agreste Potiguar;2005;1230890.48;0.115521607
+Rio Grande do Norte;Agreste Potiguar;2006;1360067.37;0.104945884
+Rio Grande do Norte;Agreste Potiguar;2007;1607143.43;0.181664574
+Rio Grande do Norte;Agreste Potiguar;2008;1756427.59;0.092887889
+Rio Grande do Norte;Agreste Potiguar;2009;1967491.63;0.120166662
+Rio Grande do Norte;Agreste Potiguar;2010;2186558.46;0.111343208
+Rio Grande do Norte;Agreste Potiguar;2011;2599522.93;0.188865049
+Rio Grande do Norte;Agreste Potiguar;2012;3202742.38;0.232050059
+Rio Grande do Norte;Agreste Potiguar;2013;3544671.27;0.106761284
+Rio Grande do Norte;Agreste Potiguar;2014;3804123.75;0.073195075
+Rio Grande do Norte;Agreste Potiguar;2015;4425656.55;0.163383959
+Rio Grande do Norte;Agreste Potiguar;2016;5010592.37;0.132169276
+Rio Grande do Norte;Agreste Potiguar;2017;5392532.55;0.076226552
+Rio Grande do Norte;Leste Potiguar;2002;7495659.43;0
+Rio Grande do Norte;Leste Potiguar;2003;8222873.19;0.097017983
+Rio Grande do Norte;Leste Potiguar;2004;9272029.88;0.127590036
+Rio Grande do Norte;Leste Potiguar;2005;10713084.23;0.155419511
+Rio Grande do Norte;Leste Potiguar;2006;12545814.9;0.171074047
+Rio Grande do Norte;Leste Potiguar;2007;14779915.05;0.178075332
+Rio Grande do Norte;Leste Potiguar;2008;15964907.51;0.080175864
+Rio Grande do Norte;Leste Potiguar;2009;18105558.52;0.134084774
+Rio Grande do Norte;Leste Potiguar;2010;20945106.31;0.15683293
+Rio Grande do Norte;Leste Potiguar;2011;23268790.75;0.11094164
+Rio Grande do Norte;Leste Potiguar;2012;26329136.28;0.131521469
+Rio Grande do Norte;Leste Potiguar;2013;29553821.18;0.122475909
+Rio Grande do Norte;Leste Potiguar;2014;30860920.19;0.04422775
+Rio Grande do Norte;Leste Potiguar;2015;33318705.59;0.079640704
+Rio Grande do Norte;Leste Potiguar;2016;35046858.96;0.051867362
+Rio Grande do Norte;Leste Potiguar;2017;37580837.95;0.072302599
+Paraíba;Sertão Paraibano;2002;1897824.92;0
+Paraíba;Sertão Paraibano;2003;2220615.61;0.170084546
+Paraíba;Sertão Paraibano;2004;2427722.87;0.093265696
+Paraíba;Sertão Paraibano;2005;2697239.83;0.111016362
+Paraíba;Sertão Paraibano;2006;3185747.01;0.181113735
+Paraíba;Sertão Paraibano;2007;3485459.62;0.094079225
+Paraíba;Sertão Paraibano;2008;4174529.83;0.19769852
+Paraíba;Sertão Paraibano;2009;4733575.87;0.133918324
+Paraíba;Sertão Paraibano;2010;5155122.28;0.089054538
+Paraíba;Sertão Paraibano;2011;5703424.67;0.106360695
+Paraíba;Sertão Paraibano;2012;6361961.12;0.115463338
+Paraíba;Sertão Paraibano;2013;7089312.99;0.114328248
+Paraíba;Sertão Paraibano;2014;8163027.18;0.151455323
+Paraíba;Sertão Paraibano;2015;8766821.88;0.073967008
+Paraíba;Sertão Paraibano;2016;9466627.23;0.079824292
+Paraíba;Sertão Paraibano;2017;10038910.23;0.060452681
+Paraíba;Borborema;2002;587428.42;0
+Paraíba;Borborema;2003;679646.74;0.15698648
+Paraíba;Borborema;2004;745897.54;0.097478287
+Paraíba;Borborema;2005;857240.48;0.149273773
+Paraíba;Borborema;2006;979281.54;0.142365022
+Paraíba;Borborema;2007;1086547.21;0.109535068
+Paraíba;Borborema;2008;1272432.85;0.171079212
+Paraíba;Borborema;2009;1440762.44;0.132289566
+Paraíba;Borborema;2010;1576300.35;0.094073739
+Paraíba;Borborema;2011;1721933.46;0.092389188
+Paraíba;Borborema;2012;1918907.47;0.114391186
+Paraíba;Borborema;2013;2155085.11;0.123079223
+Paraíba;Borborema;2014;2448258.8;0.136038103
+Paraíba;Borborema;2015;2725329.89;0.113170671
+Paraíba;Borborema;2016;2887120.49;0.05936551
+Paraíba;Borborema;2017;3103475.98;0.074938157
+Paraíba;Agreste Paraibano;2002;3488001.98;0
+Paraíba;Agreste Paraibano;2003;4177325.18;0.197626952
+Paraíba;Agreste Paraibano;2004;4506323.92;0.078758231
+Paraíba;Agreste Paraibano;2005;5099464.28;0.131623996
+Paraíba;Agreste Paraibano;2006;6021654.21;0.180840551
+Paraíba;Agreste Paraibano;2007;6616347.16;0.098759067
+Paraíba;Agreste Paraibano;2008;7626615.99;0.152692839
+Paraíba;Agreste Paraibano;2009;8517012.15;0.116748524
+Paraíba;Agreste Paraibano;2010;9476491.3;0.11265443
+Paraíba;Agreste Paraibano;2011;10485244.88;0.106448004
+Paraíba;Agreste Paraibano;2012;11828820.0;0.128139603
+Paraíba;Agreste Paraibano;2013;12854014.12;0.086669179
+Paraíba;Agreste Paraibano;2014;14456806.86;0.124692001
+Paraíba;Agreste Paraibano;2015;15488761.01;0.071381887
+Paraíba;Agreste Paraibano;2016;16413775.04;0.059721628
+Paraíba;Agreste Paraibano;2017;17104079.35;0.042056401
+Paraíba;Mata Paraibana;2002;6773765.87;0
+Paraíba;Mata Paraibana;2003;7660332.01;0.130882312
+Paraíba;Mata Paraibana;2004;8077887.21;0.05450876
+Paraíba;Mata Paraibana;2005;8903281.74;0.102179507
+Paraíba;Mata Paraibana;2006;10651333.6;0.196337925
+Paraíba;Mata Paraibana;2007;11721457.47;0.100468534
+Paraíba;Mata Paraibana;2008;13815994.4;0.178692533
+Paraíba;Mata Paraibana;2009;15539055.65;0.124714964
+Paraíba;Mata Paraibana;2010;17314577.76;0.114261906
+Paraíba;Mata Paraibana;2011;19198533.66;0.108807499
+Paraíba;Mata Paraibana;2012;22378660.62;0.165644263
+Paraíba;Mata Paraibana;2013;24278887.05;0.084912429
+Paraíba;Mata Paraibana;2014;27868390.24;0.147844635
+Paraíba;Mata Paraibana;2015;29160977.49;0.046381841
+Paraíba;Mata Paraibana;2016;30337258.65;0.040337508
+Paraíba;Mata Paraibana;2017;32140321.08;0.059433927
+Pernambuco;Sertão Pernambucano;2002;2041760.47;0
+Pernambuco;Sertão Pernambucano;2003;2190805.09;0.072998093
+Pernambuco;Sertão Pernambucano;2004;2403414.93;0.097046442
+Pernambuco;Sertão Pernambucano;2005;2774908.39;0.154569007
+Pernambuco;Sertão Pernambucano;2006;3213772.0;0.15815427
+Pernambuco;Sertão Pernambucano;2007;3558191.78;0.107169949
+Pernambuco;Sertão Pernambucano;2008;4197287.1;0.179612387
+Pernambuco;Sertão Pernambucano;2009;4780896.91;0.13904453
+Pernambuco;Sertão Pernambucano;2010;5868762.67;0.227544283
+Pernambuco;Sertão Pernambucano;2011;6584002.14;0.121872277
+Pernambuco;Sertão Pernambucano;2012;7321422.97;0.112001912
+Pernambuco;Sertão Pernambucano;2013;7925518.33;0.082510649
+Pernambuco;Sertão Pernambucano;2014;9021953.08;0.13834234
+Pernambuco;Sertão Pernambucano;2015;8989848.93;-0.003558448
+Pernambuco;Sertão Pernambucano;2016;9697328.1;0.078697559
+Pernambuco;Sertão Pernambucano;2017;10396180.72;0.072066513
+Pernambuco;São Francisco Pernambucano;2002;2114224.22;0
+Pernambuco;São Francisco Pernambucano;2003;2565401.88;0.213401046
+Pernambuco;São Francisco Pernambucano;2004;2864890.81;0.116741526
+Pernambuco;São Francisco Pernambucano;2005;3174077.43;0.107922654
+Pernambuco;São Francisco Pernambucano;2006;3352421.47;0.056187678
+Pernambuco;São Francisco Pernambucano;2007;3693522.37;0.101747618
+Pernambuco;São Francisco Pernambucano;2008;4270899.1;0.156321438
+Pernambuco;São Francisco Pernambucano;2009;4623725.37;0.082611708
+Pernambuco;São Francisco Pernambucano;2010;5939521.35;0.284574856
+Pernambuco;São Francisco Pernambucano;2011;6366006.78;0.07180468
+Pernambuco;São Francisco Pernambucano;2012;7520857.47;0.181408963
+Pernambuco;São Francisco Pernambucano;2013;7609970.64;0.011848805
+Pernambuco;São Francisco Pernambucano;2014;8371688.38;0.100094702
+Pernambuco;São Francisco Pernambucano;2015;8947850.16;0.06882265
+Pernambuco;São Francisco Pernambucano;2016;9352922.52;0.045270356
+Pernambuco;São Francisco Pernambucano;2017;9956692.65;0.064554168
+Pernambuco;Agreste Pernambucano;2002;4862581.55;0
+Pernambuco;Agreste Pernambucano;2003;5331610.88;0.096456856
+Pernambuco;Agreste Pernambucano;2004;6356486.0;0.192226166
+Pernambuco;Agreste Pernambucano;2005;7285318.8;0.146123629
+Pernambuco;Agreste Pernambucano;2006;8372901.28;0.14928413
+Pernambuco;Agreste Pernambucano;2007;9514656.45;0.136363147
+Pernambuco;Agreste Pernambucano;2008;10904066.03;0.14602835
+Pernambuco;Agreste Pernambucano;2009;11969843.68;0.097741306
+Pernambuco;Agreste Pernambucano;2010;14557465.21;0.21617839
+Pernambuco;Agreste Pernambucano;2011;16662356.68;0.144591894
+Pernambuco;Agreste Pernambucano;2012;19598678.49;0.17622488
+Pernambuco;Agreste Pernambucano;2013;21657551.39;0.105051619
+Pernambuco;Agreste Pernambucano;2014;24350088.0;0.124323224
+Pernambuco;Agreste Pernambucano;2015;24949415.07;0.024612932
+Pernambuco;Agreste Pernambucano;2016;26905287.66;0.078393525
+Pernambuco;Agreste Pernambucano;2017;29692597.54;0.103597104
+Pernambuco;Mata Pernambucana;2002;3711537.41;0
+Pernambuco;Mata Pernambucana;2003;4107547.42;0.106697028
+Pernambuco;Mata Pernambucana;2004;4512604.69;0.098612926
+Pernambuco;Mata Pernambucana;2005;5053651.99;0.119896897
+Pernambuco;Mata Pernambucana;2006;5685140.25;0.124956816
+Pernambuco;Mata Pernambucana;2007;6120996.49;0.076665873
+Pernambuco;Mata Pernambucana;2008;6886975.37;0.125139572
+Pernambuco;Mata Pernambucana;2009;7974833.01;0.157958695
+Pernambuco;Mata Pernambucana;2010;9896289.62;0.240940043
+Pernambuco;Mata Pernambucana;2011;11091648.11;0.120788552
+Pernambuco;Mata Pernambucana;2012;12633892.34;0.139045543
+Pernambuco;Mata Pernambucana;2013;13942993.78;0.10361822
+Pernambuco;Mata Pernambucana;2014;16545758.08;0.18667184
+Pernambuco;Mata Pernambucana;2015;18514106.62;0.118963938
+Pernambuco;Mata Pernambucana;2016;21224097.75;0.146374394
+Pernambuco;Mata Pernambucana;2017;25838069.73;0.21739308
+Pernambuco;Metropolitana de Recife;2002;23325927.98;0
+Pernambuco;Metropolitana de Recife;2003;24620480.02;0.055498415
+Pernambuco;Metropolitana de Recife;2004;28845287.68;0.17159729
+Pernambuco;Metropolitana de Recife;2005;31952368.59;0.107715373
+Pernambuco;Metropolitana de Recife;2006;34861058.02;0.091032044
+Pernambuco;Metropolitana de Recife;2007;39571957.91;0.135133589
+Pernambuco;Metropolitana de Recife;2008;44154710.94;0.115808094
+Pernambuco;Metropolitana de Recife;2009;50411659.1;0.14170511
+Pernambuco;Metropolitana de Recife;2010;60927721.64;0.208603778
+Pernambuco;Metropolitana de Recife;2011;69457545.25;0.139999058
+Pernambuco;Metropolitana de Recife;2012;80914192.08;0.164944597
+Pernambuco;Metropolitana de Recife;2013;90014217.66;0.112465136
+Pernambuco;Metropolitana de Recife;2014;96853160.39;0.07597625
+Pernambuco;Metropolitana de Recife;2015;95562446.76;-0.0133265
+Pernambuco;Metropolitana de Recife;2016;100165395.2;0.048166917
+Pernambuco;Metropolitana de Recife;2017;105667101.4;0.054926217
+Alagoas;Sertão Alagoano;2002;888907.82;0
+Alagoas;Sertão Alagoano;2003;853339.33;-0.040013699
+Alagoas;Sertão Alagoano;2004;1046657.5;0.226543138
+Alagoas;Sertão Alagoano;2005;1189559.3;0.136531578
+Alagoas;Sertão Alagoano;2006;1327055.88;0.11558615
+Alagoas;Sertão Alagoano;2007;1497874.43;0.128719938
+Alagoas;Sertão Alagoano;2008;1682214.95;0.123068073
+Alagoas;Sertão Alagoano;2009;1728246.78;0.027363822
+Alagoas;Sertão Alagoano;2010;1893456.91;0.095594062
+Alagoas;Sertão Alagoano;2011;2257982.37;0.192518487
+Alagoas;Sertão Alagoano;2012;2565797.39;0.13632304
+Alagoas;Sertão Alagoano;2013;2819240.32;0.098777453
+Alagoas;Sertão Alagoano;2014;3012297.11;0.068478302
+Alagoas;Sertão Alagoano;2015;3294465.2;0.093672065
+Alagoas;Sertão Alagoano;2016;3442752.02;0.045010893
+Alagoas;Sertão Alagoano;2017;3662152.61;0.063728258
+Alagoas;Agreste Alagoano;2002;1572880.96;0
+Alagoas;Agreste Alagoano;2003;1602477.97;0.018817069
+Alagoas;Agreste Alagoano;2004;1764287.83;0.10097478
+Alagoas;Agreste Alagoano;2005;1982695.22;0.123793514
+Alagoas;Agreste Alagoano;2006;2235175.16;0.127341781
+Alagoas;Agreste Alagoano;2007;2594682.84;0.160840943
+Alagoas;Agreste Alagoano;2008;2983718.85;0.149935863
+Alagoas;Agreste Alagoano;2009;3368691.83;0.129024549
+Alagoas;Agreste Alagoano;2010;3827720.95;0.136263316
+Alagoas;Agreste Alagoano;2011;4301837.16;0.123863839
+Alagoas;Agreste Alagoano;2012;5342746.07;0.241968459
+Alagoas;Agreste Alagoano;2013;5775039.54;0.080912225
+Alagoas;Agreste Alagoano;2014;6460599.26;0.118710827
+Alagoas;Agreste Alagoano;2015;7598188.91;0.176081135
+Alagoas;Agreste Alagoano;2016;7722088.75;0.016306496
+Alagoas;Agreste Alagoano;2017;8367189.75;0.083539703
+Alagoas;Leste Alagoano;2002;9075064.11;0
+Alagoas;Leste Alagoano;2003;10168212.91;0.120456317
+Alagoas;Leste Alagoano;2004;11233962.13;0.104811851
+Alagoas;Leste Alagoano;2005;12312266.93;0.095986152
+Alagoas;Leste Alagoano;2006;13833439.91;0.123549383
+Alagoas;Leste Alagoano;2007;15778708.65;0.140620753
+Alagoas;Leste Alagoano;2008;17596360.8;0.115196509
+Alagoas;Leste Alagoano;2009;19085448.91;0.084624777
+Alagoas;Leste Alagoano;2010;21411860.01;0.121894492
+Alagoas;Leste Alagoano;2011;25097501.21;0.172130828
+Alagoas;Leste Alagoano;2012;26741854.01;0.065518586
+Alagoas;Leste Alagoano;2013;28688249.26;0.072784604
+Alagoas;Leste Alagoano;2014;31502097.64;0.098083656
+Alagoas;Leste Alagoano;2015;35474556.5;0.126101408
+Alagoas;Leste Alagoano;2016;38303900.14;0.079756984
+Alagoas;Leste Alagoano;2017;40814125.81;0.065534467
+Sergipe;Sertão Sergipano;2002;1367412.13;0
+Sergipe;Sertão Sergipano;2003;1645178.57;0.203132935
+Sergipe;Sertão Sergipano;2004;1839046.9;0.117840296
+Sergipe;Sertão Sergipano;2005;1808727.77;-0.016486328
+Sergipe;Sertão Sergipano;2006;1838254.31;0.01632448
+Sergipe;Sertão Sergipano;2007;2093667.14;0.138943142
+Sergipe;Sertão Sergipano;2008;2582691.41;0.233573074
+Sergipe;Sertão Sergipano;2009;2496569.52;-0.033345792
+Sergipe;Sertão Sergipano;2010;3270038.33;0.309812646
+Sergipe;Sertão Sergipano;2011;3222462.86;-0.014548903
+Sergipe;Sertão Sergipano;2012;3575474.54;0.109547168
+Sergipe;Sertão Sergipano;2013;2583244.29;-0.277510087
+Sergipe;Sertão Sergipano;2014;2863619.73;0.108536169
+Sergipe;Sertão Sergipano;2015;3557537.5;0.242321899
+Sergipe;Sertão Sergipano;2016;3581696.88;0.00679104
+Sergipe;Sertão Sergipano;2017;4269932.68;0.192153558
+Sergipe;Agreste Sergipano;2002;1324736.11;0
+Sergipe;Agreste Sergipano;2003;1538633.45;0.161464112
+Sergipe;Agreste Sergipano;2004;1634981.35;0.062619138
+Sergipe;Agreste Sergipano;2005;1766245.87;0.080285026
+Sergipe;Agreste Sergipano;2006;2059577.9;0.166076555
+Sergipe;Agreste Sergipano;2007;2273171.51;0.103707468
+Sergipe;Agreste Sergipano;2008;2687660.13;0.182339352
+Sergipe;Agreste Sergipano;2009;2890375.79;0.075424589
+Sergipe;Agreste Sergipano;2010;3355725.53;0.160999736
+Sergipe;Agreste Sergipano;2011;3716210.39;0.107423821
+Sergipe;Agreste Sergipano;2012;4247302.05;0.142912162
+Sergipe;Agreste Sergipano;2013;4972504.88;0.170744351
+Sergipe;Agreste Sergipano;2014;5321750.97;0.070235444
+Sergipe;Agreste Sergipano;2015;5668385.65;0.065135457
+Sergipe;Agreste Sergipano;2016;5910251.83;0.042669323
+Sergipe;Agreste Sergipano;2017;6536703.33;0.105994045
+Sergipe;Leste Sergipano;2002;7640345.66;0
+Sergipe;Leste Sergipano;2003;8565761.68;0.121122271
+Sergipe;Leste Sergipano;2004;9862229.74;0.151354673
+Sergipe;Leste Sergipano;2005;10855144.86;0.100678563
+Sergipe;Leste Sergipano;2006;12521965.63;0.153551223
+Sergipe;Leste Sergipano;2007;13851611.0;0.106185036
+Sergipe;Leste Sergipano;2008;16148026.46;0.165786886
+Sergipe;Leste Sergipano;2009;16320297.93;0.010668268
+Sergipe;Leste Sergipano;2010;19779129.36;0.211934331
+Sergipe;Leste Sergipano;2011;22169598.6;0.120858163
+Sergipe;Leste Sergipano;2012;25030404.21;0.129041832
+Sergipe;Leste Sergipano;2013;27780236.9;0.1098597
+Sergipe;Leste Sergipano;2014;29287060.8;0.054240859
+Sergipe;Leste Sergipano;2015;29330607.31;0.001486886
+Sergipe;Leste Sergipano;2016;29385489.77;0.001871167
+Sergipe;Leste Sergipano;2017;29897130.01;0.017411323
+Bahia;Extremo Oeste Baiano;2002;3252669.04;0
+Bahia;Extremo Oeste Baiano;2003;4215214.1;0.295924685
+Bahia;Extremo Oeste Baiano;2004;5751516.09;0.364465945
+Bahia;Extremo Oeste Baiano;2005;5285313.36;-0.081057363
+Bahia;Extremo Oeste Baiano;2006;4943127.87;-0.064742706
+Bahia;Extremo Oeste Baiano;2007;6581637.67;0.331472267
+Bahia;Extremo Oeste Baiano;2008;7999888.54;0.215486014
+Bahia;Extremo Oeste Baiano;2009;8115035.08;0.014393518
+Bahia;Extremo Oeste Baiano;2010;7766683.21;-0.042926724
+Bahia;Extremo Oeste Baiano;2011;10218494.85;0.31568323
+Bahia;Extremo Oeste Baiano;2012;13265770.39;0.29821178
+Bahia;Extremo Oeste Baiano;2013;13170080.74;-0.007213275
+Bahia;Extremo Oeste Baiano;2014;15429847.18;0.17158334
+Bahia;Extremo Oeste Baiano;2015;17182843.99;0.113610769
+Bahia;Extremo Oeste Baiano;2016;14496599.99;-0.15633291
+Bahia;Extremo Oeste Baiano;2017;17804016.35;0.228151178
+Bahia;Vale São-Franciscano da Bahia;2002;3352053.43;0
+Bahia;Vale São-Franciscano da Bahia;2003;3652685.7;0.089686002
+Bahia;Vale São-Franciscano da Bahia;2004;3797769.46;0.039719749
+Bahia;Vale São-Franciscano da Bahia;2005;3887202.8;0.023548912
+Bahia;Vale São-Franciscano da Bahia;2006;4469852.47;0.149889188
+Bahia;Vale São-Franciscano da Bahia;2007;5464237.05;0.222464743
+Bahia;Vale São-Franciscano da Bahia;2008;6318895.44;0.156409464
+Bahia;Vale São-Franciscano da Bahia;2009;5938045.06;-0.06027167
+Bahia;Vale São-Franciscano da Bahia;2010;7172320.84;0.207858945
+Bahia;Vale São-Franciscano da Bahia;2011;7510508.74;0.047151809
+Bahia;Vale São-Franciscano da Bahia;2012;8681953.6;0.155974102
+Bahia;Vale São-Franciscano da Bahia;2013;8333984.78;-0.040079553
+Bahia;Vale São-Franciscano da Bahia;2014;9525900.53;0.14301871
+Bahia;Vale São-Franciscano da Bahia;2015;10850314.38;0.139032929
+Bahia;Vale São-Franciscano da Bahia;2016;11668187.16;0.075377796
+Bahia;Vale São-Franciscano da Bahia;2017;13113542.83;0.123871485
+Bahia;Centro Norte Baiano;2002;5755505.3;0
+Bahia;Centro Norte Baiano;2003;6572553.83;0.141959478
+Bahia;Centro Norte Baiano;2004;7370383.13;0.121388021
+Bahia;Centro Norte Baiano;2005;8445593.23;0.145882525
+Bahia;Centro Norte Baiano;2006;9498078.87;0.124619504
+Bahia;Centro Norte Baiano;2007;10740216.35;0.13077776
+Bahia;Centro Norte Baiano;2008;12456346.3;0.159785417
+Bahia;Centro Norte Baiano;2009;14558136.67;0.168732493
+Bahia;Centro Norte Baiano;2010;16764558.84;0.15155938
+Bahia;Centro Norte Baiano;2011;18894502.76;0.127050401
+Bahia;Centro Norte Baiano;2012;20920094.89;0.107205368
+Bahia;Centro Norte Baiano;2013;24535138.4;0.172802443
+Bahia;Centro Norte Baiano;2014;26744115.49;0.090033203
+Bahia;Centro Norte Baiano;2015;28588751.2;0.068973517
+Bahia;Centro Norte Baiano;2016;31502044.76;0.101903491
+Bahia;Centro Norte Baiano;2017;33332700.35;0.058112278
+Bahia;Nordeste Baiano;2002;4051644.81;0
+Bahia;Nordeste Baiano;2003;4409630.74;0.088355704
+Bahia;Nordeste Baiano;2004;4896541.36;0.110419817
+Bahia;Nordeste Baiano;2005;5776778.59;0.179767139
+Bahia;Nordeste Baiano;2006;6640883.19;0.149582434
+Bahia;Nordeste Baiano;2007;7691250.03;0.158166739
+Bahia;Nordeste Baiano;2008;8246068.11;0.072136269
+Bahia;Nordeste Baiano;2009;8629058.55;0.046445219
+Bahia;Nordeste Baiano;2010;10080852.54;0.168244772
+Bahia;Nordeste Baiano;2011;11131940.46;0.104265777
+Bahia;Nordeste Baiano;2012;12354196.18;0.109797184
+Bahia;Nordeste Baiano;2013;14285081.76;0.156293906
+Bahia;Nordeste Baiano;2014;14449578.85;0.011515306
+Bahia;Nordeste Baiano;2015;15588862.83;0.07884548
+Bahia;Nordeste Baiano;2016;16503849.03;0.058694865
+Bahia;Nordeste Baiano;2017;17070456.36;0.034331829
+Bahia;Metropolitana de Salvador;2002;28849285.84;0
+Bahia;Metropolitana de Salvador;2003;33070474.69;0.14631866
+Bahia;Metropolitana de Salvador;2004;38965392.53;0.178253197
+Bahia;Metropolitana de Salvador;2005;45724825.22;0.173472722
+Bahia;Metropolitana de Salvador;2006;48307436.05;0.05648159
+Bahia;Metropolitana de Salvador;2007;54439405.37;0.126936344
+Bahia;Metropolitana de Salvador;2008;59148081.78;0.086493899
+Bahia;Metropolitana de Salvador;2009;70516354.84;0.192200199
+Bahia;Metropolitana de Salvador;2010;77140855.59;0.093942756
+Bahia;Metropolitana de Salvador;2011;79804249.66;0.034526375
+Bahia;Metropolitana de Salvador;2012;83715238.5;0.049007275
+Bahia;Metropolitana de Salvador;2013;95509410.14;0.140884406
+Bahia;Metropolitana de Salvador;2014;105017049.8;0.099546627
+Bahia;Metropolitana de Salvador;2015;115583685.7;0.100618289
+Bahia;Metropolitana de Salvador;2016;124767679.2;0.079457524
+Bahia;Metropolitana de Salvador;2017;126372468.2;0.012862217
+Bahia;Centro Sul Baiano;2002;5842222.4;0
+Bahia;Centro Sul Baiano;2003;6462200.42;0.106120236
+Bahia;Centro Sul Baiano;2004;7267448.97;0.124609034
+Bahia;Centro Sul Baiano;2005;8359218.4;0.150227327
+Bahia;Centro Sul Baiano;2006;9435990.49;0.128812532
+Bahia;Centro Sul Baiano;2007;10427087.52;0.105033704
+Bahia;Centro Sul Baiano;2008;11586714.83;0.111212964
+Bahia;Centro Sul Baiano;2009;13294875.57;0.147424077
+Bahia;Centro Sul Baiano;2010;15415117.17;0.159478108
+Bahia;Centro Sul Baiano;2011;17329577.94;0.124193722
+Bahia;Centro Sul Baiano;2012;18844361.43;0.087410293
+Bahia;Centro Sul Baiano;2013;21403667.17;0.135812813
+Bahia;Centro Sul Baiano;2014;24184192.85;0.129908845
+Bahia;Centro Sul Baiano;2015;26311324.58;0.087955457
+Bahia;Centro Sul Baiano;2016;28281857.66;0.074892964
+Bahia;Centro Sul Baiano;2017;29275513.48;0.035134037
+Bahia;Sul Baiano;2002;7739595.12;0
+Bahia;Sul Baiano;2003;8791467.39;0.135907919
+Bahia;Sul Baiano;2004;9882673.17;0.124121006
+Bahia;Sul Baiano;2005;10812951.03;0.094132209
+Bahia;Sul Baiano;2006;12052433.01;0.11462939
+Bahia;Sul Baiano;2007;13985693.55;0.160404172
+Bahia;Sul Baiano;2008;15911459.64;0.13769543
+Bahia;Sul Baiano;2009;16890974.89;0.061560364
+Bahia;Sul Baiano;2010;20079159.2;0.188750758
+Bahia;Sul Baiano;2011;21713542.49;0.081396998
+Bahia;Sul Baiano;2012;24790915.07;0.141725957
+Bahia;Sul Baiano;2013;27606910.54;0.113589816
+Bahia;Sul Baiano;2014;28579281.5;0.035222013
+Bahia;Sul Baiano;2015;30937906.98;0.082529208
+Bahia;Sul Baiano;2016;31518752.46;0.018774556
+Bahia;Sul Baiano;2017;31692143.25;0.005501195
+Minas Gerais;Noroeste de Minas;2002;1946581.87;0
+Minas Gerais;Noroeste de Minas;2003;2458158.21;0.262807513
+Minas Gerais;Noroeste de Minas;2004;2816065.04;0.145599591
+Minas Gerais;Noroeste de Minas;2005;3122131.03;0.108685696
+Minas Gerais;Noroeste de Minas;2006;3068414.31;-0.017205146
+Minas Gerais;Noroeste de Minas;2007;3546352.79;0.155760739
+Minas Gerais;Noroeste de Minas;2008;4317592.85;0.21747415
+Minas Gerais;Noroeste de Minas;2009;4588977.67;0.062855584
+Minas Gerais;Noroeste de Minas;2010;5700623.48;0.242242584
+Minas Gerais;Noroeste de Minas;2011;7306713.75;0.281739405
+Minas Gerais;Noroeste de Minas;2012;8481246.47;0.160747055
+Minas Gerais;Noroeste de Minas;2013;9286909.85;0.094993511
+Minas Gerais;Noroeste de Minas;2014;9497898.68;0.022718949
+Minas Gerais;Noroeste de Minas;2015;9907193.39;0.043093186
+Minas Gerais;Noroeste de Minas;2016;11748167.19;0.18582193
+Minas Gerais;Noroeste de Minas;2017;11780836.17;0.002780772
+Minas Gerais;Norte de Minas;2002;4925639.92;0
+Minas Gerais;Norte de Minas;2003;5702454.18;0.157708292
+Minas Gerais;Norte de Minas;2004;6663008.24;0.168445731
+Minas Gerais;Norte de Minas;2005;7641482.19;0.146851679
+Minas Gerais;Norte de Minas;2006;8433857.18;0.103693887
+Minas Gerais;Norte de Minas;2007;9685512.69;0.148408431
+Minas Gerais;Norte de Minas;2008;10963946.38;0.131994426
+Minas Gerais;Norte de Minas;2009;11455165.57;0.044803137
+Minas Gerais;Norte de Minas;2010;13261610.16;0.157696943
+Minas Gerais;Norte de Minas;2011;15205872.94;0.14660835
+Minas Gerais;Norte de Minas;2012;18948238.97;0.246113199
+Minas Gerais;Norte de Minas;2013;19128049.0;0.009489538
+Minas Gerais;Norte de Minas;2014;20861547.38;0.09062599
+Minas Gerais;Norte de Minas;2015;21276028.43;0.019868183
+Minas Gerais;Norte de Minas;2016;23687031.8;0.11332018
+Minas Gerais;Norte de Minas;2017;24397466.18;0.029992546
+Minas Gerais;Jequitinhonha;2002;1494961.81;0
+Minas Gerais;Jequitinhonha;2003;1815413.56;0.214354472
+Minas Gerais;Jequitinhonha;2004;1913440.11;0.053996815
+Minas Gerais;Jequitinhonha;2005;2153660.45;0.125543694
+Minas Gerais;Jequitinhonha;2006;2373117.51;0.101899564
+Minas Gerais;Jequitinhonha;2007;2714893.28;0.144019741
+Minas Gerais;Jequitinhonha;2008;3079269.4;0.134213791
+Minas Gerais;Jequitinhonha;2009;3314082.3;0.076256043
+Minas Gerais;Jequitinhonha;2010;3868211.16;0.167204315
+Minas Gerais;Jequitinhonha;2011;4388750.38;0.13456846
+Minas Gerais;Jequitinhonha;2012;4928430.17;0.122968896
+Minas Gerais;Jequitinhonha;2013;5564605.46;0.129082744
+Minas Gerais;Jequitinhonha;2014;6482145.05;0.164888526
+Minas Gerais;Jequitinhonha;2015;6962604.67;0.074120467
+Minas Gerais;Jequitinhonha;2016;6923692.45;-0.005588745
+Minas Gerais;Jequitinhonha;2017;7396707.77;0.068318361
+Minas Gerais;Vale do Mucuri;2002;1139635.89;0
+Minas Gerais;Vale do Mucuri;2003;1276063.37;0.119711463
+Minas Gerais;Vale do Mucuri;2004;1422369.54;0.114654314
+Minas Gerais;Vale do Mucuri;2005;1624241.39;0.141926443
+Minas Gerais;Vale do Mucuri;2006;1833680.14;0.128945581
+Minas Gerais;Vale do Mucuri;2007;2051080.29;0.118559472
+Minas Gerais;Vale do Mucuri;2008;2420585.66;0.180151587
+Minas Gerais;Vale do Mucuri;2009;2673440.39;0.104460145
+Minas Gerais;Vale do Mucuri;2010;3172354.43;0.186618726
+Minas Gerais;Vale do Mucuri;2011;3400341.15;0.071866724
+Minas Gerais;Vale do Mucuri;2012;3686885.02;0.084269153
+Minas Gerais;Vale do Mucuri;2013;4108173.38;0.114266748
+Minas Gerais;Vale do Mucuri;2014;4518088.19;0.099780309
+Minas Gerais;Vale do Mucuri;2015;4829082.09;0.068833074
+Minas Gerais;Vale do Mucuri;2016;5048017.97;0.045336956
+Minas Gerais;Vale do Mucuri;2017;5039920.3;-0.001604129
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2002;17947436.33;0
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2003;21862672.89;0.218150185
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2004;25800031.28;0.180095014
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2005;27278699.94;0.057312669
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2006;30853192.67;0.131036037
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2007;34219926.57;0.109121086
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2008;40446403.04;0.1819547
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2009;43030611.39;0.063892167
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2010;51462247.61;0.195945071
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2011;57955756.49;0.126180048
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2012;65694547.36;0.133529287
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2013;71658691.78;0.090785988
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2014;78247417.2;0.091945935
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2015;83002153.69;0.060765411
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2016;91388875.1;0.101042214
+Minas Gerais;Triângulo Mineiro/Alto Paranaíba;2017;94203821.51;0.03080185
+Minas Gerais;Central Mineira;2002;2105118.94;0
+Minas Gerais;Central Mineira;2003;2469695.69;0.17318582
+Minas Gerais;Central Mineira;2004;3067255.36;0.241956802
+Minas Gerais;Central Mineira;2005;3345778.88;0.090805455
+Minas Gerais;Central Mineira;2006;4007360.86;0.197736313
+Minas Gerais;Central Mineira;2007;4372741.28;0.091177319
+Minas Gerais;Central Mineira;2008;4457020.65;0.019273807
+Minas Gerais;Central Mineira;2009;4731768.84;0.061643912
+Minas Gerais;Central Mineira;2010;5426710.02;0.146867103
+Minas Gerais;Central Mineira;2011;6000118.55;0.105664118
+Minas Gerais;Central Mineira;2012;6693733.24;0.115600164
+Minas Gerais;Central Mineira;2013;7718889.07;0.153151581
+Minas Gerais;Central Mineira;2014;8243774.05;0.068000068
+Minas Gerais;Central Mineira;2015;9027410.59;0.095057984
+Minas Gerais;Central Mineira;2016;9538466.11;0.056611529
+Minas Gerais;Central Mineira;2017;10247989.01;0.07438543
+Minas Gerais;Metropolitana de Belo Horizonte;2002;52374015.29;0
+Minas Gerais;Metropolitana de Belo Horizonte;2003;60795283.59;0.160790962
+Minas Gerais;Metropolitana de Belo Horizonte;2004;71802492.26;0.181053661
+Minas Gerais;Metropolitana de Belo Horizonte;2005;80335005.86;0.118833112
+Minas Gerais;Metropolitana de Belo Horizonte;2006;90914532.86;0.131692615
+Minas Gerais;Metropolitana de Belo Horizonte;2007;105126590.4;0.156323275
+Minas Gerais;Metropolitana de Belo Horizonte;2008;124733450.5;0.186507144
+Minas Gerais;Metropolitana de Belo Horizonte;2009;127738997.9;0.024095761
+Minas Gerais;Metropolitana de Belo Horizonte;2010;160497850.2;0.256451458
+Minas Gerais;Metropolitana de Belo Horizonte;2011;182774152.2;0.138795018
+Minas Gerais;Metropolitana de Belo Horizonte;2012;199649078.9;0.092326658
+Minas Gerais;Metropolitana de Belo Horizonte;2013;222833072.3;0.116123718
+Minas Gerais;Metropolitana de Belo Horizonte;2014;228301469.7;0.024540331
+Minas Gerais;Metropolitana de Belo Horizonte;2015;216830135.5;-0.050246432
+Minas Gerais;Metropolitana de Belo Horizonte;2016;217498198.4;0.003081043
+Minas Gerais;Metropolitana de Belo Horizonte;2017;231185085.5;0.062928738
+Minas Gerais;Vale do Rio Doce;2002;9204001.35;0
+Minas Gerais;Vale do Rio Doce;2003;10563566.54;0.14771458
+Minas Gerais;Vale do Rio Doce;2004;13497805.95;0.277769766
+Minas Gerais;Vale do Rio Doce;2005;14088277.05;0.04374571
+Minas Gerais;Vale do Rio Doce;2006;15696762.04;0.114171874
+Minas Gerais;Vale do Rio Doce;2007;17955665.29;0.143908868
+Minas Gerais;Vale do Rio Doce;2008;19583084.91;0.09063544
+Minas Gerais;Vale do Rio Doce;2009;18483190.55;-0.056165531
+Minas Gerais;Vale do Rio Doce;2010;21285723.41;0.151626033
+Minas Gerais;Vale do Rio Doce;2011;23124454.07;0.086383283
+Minas Gerais;Vale do Rio Doce;2012;25027755.85;0.082306885
+Minas Gerais;Vale do Rio Doce;2013;27916132.86;0.115406952
+Minas Gerais;Vale do Rio Doce;2014;29155982.2;0.044413363
+Minas Gerais;Vale do Rio Doce;2015;29885562.97;0.025023365
+Minas Gerais;Vale do Rio Doce;2016;30857242.29;0.032513335
+Minas Gerais;Vale do Rio Doce;2017;33516539.32;0.086180645
+Minas Gerais;Oeste de Minas;2002;4765784.7;0
+Minas Gerais;Oeste de Minas;2003;5572860.01;0.169347833
+Minas Gerais;Oeste de Minas;2004;6909127.02;0.239781191
+Minas Gerais;Oeste de Minas;2005;7587634.79;0.098204559
+Minas Gerais;Oeste de Minas;2006;8605717.08;0.134176501
+Minas Gerais;Oeste de Minas;2007;9428065.6;0.095558396
+Minas Gerais;Oeste de Minas;2008;10882886.7;0.154307486
+Minas Gerais;Oeste de Minas;2009;10947750.26;0.005960143
+Minas Gerais;Oeste de Minas;2010;13165917.97;0.202614022
+Minas Gerais;Oeste de Minas;2011;15859980.03;0.204623944
+Minas Gerais;Oeste de Minas;2012;17510506.41;0.104068629
+Minas Gerais;Oeste de Minas;2013;19551718.19;0.116570688
+Minas Gerais;Oeste de Minas;2014;21254186.38;0.087075119
+Minas Gerais;Oeste de Minas;2015;21819462.81;0.026596004
+Minas Gerais;Oeste de Minas;2016;23691487.9;0.085796113
+Minas Gerais;Oeste de Minas;2017;25484912.11;0.075699096
+Minas Gerais;Sul/Sudoeste de Minas;2002;15050055.15;0
+Minas Gerais;Sul/Sudoeste de Minas;2003;16713172.04;0.110505701
+Minas Gerais;Sul/Sudoeste de Minas;2004;20446029.62;0.223348241
+Minas Gerais;Sul/Sudoeste de Minas;2005;22115738.4;0.081664206
+Minas Gerais;Sul/Sudoeste de Minas;2006;25466893.79;0.151528081
+Minas Gerais;Sul/Sudoeste de Minas;2007;27369926.11;0.074725734
+Minas Gerais;Sul/Sudoeste de Minas;2008;30726903.06;0.122652028
+Minas Gerais;Sul/Sudoeste de Minas;2009;31987770.65;0.041034646
+Minas Gerais;Sul/Sudoeste de Minas;2010;39023958.8;0.219964943
+Minas Gerais;Sul/Sudoeste de Minas;2011;45597529.3;0.168449606
+Minas Gerais;Sul/Sudoeste de Minas;2012;49680655.69;0.089547097
+Minas Gerais;Sul/Sudoeste de Minas;2013;53943034.47;0.085795542
+Minas Gerais;Sul/Sudoeste de Minas;2014;60476313.97;0.121114423
+Minas Gerais;Sul/Sudoeste de Minas;2015;63741049.47;0.053983705
+Minas Gerais;Sul/Sudoeste de Minas;2016;69170560.33;0.085180757
+Minas Gerais;Sul/Sudoeste de Minas;2017;74197546.85;0.072675232
+Minas Gerais;Campo das Vertentes;2002;2770095.06;0
+Minas Gerais;Campo das Vertentes;2003;3209351.23;0.158570793
+Minas Gerais;Campo das Vertentes;2004;3795833.73;0.182741762
+Minas Gerais;Campo das Vertentes;2005;3984100.62;0.049598297
+Minas Gerais;Campo das Vertentes;2006;4335591.94;0.088223505
+Minas Gerais;Campo das Vertentes;2007;4764047.9;0.098822944
+Minas Gerais;Campo das Vertentes;2008;5440477.46;0.141986305
+Minas Gerais;Campo das Vertentes;2009;5701351.32;0.047950545
+Minas Gerais;Campo das Vertentes;2010;6831877.3;0.198290882
+Minas Gerais;Campo das Vertentes;2011;7772436.13;0.137672091
+Minas Gerais;Campo das Vertentes;2012;8501599.65;0.093814025
+Minas Gerais;Campo das Vertentes;2013;9621560.58;0.131735318
+Minas Gerais;Campo das Vertentes;2014;10011861.99;0.040565292
+Minas Gerais;Campo das Vertentes;2015;10314331.48;0.030211113
+Minas Gerais;Campo das Vertentes;2016;11407435.93;0.105979186
+Minas Gerais;Campo das Vertentes;2017;11858454.29;0.039537225
+Minas Gerais;Zona da Mata;2002;10347740.11;0
+Minas Gerais;Zona da Mata;2003;11750402.55;0.135552539
+Minas Gerais;Zona da Mata;2004;13737475.68;0.169106813
+Minas Gerais;Zona da Mata;2005;15087684.99;0.098286566
+Minas Gerais;Zona da Mata;2006;17070426.81;0.131414582
+Minas Gerais;Zona da Mata;2007;19120436.45;0.120091294
+Minas Gerais;Zona da Mata;2008;21555998.74;0.127380057
+Minas Gerais;Zona da Mata;2009;22790741.23;0.05728069
+Minas Gerais;Zona da Mata;2010;27426333.2;0.203398034
+Minas Gerais;Zona da Mata;2011;30738582.08;0.120768929
+Minas Gerais;Zona da Mata;2012;33480152.18;0.089189869
+Minas Gerais;Zona da Mata;2013;36674066.11;0.095397235
+Minas Gerais;Zona da Mata;2014;39583299.32;0.079326716
+Minas Gerais;Zona da Mata;2015;41736198.08;0.054389068
+Minas Gerais;Zona da Mata;2016;43851292.94;0.050677708
+Minas Gerais;Zona da Mata;2017;46889771.56;0.069290514
+Espírito Santo;Noroeste Espírito-santense;2002;1731278.9;0
+Espírito Santo;Noroeste Espírito-santense;2003;1990146.62;0.149523985
+Espírito Santo;Noroeste Espírito-santense;2004;2343577.09;0.177590167
+Espírito Santo;Noroeste Espírito-santense;2005;2825210.99;0.205512292
+Espírito Santo;Noroeste Espírito-santense;2006;3325791.18;0.177183294
+Espírito Santo;Noroeste Espírito-santense;2007;3588537.89;0.079002768
+Espírito Santo;Noroeste Espírito-santense;2008;3938186.51;0.097434841
+Espírito Santo;Noroeste Espírito-santense;2009;4295826.25;0.090813307
+Espírito Santo;Noroeste Espírito-santense;2010;5057570.19;0.177321869
+Espírito Santo;Noroeste Espírito-santense;2011;5950035.98;0.176461375
+Espírito Santo;Noroeste Espírito-santense;2012;6847428.94;0.150821434
+Espírito Santo;Noroeste Espírito-santense;2013;6914206.17;0.009752161
+Espírito Santo;Noroeste Espírito-santense;2014;8020147.7;0.159952061
+Espírito Santo;Noroeste Espírito-santense;2015;8484884.75;0.057946196
+Espírito Santo;Noroeste Espírito-santense;2016;8622469.65;0.016215294
+Espírito Santo;Noroeste Espírito-santense;2017;8693471.12;0.00823447
+Espírito Santo;Litoral Norte Espírito-santense;2002;3947292.57;0
+Espírito Santo;Litoral Norte Espírito-santense;2003;4839404.57;0.22600605
+Espírito Santo;Litoral Norte Espírito-santense;2004;5366745.14;0.108968069
+Espírito Santo;Litoral Norte Espírito-santense;2005;6572411.96;0.224655129
+Espírito Santo;Litoral Norte Espírito-santense;2006;8625754.43;0.312418406
+Espírito Santo;Litoral Norte Espírito-santense;2007;9634766.82;0.116976712
+Espírito Santo;Litoral Norte Espírito-santense;2008;11778891.42;0.222540373
+Espírito Santo;Litoral Norte Espírito-santense;2009;10122250.67;-0.140644878
+Espírito Santo;Litoral Norte Espírito-santense;2010;11774354.23;0.163215041
+Espírito Santo;Litoral Norte Espírito-santense;2011;14713381.71;0.249612626
+Espírito Santo;Litoral Norte Espírito-santense;2012;15423565.29;0.048267869
+Espírito Santo;Litoral Norte Espírito-santense;2013;16025169.26;0.039005506
+Espírito Santo;Litoral Norte Espírito-santense;2014;16282453.65;0.016055019
+Espírito Santo;Litoral Norte Espírito-santense;2015;16899226.76;0.037879617
+Espírito Santo;Litoral Norte Espírito-santense;2016;15859269.33;-0.061538758
+Espírito Santo;Litoral Norte Espírito-santense;2017;16878440.96;0.064263467
+Espírito Santo;Central Espírito-santense;2002;18771974.04;0
+Espírito Santo;Central Espírito-santense;2003;21417890.18;0.140950341
+Espírito Santo;Central Espírito-santense;2004;28157605.44;0.314676899
+Espírito Santo;Central Espírito-santense;2005;32982320.72;0.171346789
+Espírito Santo;Central Espírito-santense;2006;36541557.48;0.107913472
+Espírito Santo;Central Espírito-santense;2007;40931410.44;0.120133165
+Espírito Santo;Central Espírito-santense;2008;48452527.32;0.183749272
+Espírito Santo;Central Espírito-santense;2009;46886806.74;-0.032314529
+Espírito Santo;Central Espírito-santense;2010;57316274.11;0.222439277
+Espírito Santo;Central Espírito-santense;2011;65344654.29;0.140071564
+Espírito Santo;Central Espírito-santense;2012;69369515.75;0.061594349
+Espírito Santo;Central Espírito-santense;2013;67241047.82;-0.030683044
+Espírito Santo;Central Espírito-santense;2014;74452234.94;0.107243824
+Espírito Santo;Central Espírito-santense;2015;72487197.01;-0.02639327
+Espírito Santo;Central Espírito-santense;2016;69534325.77;-0.040736452
+Espírito Santo;Central Espírito-santense;2017;69570187.64;0.000515743
+Espírito Santo;Sul Espírito-santense;2002;2598451.05;0
+Espírito Santo;Sul Espírito-santense;2003;3271664.42;0.259082568
+Espírito Santo;Sul Espírito-santense;2004;3864710.73;0.181267463
+Espírito Santo;Sul Espírito-santense;2005;4640643.94;0.200773943
+Espírito Santo;Sul Espírito-santense;2006;4970765.37;0.071136988
+Espírito Santo;Sul Espírito-santense;2007;6503679.82;0.308386
+Espírito Santo;Sul Espírito-santense;2008;7921552.85;0.218010891
+Espírito Santo;Sul Espírito-santense;2009;7910477.08;-0.001398182
+Espírito Santo;Sul Espírito-santense;2010;11162086.01;0.411050926
+Espírito Santo;Sul Espírito-santense;2011;19968150.21;0.788926388
+Espírito Santo;Sul Espírito-santense;2012;25210070.57;0.262514069
+Espírito Santo;Sul Espírito-santense;2013;27093923.7;0.074726214
+Espírito Santo;Sul Espírito-santense;2014;30028944.85;0.108327652
+Espírito Santo;Sul Espírito-santense;2015;22494671.4;-0.250900373
+Espírito Santo;Sul Espírito-santense;2016;15248358.34;-0.322134648
+Espírito Santo;Sul Espírito-santense;2017;18209762.85;0.194211366
+Rio de Janeiro;Noroeste Fluminense;2002;1773712.31;0
+Rio de Janeiro;Noroeste Fluminense;2003;1977204.38;0.114726649
+Rio de Janeiro;Noroeste Fluminense;2004;2176413.1;0.10075272
+Rio de Janeiro;Noroeste Fluminense;2005;2621261.97;0.20439542
+Rio de Janeiro;Noroeste Fluminense;2006;2799294.69;0.067918706
+Rio de Janeiro;Noroeste Fluminense;2007;2752676.53;-0.016653538
+Rio de Janeiro;Noroeste Fluminense;2008;3507803.72;0.27432471
+Rio de Janeiro;Noroeste Fluminense;2009;3645249.77;0.039182936
+Rio de Janeiro;Noroeste Fluminense;2010;3934116.7;0.079244756
+Rio de Janeiro;Noroeste Fluminense;2011;4474693.21;0.13740734
+Rio de Janeiro;Noroeste Fluminense;2012;5052091.67;0.129036435
+Rio de Janeiro;Noroeste Fluminense;2013;5602086.59;0.108864794
+Rio de Janeiro;Noroeste Fluminense;2014;6785228.83;0.211196707
+Rio de Janeiro;Noroeste Fluminense;2015;6779928.03;-0.000781226
+Rio de Janeiro;Noroeste Fluminense;2016;7155270.35;0.055360812
+Rio de Janeiro;Noroeste Fluminense;2017;7348794.63;0.027046397
+Rio de Janeiro;Norte Fluminense;2002;20128394.43;0
+Rio de Janeiro;Norte Fluminense;2003;24256758.45;0.205101506
+Rio de Janeiro;Norte Fluminense;2004;28437133.52;0.17233857
+Rio de Janeiro;Norte Fluminense;2005;39311199.25;0.382389657
+Rio de Janeiro;Norte Fluminense;2006;49237702.09;0.252510812
+Rio de Janeiro;Norte Fluminense;2007;47814386.07;-0.028907036
+Rio de Janeiro;Norte Fluminense;2008;70579200.11;0.476108048
+Rio de Janeiro;Norte Fluminense;2009;52019452.97;-0.26296341
+Rio de Janeiro;Norte Fluminense;2010;63956725.11;0.229477079
+Rio de Janeiro;Norte Fluminense;2011;81431966.25;0.273235396
+Rio de Janeiro;Norte Fluminense;2012;92162702.14;0.131775473
+Rio de Janeiro;Norte Fluminense;2013;92870558.97;0.007680513
+Rio de Janeiro;Norte Fluminense;2014;95977870.51;0.033458521
+Rio de Janeiro;Norte Fluminense;2015;66329585.09;-0.308907514
+Rio de Janeiro;Norte Fluminense;2016;42383656.56;-0.361014297
+Rio de Janeiro;Norte Fluminense;2017;45210665.69;0.066700454
+Rio de Janeiro;Centro Fluminense;2002;3584169.76;0
+Rio de Janeiro;Centro Fluminense;2003;3932169.02;0.097093409
+Rio de Janeiro;Centro Fluminense;2004;4322159.67;0.099179524
+Rio de Janeiro;Centro Fluminense;2005;4345480.49;0.005395641
+Rio de Janeiro;Centro Fluminense;2006;4912203.67;0.13041669
+Rio de Janeiro;Centro Fluminense;2007;5376695.69;0.094558787
+Rio de Janeiro;Centro Fluminense;2008;6492673.37;0.207558275
+Rio de Janeiro;Centro Fluminense;2009;7477644.19;0.15170497
+Rio de Janeiro;Centro Fluminense;2010;8641599.47;0.155658019
+Rio de Janeiro;Centro Fluminense;2011;9064383.49;0.048924279
+Rio de Janeiro;Centro Fluminense;2012;10459931.31;0.153959486
+Rio de Janeiro;Centro Fluminense;2013;11591480.96;0.108179453
+Rio de Janeiro;Centro Fluminense;2014;12873744.86;0.110621232
+Rio de Janeiro;Centro Fluminense;2015;13903323.07;0.079975036
+Rio de Janeiro;Centro Fluminense;2016;14492869.32;0.042403262
+Rio de Janeiro;Centro Fluminense;2017;14535316.55;0.002928835
+Rio de Janeiro;Baixadas;2002;9496914.39;0
+Rio de Janeiro;Baixadas;2003;10853111.2;0.142803942
+Rio de Janeiro;Baixadas;2004;12887295.2;0.187428652
+Rio de Janeiro;Baixadas;2005;20929338.82;0.62402882
+Rio de Janeiro;Baixadas;2006;25827467.57;0.2340317
+Rio de Janeiro;Baixadas;2007;23428685.39;-0.092877173
+Rio de Janeiro;Baixadas;2008;28875698.11;0.232493314
+Rio de Janeiro;Baixadas;2009;22345567.0;-0.226146259
+Rio de Janeiro;Baixadas;2010;26814899.52;0.200009806
+Rio de Janeiro;Baixadas;2011;35746058.99;0.33306705
+Rio de Janeiro;Baixadas;2012;45759714.79;0.280133141
+Rio de Janeiro;Baixadas;2013;46291119.75;0.011612943
+Rio de Janeiro;Baixadas;2014;46724634.52;0.009364966
+Rio de Janeiro;Baixadas;2015;31465940.25;-0.32656637
+Rio de Janeiro;Baixadas;2016;22903892.48;-0.272105257
+Rio de Janeiro;Baixadas;2017;25675104.78;0.120993071
+Rio de Janeiro;Sul Fluminense;2002;13411293.76;0
+Rio de Janeiro;Sul Fluminense;2003;15299732.13;0.14080956
+Rio de Janeiro;Sul Fluminense;2004;20242364.64;0.323053532
+Rio de Janeiro;Sul Fluminense;2005;19166178.13;-0.053165059
+Rio de Janeiro;Sul Fluminense;2006;20386951.25;0.063694134
+Rio de Janeiro;Sul Fluminense;2007;23640730.95;0.159601093
+Rio de Janeiro;Sul Fluminense;2008;30209453.68;0.27785616
+Rio de Janeiro;Sul Fluminense;2009;29722137.37;-0.016131252
+Rio de Janeiro;Sul Fluminense;2010;37220654.25;0.252287269
+Rio de Janeiro;Sul Fluminense;2011;38826097.82;0.043133137
+Rio de Janeiro;Sul Fluminense;2012;42336751.17;0.090419938
+Rio de Janeiro;Sul Fluminense;2013;46839632.23;0.106358682
+Rio de Janeiro;Sul Fluminense;2014;47578960.93;0.015784255
+Rio de Janeiro;Sul Fluminense;2015;44835330.32;-0.057664786
+Rio de Janeiro;Sul Fluminense;2016;45465519.02;0.014055627
+Rio de Janeiro;Sul Fluminense;2017;50164358.97;0.103349528
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2002;135916430.6;0
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2003;146321813.4;0.076557211
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2004;173141372.1;0.183291596
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2005;183456602.3;0.059576923
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2006;196574563.7;0.071504439
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2007;220685110.9;0.122653444
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2008;238620971.3;0.081273541
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2009;276440803.0;0.158493327
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2010;309290106.1;0.11882943
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2011;343224705.0;0.109717699
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2012;379113782.1;0.104564376
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2013;425031190.9;0.121117751
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2014;461136404.7;0.08494721
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2015;495824845.1;0.075223817
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2016;507999998.7;0.024555352
+Rio de Janeiro;Metropolitana do Rio de Janeiro;2017;528428123.3;0.040212844
+São Paulo;São José do Rio Preto;2002;13230528.83;0
+São Paulo;São José do Rio Preto;2003;14819190.22;0.120075426
+São Paulo;São José do Rio Preto;2004;15143469.22;0.02188237
+São Paulo;São José do Rio Preto;2005;17277621.38;0.14092888
+São Paulo;São José do Rio Preto;2006;19566649.57;0.132485146
+São Paulo;São José do Rio Preto;2007;21581247.41;0.102960797
+São Paulo;São José do Rio Preto;2008;23822203.23;0.103838104
+São Paulo;São José do Rio Preto;2009;26949991.09;0.13129717
+São Paulo;São José do Rio Preto;2010;30532917.3;0.132947213
+São Paulo;São José do Rio Preto;2011;34175128.98;0.119288034
+São Paulo;São José do Rio Preto;2012;37999612.31;0.11190838
+São Paulo;São José do Rio Preto;2013;42751954.32;0.125062908
+São Paulo;São José do Rio Preto;2014;45170245.29;0.056565624
+São Paulo;São José do Rio Preto;2015;49487527.52;0.095578012
+São Paulo;São José do Rio Preto;2016;50630455.87;0.023095281
+São Paulo;São José do Rio Preto;2017;54882526.3;0.083982464
+São Paulo;Ribeirão Preto;2002;22825313.96;0
+São Paulo;Ribeirão Preto;2003;25756569.27;0.128421248
+São Paulo;Ribeirão Preto;2004;27493655.5;0.067442454
+São Paulo;Ribeirão Preto;2005;31122946.16;0.13200466
+São Paulo;Ribeirão Preto;2006;35957575.24;0.155339699
+São Paulo;Ribeirão Preto;2007;38862358.32;0.08078362
+São Paulo;Ribeirão Preto;2008;41948891.79;0.079422186
+São Paulo;Ribeirão Preto;2009;46383974.31;0.105725857
+São Paulo;Ribeirão Preto;2010;53174232.32;0.146392329
+São Paulo;Ribeirão Preto;2011;59181620.34;0.112975548
+São Paulo;Ribeirão Preto;2012;65225910.38;0.102131202
+São Paulo;Ribeirão Preto;2013;71952648.24;0.103129842
+São Paulo;Ribeirão Preto;2014;78817657.52;0.095410099
+São Paulo;Ribeirão Preto;2015;83598846.18;0.06066139
+São Paulo;Ribeirão Preto;2016;91666908.39;0.096509253
+São Paulo;Ribeirão Preto;2017;99387537.69;0.084224825
+São Paulo;Araçatuba;2002;5647312.81;0
+São Paulo;Araçatuba;2003;6274147.69;0.110997018
+São Paulo;Araçatuba;2004;6690662.79;0.066385925
+São Paulo;Araçatuba;2005;7257755.47;0.08475882
+São Paulo;Araçatuba;2006;8298835.11;0.143443747
+São Paulo;Araçatuba;2007;9241404.14;0.113578474
+São Paulo;Araçatuba;2008;10018426.69;0.084080572
+São Paulo;Araçatuba;2009;11575926.19;0.155463482
+São Paulo;Araçatuba;2010;13134340.67;0.134625468
+São Paulo;Araçatuba;2011;14902107.8;0.134591235
+São Paulo;Araçatuba;2012;16579425.96;0.112555766
+São Paulo;Araçatuba;2013;18213008.41;0.0985307
+São Paulo;Araçatuba;2014;19036613.26;0.045220692
+São Paulo;Araçatuba;2015;22259068.98;0.169276734
+São Paulo;Araçatuba;2016;21836415.5;-0.018987923
+São Paulo;Araçatuba;2017;22865240.7;0.047115114
+São Paulo;Bauru;2002;11784255.0;0
+São Paulo;Bauru;2003;13439967.21;0.140502069
+São Paulo;Bauru;2004;14838592.18;0.104064612
+São Paulo;Bauru;2005;17211209.84;0.159895065
+São Paulo;Bauru;2006;19655653.06;0.142026228
+São Paulo;Bauru;2007;22015955.48;0.120082625
+São Paulo;Bauru;2008;23964313.95;0.088497566
+São Paulo;Bauru;2009;27389530.89;0.142929898
+São Paulo;Bauru;2010;31453300.83;0.148369461
+São Paulo;Bauru;2011;35135650.87;0.117073564
+São Paulo;Bauru;2012;37530809.51;0.068168899
+São Paulo;Bauru;2013;41469354.5;0.104941648
+São Paulo;Bauru;2014;44208594.46;0.06605456
+São Paulo;Bauru;2015;49799578.47;0.12646826
+São Paulo;Bauru;2016;49585601.83;-0.004296756
+São Paulo;Bauru;2017;51233906.18;0.033241592
+São Paulo;Araraquara;2002;8416397.61;0
+São Paulo;Araraquara;2003;9872422.06;0.172998534
+São Paulo;Araraquara;2004;10125112.87;0.025595625
+São Paulo;Araraquara;2005;11105717.34;0.096848745
+São Paulo;Araraquara;2006;12486299.63;0.124312752
+São Paulo;Araraquara;2007;13820864.35;0.106882324
+São Paulo;Araraquara;2008;14972006.34;0.083290159
+São Paulo;Araraquara;2009;16580461.53;0.107430838
+São Paulo;Araraquara;2010;19197255.92;0.157823978
+São Paulo;Araraquara;2011;21638821.32;0.127183042
+São Paulo;Araraquara;2012;24196621.4;0.118204224
+São Paulo;Araraquara;2013;26532929.32;0.09655513
+São Paulo;Araraquara;2014;28190007.0;0.062453627
+São Paulo;Araraquara;2015;30006929.04;0.064452699
+São Paulo;Araraquara;2016;32305650.25;0.076606347
+São Paulo;Araraquara;2017;33481146.62;0.036386711
+São Paulo;Piracicaba;2002;15339142.73;0
+São Paulo;Piracicaba;2003;18014217.42;0.174395319
+São Paulo;Piracicaba;2004;20238779.24;0.123489229
+São Paulo;Piracicaba;2005;23302781.61;0.151392647
+São Paulo;Piracicaba;2006;26324330.75;0.129664741
+São Paulo;Piracicaba;2007;30136236.69;0.144805426
+São Paulo;Piracicaba;2008;33240754.2;0.103016098
+São Paulo;Piracicaba;2009;34569928.01;0.039986271
+São Paulo;Piracicaba;2010;39093178.51;0.130843504
+São Paulo;Piracicaba;2011;45032198.37;0.151919595
+São Paulo;Piracicaba;2012;48982427.87;0.087720112
+São Paulo;Piracicaba;2013;56713173.68;0.157826922
+São Paulo;Piracicaba;2014;61946410.47;0.092275506
+São Paulo;Piracicaba;2015;61303060.71;-0.010385586
+São Paulo;Piracicaba;2016;65441764.61;0.06751219
+São Paulo;Piracicaba;2017;67220855.39;0.027185862
+São Paulo;Campinas;2002;50975114.22;0
+São Paulo;Campinas;2003;59762668.87;0.172389112
+São Paulo;Campinas;2004;67866238.27;0.135595842
+São Paulo;Campinas;2005;76736921.37;0.130708336
+São Paulo;Campinas;2006;82698799.14;0.077692428
+São Paulo;Campinas;2007;93596225.48;0.131772486
+São Paulo;Campinas;2008;106109455.7;0.133693748
+São Paulo;Campinas;2009;113911733.4;0.073530466
+São Paulo;Campinas;2010;131695023.7;0.156114649
+São Paulo;Campinas;2011;141479643.4;0.074297566
+São Paulo;Campinas;2012;158779332.8;0.12227688
+São Paulo;Campinas;2013;169841213.8;0.069668267
+São Paulo;Campinas;2014;185437638.2;0.091829445
+São Paulo;Campinas;2015;197848195.5;0.066925773
+São Paulo;Campinas;2016;218953515.2;0.10667431
+São Paulo;Campinas;2017;228289596.2;0.042639557
+São Paulo;Presidente Prudente;2002;6260593.78;0
+São Paulo;Presidente Prudente;2003;6945287.23;0.109365577
+São Paulo;Presidente Prudente;2004;7515466.23;0.082095813
+São Paulo;Presidente Prudente;2005;8427749.09;0.121387394
+São Paulo;Presidente Prudente;2006;9528092.15;0.130561915
+São Paulo;Presidente Prudente;2007;10307471.94;0.081798095
+São Paulo;Presidente Prudente;2008;11402532.51;0.106239491
+São Paulo;Presidente Prudente;2009;13151865.12;0.153416148
+São Paulo;Presidente Prudente;2010;14422093.11;0.096581586
+São Paulo;Presidente Prudente;2011;15856487.76;0.099458147
+São Paulo;Presidente Prudente;2012;17773885.1;0.120921945
+São Paulo;Presidente Prudente;2013;19941880.82;0.121976468
+São Paulo;Presidente Prudente;2014;20909549.54;0.048524446
+São Paulo;Presidente Prudente;2015;24389719.02;0.166439237
+São Paulo;Presidente Prudente;2016;24408387.47;0.000765423
+São Paulo;Presidente Prudente;2017;24699150.91;0.01191244
+São Paulo;Marília;2002;3690204.31;0
+São Paulo;Marília;2003;4274906.64;0.158447143
+São Paulo;Marília;2004;4633747.4;0.083941192
+São Paulo;Marília;2005;4744430.09;0.023886216
+São Paulo;Marília;2006;5142521.32;0.08390707
+São Paulo;Marília;2007;5935291.12;0.15415975
+São Paulo;Marília;2008;6698845.94;0.128646566
+São Paulo;Marília;2009;7524371.8;0.123234042
+São Paulo;Marília;2010;8458163.26;0.124102249
+São Paulo;Marília;2011;9347150.29;0.105104028
+São Paulo;Marília;2012;10625846.53;0.136800651
+São Paulo;Marília;2013;12008953.18;0.130164373
+São Paulo;Marília;2014;12475219.23;0.038826536
+São Paulo;Marília;2015;13136884.36;0.053038357
+São Paulo;Marília;2016;13640775.79;0.038356997
+São Paulo;Marília;2017;14531061.79;0.065266522
+São Paulo;Assis;2002;4695906.41;0
+São Paulo;Assis;2003;5346212.16;0.138483541
+São Paulo;Assis;2004;5403637.64;0.01074134
+São Paulo;Assis;2005;5761894.36;0.066299175
+São Paulo;Assis;2006;6437192.2;0.117200663
+São Paulo;Assis;2007;6772659.09;0.052113853
+São Paulo;Assis;2008;7493555.56;0.106442161
+São Paulo;Assis;2009;8337992.28;0.112688391
+São Paulo;Assis;2010;9510568.53;0.140630527
+São Paulo;Assis;2011;10723969.26;0.127584458
+São Paulo;Assis;2012;12104792.57;0.128760469
+São Paulo;Assis;2013;13476321.12;0.113304589
+São Paulo;Assis;2014;14728932.44;0.092949056
+São Paulo;Assis;2015;15419607.58;0.04689241
+São Paulo;Assis;2016;16870102.78;0.09406823
+São Paulo;Assis;2017;17967348.29;0.065040831
+São Paulo;Itapetininga;2002;5497353.0;0
+São Paulo;Itapetininga;2003;6541536.19;0.189942903
+São Paulo;Itapetininga;2004;7356670.83;0.124609055
+São Paulo;Itapetininga;2005;8233450.04;0.11918152
+São Paulo;Itapetininga;2006;9004052.45;0.093594108
+São Paulo;Itapetininga;2007;10422429.89;0.157526563
+São Paulo;Itapetininga;2008;11416438.46;0.095372056
+São Paulo;Itapetininga;2009;13127506.31;0.149877552
+São Paulo;Itapetininga;2010;13903987.51;0.059149177
+São Paulo;Itapetininga;2011;15890475.87;0.142871846
+São Paulo;Itapetininga;2012;17279292.2;0.087399291
+São Paulo;Itapetininga;2013;19454552.25;0.125888261
+São Paulo;Itapetininga;2014;22065504.11;0.134207759
+São Paulo;Itapetininga;2015;23071425.57;0.045587966
+São Paulo;Itapetininga;2016;24343569.81;0.055139386
+São Paulo;Itapetininga;2017;24657042.78;0.012877034
+São Paulo;Macro Metropolitana Paulista;2002;29560744.66;0
+São Paulo;Macro Metropolitana Paulista;2003;34914396.4;0.181106796
+São Paulo;Macro Metropolitana Paulista;2004;41218007.35;0.180544749
+São Paulo;Macro Metropolitana Paulista;2005;46058803.7;0.117443726
+São Paulo;Macro Metropolitana Paulista;2006;52338603.35;0.136343091
+São Paulo;Macro Metropolitana Paulista;2007;62942971.77;0.202610841
+São Paulo;Macro Metropolitana Paulista;2008;70338703.44;0.117498927
+São Paulo;Macro Metropolitana Paulista;2009;74063197.65;0.052950851
+São Paulo;Macro Metropolitana Paulista;2010;87742650.39;0.184699732
+São Paulo;Macro Metropolitana Paulista;2011;101284647.4;0.154337679
+São Paulo;Macro Metropolitana Paulista;2012;113363358.7;0.119255105
+São Paulo;Macro Metropolitana Paulista;2013;127960952.2;0.128768181
+São Paulo;Macro Metropolitana Paulista;2014;142958679.9;0.117205502
+São Paulo;Macro Metropolitana Paulista;2015;146313737.3;0.023468721
+São Paulo;Macro Metropolitana Paulista;2016;151416202.3;0.034873451
+São Paulo;Macro Metropolitana Paulista;2017;160159104.9;0.057740866
+São Paulo;Vale do Paraíba Paulista;2002;29500923.55;0
+São Paulo;Vale do Paraíba Paulista;2003;34747649.62;0.177849553
+São Paulo;Vale do Paraíba Paulista;2004;40145421.75;0.155342079
+São Paulo;Vale do Paraíba Paulista;2005;42521119.33;0.059177298
+São Paulo;Vale do Paraíba Paulista;2006;46007414.03;0.081989721
+São Paulo;Vale do Paraíba Paulista;2007;52528227.62;0.141733973
+São Paulo;Vale do Paraíba Paulista;2008;59760270.49;0.137679172
+São Paulo;Vale do Paraíba Paulista;2009;62215157.87;0.04107892
+São Paulo;Vale do Paraíba Paulista;2010;67986370.21;0.092762159
+São Paulo;Vale do Paraíba Paulista;2011;72244493.44;0.062632013
+São Paulo;Vale do Paraíba Paulista;2012;76989945.56;0.065686004
+São Paulo;Vale do Paraíba Paulista;2013;86603171.31;0.124863392
+São Paulo;Vale do Paraíba Paulista;2014;95839313.58;0.106649008
+São Paulo;Vale do Paraíba Paulista;2015;97869235.0;0.021180467
+São Paulo;Vale do Paraíba Paulista;2016;104243433.1;0.065129743
+São Paulo;Vale do Paraíba Paulista;2017;110290854.4;0.058012492
+São Paulo;Litoral Sul Paulista;2002;2557242.82;0
+São Paulo;Litoral Sul Paulista;2003;2762977.45;0.080451738
+São Paulo;Litoral Sul Paulista;2004;3155520.65;0.142072531
+São Paulo;Litoral Sul Paulista;2005;3484057.07;0.104114806
+São Paulo;Litoral Sul Paulista;2006;3755691.4;0.077964948
+São Paulo;Litoral Sul Paulista;2007;3880174.32;0.033145141
+São Paulo;Litoral Sul Paulista;2008;4455174.99;0.148189391
+São Paulo;Litoral Sul Paulista;2009;4907775.82;0.101589911
+São Paulo;Litoral Sul Paulista;2010;6290141.51;0.281668467
+São Paulo;Litoral Sul Paulista;2011;7796635.09;0.239500745
+São Paulo;Litoral Sul Paulista;2012;9845242.4;0.262755315
+São Paulo;Litoral Sul Paulista;2013;11707401.92;0.189143085
+São Paulo;Litoral Sul Paulista;2014;14650774.84;0.251411282
+São Paulo;Litoral Sul Paulista;2015;11852040.61;-0.191029776
+São Paulo;Litoral Sul Paulista;2016;11127861.55;-0.061101635
+São Paulo;Litoral Sul Paulista;2017;12659433.2;0.13763396
+São Paulo;Metropolitana de São Paulo;2002;308897781.5;0
+São Paulo;Metropolitana de São Paulo;2003;347981883.2;0.126527622
+São Paulo;Metropolitana de São Paulo;2004;381130575.6;0.095259822
+São Paulo;Metropolitana de São Paulo;2005;439796487.6;0.153926018
+São Paulo;Metropolitana de São Paulo;2006;487327589.7;0.10807522
+São Paulo;Metropolitana de São Paulo;2007;553609662.4;0.136011328
+São Paulo;Metropolitana de São Paulo;2008;616868594.7;0.114266308
+São Paulo;Metropolitana de São Paulo;2009;666404413.9;0.08030206
+São Paulo;Metropolitana de São Paulo;2010;768101764.7;0.152606058
+São Paulo;Metropolitana de São Paulo;2011;851983678.9;0.109206772
+São Paulo;Metropolitana de São Paulo;2012;911756940.4;0.070157754
+São Paulo;Metropolitana de São Paulo;2013;996610901.5;0.093066427
+São Paulo;Metropolitana de São Paulo;2014;1071760916.0;0.075405571
+São Paulo;Metropolitana de São Paulo;2015;1113546051.0;0.038987366
+São Paulo;Metropolitana de São Paulo;2016;1162286737.0;0.043770696
+São Paulo;Metropolitana de São Paulo;2017;1197529230.0;0.030321686
+Paraná;Noroeste Paranaense;2002;3548583.08;0
+Paraná;Noroeste Paranaense;2003;4575555.85;0.289403615
+Paraná;Noroeste Paranaense;2004;4948956.89;0.081607799
+Paraná;Noroeste Paranaense;2005;5087769.03;0.028048767
+Paraná;Noroeste Paranaense;2006;5518308.78;0.084622503
+Paraná;Noroeste Paranaense;2007;6310718.31;0.143596446
+Paraná;Noroeste Paranaense;2008;7206613.95;0.141964131
+Paraná;Noroeste Paranaense;2009;8021592.13;0.113087531
+Paraná;Noroeste Paranaense;2010;9194897.33;0.146268369
+Paraná;Noroeste Paranaense;2011;10827988.34;0.177608401
+Paraná;Noroeste Paranaense;2012;12599361.35;0.163592068
+Paraná;Noroeste Paranaense;2013;15107920.76;0.199102108
+Paraná;Noroeste Paranaense;2014;16556149.29;0.095858891
+Paraná;Noroeste Paranaense;2015;17830864.53;0.076993461
+Paraná;Noroeste Paranaense;2016;19296626.35;0.082203632
+Paraná;Noroeste Paranaense;2017;21255781.97;0.101528401
+Paraná;Centro Ocidental Paranaense;2002;2487291.55;0
+Paraná;Centro Ocidental Paranaense;2003;3261150.26;0.311125051
+Paraná;Centro Ocidental Paranaense;2004;3395239.6;0.041117192
+Paraná;Centro Ocidental Paranaense;2005;3143487.2;-0.07414864
+Paraná;Centro Ocidental Paranaense;2006;3352003.83;0.066332903
+Paraná;Centro Ocidental Paranaense;2007;3883936.47;0.15869094
+Paraná;Centro Ocidental Paranaense;2008;4917989.68;0.266238446
+Paraná;Centro Ocidental Paranaense;2009;4954969.83;0.007519363
+Paraná;Centro Ocidental Paranaense;2010;5050796.97;0.019339601
+Paraná;Centro Ocidental Paranaense;2011;6101906.2;0.208107599
+Paraná;Centro Ocidental Paranaense;2012;6958786.69;0.140428329
+Paraná;Centro Ocidental Paranaense;2013;8377597.53;0.203887675
+Paraná;Centro Ocidental Paranaense;2014;9175471.73;0.095239023
+Paraná;Centro Ocidental Paranaense;2015;9704782.44;0.057687575
+Paraná;Centro Ocidental Paranaense;2016;10698114.84;0.102354937
+Paraná;Centro Ocidental Paranaense;2017;10811082.45;0.010559581
+Paraná;Norte Central Paranaense;2002;14357432.1;0
+Paraná;Norte Central Paranaense;2003;18204541.01;0.267952436
+Paraná;Norte Central Paranaense;2004;20083089.42;0.103191199
+Paraná;Norte Central Paranaense;2005;20561125.49;0.023802915
+Paraná;Norte Central Paranaense;2006;22389747.5;0.088935891
+Paraná;Norte Central Paranaense;2007;27005269.28;0.206144432
+Paraná;Norte Central Paranaense;2008;29647141.48;0.097828027
+Paraná;Norte Central Paranaense;2009;32822090.62;0.10709124
+Paraná;Norte Central Paranaense;2010;37421976.25;0.140146028
+Paraná;Norte Central Paranaense;2011;43566392.03;0.164192712
+Paraná;Norte Central Paranaense;2012;50717529.7;0.164143445
+Paraná;Norte Central Paranaense;2013;58740456.66;0.158188441
+Paraná;Norte Central Paranaense;2014;61897603.61;0.053747402
+Paraná;Norte Central Paranaense;2015;66725735.05;0.078001912
+Paraná;Norte Central Paranaense;2016;69823979.18;0.046432522
+Paraná;Norte Central Paranaense;2017;73899755.56;0.058372159
+Paraná;Norte Pioneiro Paranaense;2002;3041405.5;0
+Paraná;Norte Pioneiro Paranaense;2003;3849961.72;0.265849529
+Paraná;Norte Pioneiro Paranaense;2004;4220988.23;0.09637148
+Paraná;Norte Pioneiro Paranaense;2005;4128322.12;-0.021953653
+Paraná;Norte Pioneiro Paranaense;2006;4461984.65;0.080822794
+Paraná;Norte Pioneiro Paranaense;2007;5069759.17;0.136211701
+Paraná;Norte Pioneiro Paranaense;2008;5906304.09;0.165006836
+Paraná;Norte Pioneiro Paranaense;2009;6010704.2;0.017676047
+Paraná;Norte Pioneiro Paranaense;2010;6950237.45;0.156310013
+Paraná;Norte Pioneiro Paranaense;2011;8227425.64;0.183761807
+Paraná;Norte Pioneiro Paranaense;2012;9089741.88;0.104809971
+Paraná;Norte Pioneiro Paranaense;2013;10574476.38;0.163341767
+Paraná;Norte Pioneiro Paranaense;2014;10906746.55;0.031421903
+Paraná;Norte Pioneiro Paranaense;2015;12457441.05;0.14217755
+Paraná;Norte Pioneiro Paranaense;2016;13641813.02;0.095073456
+Paraná;Norte Pioneiro Paranaense;2017;14287707.23;0.047346655
+Paraná;Centro Oriental Paranaense;2002;6268957.0;0
+Paraná;Centro Oriental Paranaense;2003;8005410.11;0.276992347
+Paraná;Centro Oriental Paranaense;2004;8982769.18;0.122087321
+Paraná;Centro Oriental Paranaense;2005;9138395.29;0.017324959
+Paraná;Centro Oriental Paranaense;2006;9651970.38;0.056199702
+Paraná;Centro Oriental Paranaense;2007;11294081.9;0.170132259
+Paraná;Centro Oriental Paranaense;2008;12189731.02;0.079302517
+Paraná;Centro Oriental Paranaense;2009;12577398.31;0.031802776
+Paraná;Centro Oriental Paranaense;2010;13945258.42;0.10875541
+Paraná;Centro Oriental Paranaense;2011;16119539.79;0.155915459
+Paraná;Centro Oriental Paranaense;2012;18430899.74;0.143388706
+Paraná;Centro Oriental Paranaense;2013;21337395.02;0.157696874
+Paraná;Centro Oriental Paranaense;2014;23276005.67;0.090855076
+Paraná;Centro Oriental Paranaense;2015;25281544.26;0.086163349
+Paraná;Centro Oriental Paranaense;2016;28150849.8;0.113494077
+Paraná;Centro Oriental Paranaense;2017;31222314.8;0.109107363
+Paraná;Oeste Paranaense;2002;10970107.15;0
+Paraná;Oeste Paranaense;2003;13491980.76;0.22988596
+Paraná;Oeste Paranaense;2004;14375387.12;0.065476402
+Paraná;Oeste Paranaense;2005;14879305.24;0.03505423
+Paraná;Oeste Paranaense;2006;16373805.31;0.100441522
+Paraná;Oeste Paranaense;2007;19387730.0;0.184069899
+Paraná;Oeste Paranaense;2008;21514431.4;0.109693162
+Paraná;Oeste Paranaense;2009;22416671.31;0.041936498
+Paraná;Oeste Paranaense;2010;24238658.22;0.08127821
+Paraná;Oeste Paranaense;2011;28066039.28;0.157903999
+Paraná;Oeste Paranaense;2012;32056781.37;0.142191139
+Paraná;Oeste Paranaense;2013;38768603.26;0.209372919
+Paraná;Oeste Paranaense;2014;41428527.75;0.068610274
+Paraná;Oeste Paranaense;2015;46904180.45;0.132171067
+Paraná;Oeste Paranaense;2016;52550640.91;0.120382883
+Paraná;Oeste Paranaense;2017;53259015.7;0.013479851
+Paraná;Sudoeste Paranaense;2002;3405638.18;0
+Paraná;Sudoeste Paranaense;2003;4389586.69;0.288917512
+Paraná;Sudoeste Paranaense;2004;4844772.88;0.103696822
+Paraná;Sudoeste Paranaense;2005;4802058.27;-0.008816638
+Paraná;Sudoeste Paranaense;2006;4816641.56;0.003036883
+Paraná;Sudoeste Paranaense;2007;6270366.12;0.301812901
+Paraná;Sudoeste Paranaense;2008;7237123.4;0.154178761
+Paraná;Sudoeste Paranaense;2009;7851402.86;0.084878953
+Paraná;Sudoeste Paranaense;2010;8650944.94;0.101834296
+Paraná;Sudoeste Paranaense;2011;9932912.12;0.14818811
+Paraná;Sudoeste Paranaense;2012;11107599.01;0.118262084
+Paraná;Sudoeste Paranaense;2013;13832244.86;0.245295662
+Paraná;Sudoeste Paranaense;2014;14600851.06;0.055566266
+Paraná;Sudoeste Paranaense;2015;15784285.78;0.081052448
+Paraná;Sudoeste Paranaense;2016;18007353.06;0.140840537
+Paraná;Sudoeste Paranaense;2017;18800226.06;0.044030513
+Paraná;Centro-Sul Paranaense;2002;3822328.22;0
+Paraná;Centro-Sul Paranaense;2003;4643538.23;0.214845498
+Paraná;Centro-Sul Paranaense;2004;5320044.73;0.145687721
+Paraná;Centro-Sul Paranaense;2005;5236955.23;-0.015618196
+Paraná;Centro-Sul Paranaense;2006;5155181.02;-0.015614838
+Paraná;Centro-Sul Paranaense;2007;6585005.06;0.277356709
+Paraná;Centro-Sul Paranaense;2008;7217649.09;0.096073431
+Paraná;Centro-Sul Paranaense;2009;7336607.89;0.016481655
+Paraná;Centro-Sul Paranaense;2010;8012965.84;0.092189464
+Paraná;Centro-Sul Paranaense;2011;9105911.92;0.136397197
+Paraná;Centro-Sul Paranaense;2012;10606885.42;0.164835056
+Paraná;Centro-Sul Paranaense;2013;12645893.71;0.192234403
+Paraná;Centro-Sul Paranaense;2014;12735533.33;0.007088437
+Paraná;Centro-Sul Paranaense;2015;14153284.42;0.111322475
+Paraná;Centro-Sul Paranaense;2016;16892094.38;0.193510558
+Paraná;Centro-Sul Paranaense;2017;16695460.58;-0.011640581
+Paraná;Sudeste Paranaense;2002;2305371.98;0
+Paraná;Sudeste Paranaense;2003;2854401.45;0.238152227
+Paraná;Sudeste Paranaense;2004;3247862.9;0.137843768
+Paraná;Sudeste Paranaense;2005;3382586.67;0.041480744
+Paraná;Sudeste Paranaense;2006;3585019.07;0.059845444
+Paraná;Sudeste Paranaense;2007;4090072.59;0.140878894
+Paraná;Sudeste Paranaense;2008;4625764.63;0.130973724
+Paraná;Sudeste Paranaense;2009;4682567.07;0.012279579
+Paraná;Sudeste Paranaense;2010;5531144.19;0.181220495
+Paraná;Sudeste Paranaense;2011;6200624.5;0.121038304
+Paraná;Sudeste Paranaense;2012;7003984.12;0.129561082
+Paraná;Sudeste Paranaense;2013;8550138.26;0.220753519
+Paraná;Sudeste Paranaense;2014;9451578.88;0.105429947
+Paraná;Sudeste Paranaense;2015;10062285.58;0.064614252
+Paraná;Sudeste Paranaense;2016;10794024.01;0.072720897
+Paraná;Sudeste Paranaense;2017;12101346.81;0.121115424
+Paraná;Metropolitana de Curitiba;2002;38028600.23;0
+Paraná;Metropolitana de Curitiba;2003;46763288.31;0.229687341
+Paraná;Metropolitana de Curitiba;2004;54032418.58;0.155445233
+Paraná;Metropolitana de Curitiba;2005;57104502.93;0.056856318
+Paraná;Metropolitana de Curitiba;2006;62343648.58;0.091746629
+Paraná;Metropolitana de Curitiba;2007;75311952.07;0.208013226
+Paraná;Metropolitana de Curitiba;2008;85221109.92;0.131574837
+Paraná;Metropolitana de Curitiba;2009;90001607.74;0.056095231
+Paraná;Metropolitana de Curitiba;2010;106208375.1;0.180071976
+Paraná;Metropolitana de Curitiba;2011;118973528.7;0.120189708
+Paraná;Metropolitana de Curitiba;2012;127048632.4;0.067873113
+Paraná;Metropolitana de Curitiba;2013;145546425.7;0.145596162
+Paraná;Metropolitana de Curitiba;2014;148055723.0;0.017240528
+Paraná;Metropolitana de Curitiba;2015;158058418.1;0.067560341
+Paraná;Metropolitana de Curitiba;2016;161958668.9;0.024676008
+Paraná;Metropolitana de Curitiba;2017;169042242.2;0.04373692
+Santa Catarina;Oeste Catarinense;2002;10661396.46;0
+Santa Catarina;Oeste Catarinense;2003;12708124.84;0.191975637
+Santa Catarina;Oeste Catarinense;2004;14407490.71;0.133722787
+Santa Catarina;Oeste Catarinense;2005;15295858.12;0.061660106
+Santa Catarina;Oeste Catarinense;2006;16385806.91;0.071257773
+Santa Catarina;Oeste Catarinense;2007;19064562.36;0.163480228
+Santa Catarina;Oeste Catarinense;2008;22365890.32;0.173165683
+Santa Catarina;Oeste Catarinense;2009;23448922.26;0.048423377
+Santa Catarina;Oeste Catarinense;2010;27541697.34;0.174540008
+Santa Catarina;Oeste Catarinense;2011;32029941.74;0.162961794
+Santa Catarina;Oeste Catarinense;2012;34014393.82;0.061956156
+Santa Catarina;Oeste Catarinense;2013;39134088.82;0.150515544
+Santa Catarina;Oeste Catarinense;2014;40960381.52;0.046667567
+Santa Catarina;Oeste Catarinense;2015;41855775.14;0.021859992
+Santa Catarina;Oeste Catarinense;2016;44657827.6;0.06694542
+Santa Catarina;Oeste Catarinense;2017;46912191.46;0.050480822
+Santa Catarina;Norte Catarinense;2002;12913112.33;0
+Santa Catarina;Norte Catarinense;2003;15378038.67;0.190885534
+Santa Catarina;Norte Catarinense;2004;18165189.7;0.181242296
+Santa Catarina;Norte Catarinense;2005;19907610.74;0.095920883
+Santa Catarina;Norte Catarinense;2006;22206439.45;0.115474867
+Santa Catarina;Norte Catarinense;2007;25268700.59;0.137899691
+Santa Catarina;Norte Catarinense;2008;29463399.34;0.166003738
+Santa Catarina;Norte Catarinense;2009;30347704.82;0.030013695
+Santa Catarina;Norte Catarinense;2010;35844266.7;0.181119525
+Santa Catarina;Norte Catarinense;2011;39617548.99;0.105268782
+Santa Catarina;Norte Catarinense;2012;43056474.01;0.086803074
+Santa Catarina;Norte Catarinense;2013;47967639.0;0.114063334
+Santa Catarina;Norte Catarinense;2014;52631309.03;0.09722534
+Santa Catarina;Norte Catarinense;2015;55546362.51;0.0553863
+Santa Catarina;Norte Catarinense;2016;54842001.56;-0.012680595
+Santa Catarina;Norte Catarinense;2017;60728472.54;0.107335086
+Santa Catarina;Serrana;2002;3070741.53;0
+Santa Catarina;Serrana;2003;3611342.03;0.176048845
+Santa Catarina;Serrana;2004;3888955.2;0.076872577
+Santa Catarina;Serrana;2005;4167727.42;0.071683063
+Santa Catarina;Serrana;2006;4542336.49;0.089883294
+Santa Catarina;Serrana;2007;5214415.25;0.147958823
+Santa Catarina;Serrana;2008;6237690.95;0.19623978
+Santa Catarina;Serrana;2009;6367376.73;0.020790671
+Santa Catarina;Serrana;2010;7670800.36;0.204703394
+Santa Catarina;Serrana;2011;8198470.34;0.068789429
+Santa Catarina;Serrana;2012;9844495.26;0.200772199
+Santa Catarina;Serrana;2013;10170722.27;0.033138013
+Santa Catarina;Serrana;2014;11430891.49;0.123901645
+Santa Catarina;Serrana;2015;12197030.39;0.067023548
+Santa Catarina;Serrana;2016;13035063.23;0.068707941
+Santa Catarina;Serrana;2017;13734669.87;0.053671135
+Santa Catarina;Vale do Itajaí;2002;13370801.35;0
+Santa Catarina;Vale do Itajaí;2003;15733761.99;0.176725432
+Santa Catarina;Vale do Itajaí;2004;18523599.06;0.177315322
+Santa Catarina;Vale do Itajaí;2005;21057539.35;0.136795246
+Santa Catarina;Vale do Itajaí;2006;24131000.41;0.145955375
+Santa Catarina;Vale do Itajaí;2007;27396339.33;0.13531718
+Santa Catarina;Vale do Itajaí;2008;32008960.97;0.168366349
+Santa Catarina;Vale do Itajaí;2009;34948491.41;0.09183461
+Santa Catarina;Vale do Itajaí;2010;42552945.9;0.21759035
+Santa Catarina;Vale do Itajaí;2011;48696788.43;0.144381133
+Santa Catarina;Vale do Itajaí;2012;54727444.64;0.123840943
+Santa Catarina;Vale do Itajaí;2013;60991048.98;0.114450883
+Santa Catarina;Vale do Itajaí;2014;73248252.08;0.200967245
+Santa Catarina;Vale do Itajaí;2015;72728682.79;-0.007093265
+Santa Catarina;Vale do Itajaí;2016;75042360.56;0.031812453
+Santa Catarina;Vale do Itajaí;2017;82978746.41;0.105758745
+Santa Catarina;Grande Florianópolis;2002;8042106.65;0
+Santa Catarina;Grande Florianópolis;2003;9218512.0;0.146280745
+Santa Catarina;Grande Florianópolis;2004;10208671.31;0.107409885
+Santa Catarina;Grande Florianópolis;2005;11922435.0;0.167873334
+Santa Catarina;Grande Florianópolis;2006;13534792.2;0.13523724
+Santa Catarina;Grande Florianópolis;2007;15457136.2;0.142029813
+Santa Catarina;Grande Florianópolis;2008;18084715.77;0.169991358
+Santa Catarina;Grande Florianópolis;2009;19490094.15;0.077710836
+Santa Catarina;Grande Florianópolis;2010;23242132.75;0.19251003
+Santa Catarina;Grande Florianópolis;2011;26431088.23;0.137205803
+Santa Catarina;Grande Florianópolis;2012;29305009.19;0.108732601
+Santa Catarina;Grande Florianópolis;2013;32497234.34;0.108931041
+Santa Catarina;Grande Florianópolis;2014;36984146.03;0.138070571
+Santa Catarina;Grande Florianópolis;2015;38470397.12;0.040186168
+Santa Catarina;Grande Florianópolis;2016;39945195.52;0.038335929
+Santa Catarina;Grande Florianópolis;2017;41814596.57;0.046799146
+Santa Catarina;Sul Catarinense;2002;6423734.9;0
+Santa Catarina;Sul Catarinense;2003;7448695.16;0.159558306
+Santa Catarina;Sul Catarinense;2004;8425059.95;0.131078634
+Santa Catarina;Sul Catarinense;2005;9198073.06;0.091751645
+Santa Catarina;Sul Catarinense;2006;10263073.17;0.115785133
+Santa Catarina;Sul Catarinense;2007;11326938.52;0.103659531
+Santa Catarina;Sul Catarinense;2008;13316600.5;0.175657524
+Santa Catarina;Sul Catarinense;2009;14495945.67;0.08856203
+Santa Catarina;Sul Catarinense;2010;16874164.31;0.164060952
+Santa Catarina;Sul Catarinense;2011;19094484.01;0.131581017
+Santa Catarina;Sul Catarinense;2012;20846835.22;0.09177264
+Santa Catarina;Sul Catarinense;2013;23751508.15;0.139334
+Santa Catarina;Sul Catarinense;2014;27298390.71;0.149332941
+Santa Catarina;Sul Catarinense;2015;28281394.33;0.036009581
+Santa Catarina;Sul Catarinense;2016;29232220.07;0.033620186
+Santa Catarina;Sul Catarinense;2017;31023284.0;0.061270199
+Rio Grande do Sul;Noroeste Rio-grandense;2002;15901796.63;0
+Rio Grande do Sul;Noroeste Rio-grandense;2003;22268045.52;0.400347774
+Rio Grande do Sul;Noroeste Rio-grandense;2004;21990376.45;-0.012469396
+Rio Grande do Sul;Noroeste Rio-grandense;2005;19088421.43;-0.131964772
+Rio Grande do Sul;Noroeste Rio-grandense;2006;22209566.42;0.163509853
+Rio Grande do Sul;Noroeste Rio-grandense;2007;26559603.44;0.195863212
+Rio Grande do Sul;Noroeste Rio-grandense;2008;31261400.23;0.177028125
+Rio Grande do Sul;Noroeste Rio-grandense;2009;32483191.3;0.039083056
+Rio Grande do Sul;Noroeste Rio-grandense;2010;38673171.65;0.190559489
+Rio Grande do Sul;Noroeste Rio-grandense;2011;45228040.67;0.16949396
+Rio Grande do Sul;Noroeste Rio-grandense;2012;46562191.18;0.029498304
+Rio Grande do Sul;Noroeste Rio-grandense;2013;61304169.58;0.316608347
+Rio Grande do Sul;Noroeste Rio-grandense;2014;63524116.66;0.036212008
+Rio Grande do Sul;Noroeste Rio-grandense;2015;68170460.99;0.073142998
+Rio Grande do Sul;Noroeste Rio-grandense;2016;75004840.63;0.100254268
+Rio Grande do Sul;Noroeste Rio-grandense;2017;75934511.68;0.012394814
+Rio Grande do Sul;Nordeste Rio-grandense;2002;12388908.04;0
+Rio Grande do Sul;Nordeste Rio-grandense;2003;14367579.62;0.159713154
+Rio Grande do Sul;Nordeste Rio-grandense;2004;16943445.8;0.179283237
+Rio Grande do Sul;Nordeste Rio-grandense;2005;17871850.6;0.054794332
+Rio Grande do Sul;Nordeste Rio-grandense;2006;19045253.77;0.065656501
+Rio Grande do Sul;Nordeste Rio-grandense;2007;21409105.61;0.124117634
+Rio Grande do Sul;Nordeste Rio-grandense;2008;24806550.66;0.158691592
+Rio Grande do Sul;Nordeste Rio-grandense;2009;25951325.5;0.046148086
+Rio Grande do Sul;Nordeste Rio-grandense;2010;32673214.67;0.259019108
+Rio Grande do Sul;Nordeste Rio-grandense;2011;36688109.73;0.12288032
+Rio Grande do Sul;Nordeste Rio-grandense;2012;39842315.83;0.085973524
+Rio Grande do Sul;Nordeste Rio-grandense;2013;43709222.44;0.097055267
+Rio Grande do Sul;Nordeste Rio-grandense;2014;47505363.4;0.086849885
+Rio Grande do Sul;Nordeste Rio-grandense;2015;46982632.22;-0.011003624
+Rio Grande do Sul;Nordeste Rio-grandense;2016;47583544.09;0.012790085
+Rio Grande do Sul;Nordeste Rio-grandense;2017;50323930.0;0.057591043
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2002;3650691.4;0
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2003;4625684.96;0.267070933
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2004;4772544.25;0.031748658
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2005;4528770.8;-0.051078301
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2006;5252392.55;0.159783257
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2007;6181141.62;0.176824002
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2008;7101443.91;0.148888724
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2009;7543487.3;0.062246973
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2010;8339794.99;0.105562276
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2011;9603550.56;0.15153317
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2012;9922121.39;0.033172193
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2013;12601959.4;0.270087203
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2014;13772938.62;0.092920409
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2015;14595487.2;0.059722083
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2016;15695824.0;0.075388837
+Rio Grande do Sul;Centro Ocidental Rio-grandense;2017;16305081.29;0.038816522
+Rio Grande do Sul;Centro Oriental Rio-grandense;2002;7850327.56;0
+Rio Grande do Sul;Centro Oriental Rio-grandense;2003;8759542.05;0.115818669
+Rio Grande do Sul;Centro Oriental Rio-grandense;2004;9704102.86;0.107832214
+Rio Grande do Sul;Centro Oriental Rio-grandense;2005;9710347.18;0.000643472
+Rio Grande do Sul;Centro Oriental Rio-grandense;2006;10427548.68;0.073859512
+Rio Grande do Sul;Centro Oriental Rio-grandense;2007;11300022.64;0.083670092
+Rio Grande do Sul;Centro Oriental Rio-grandense;2008;12996447.32;0.150125777
+Rio Grande do Sul;Centro Oriental Rio-grandense;2009;14085544.27;0.083799589
+Rio Grande do Sul;Centro Oriental Rio-grandense;2010;16781375.8;0.191389944
+Rio Grande do Sul;Centro Oriental Rio-grandense;2011;18966476.97;0.130209894
+Rio Grande do Sul;Centro Oriental Rio-grandense;2012;20883706.57;0.101085173
+Rio Grande do Sul;Centro Oriental Rio-grandense;2013;24754796.6;0.185364127
+Rio Grande do Sul;Centro Oriental Rio-grandense;2014;27757979.79;0.121317223
+Rio Grande do Sul;Centro Oriental Rio-grandense;2015;28014497.49;0.009241224
+Rio Grande do Sul;Centro Oriental Rio-grandense;2016;29482529.27;0.052402574
+Rio Grande do Sul;Centro Oriental Rio-grandense;2017;30264070.62;0.026508626
+Rio Grande do Sul;Metropolitana de Porto Alegre;2002;48741796.4;0
+Rio Grande do Sul;Metropolitana de Porto Alegre;2003;56691369.96;0.163095621
+Rio Grande do Sul;Metropolitana de Porto Alegre;2004;64269354.77;0.133670871
+Rio Grande do Sul;Metropolitana de Porto Alegre;2005;71985550.75;0.120060268
+Rio Grande do Sul;Metropolitana de Porto Alegre;2006;76288739.31;0.059778504
+Rio Grande do Sul;Metropolitana de Porto Alegre;2007;85635842.06;0.122522706
+Rio Grande do Sul;Metropolitana de Porto Alegre;2008;94159614.38;0.099535103
+Rio Grande do Sul;Metropolitana de Porto Alegre;2009;103381431.8;0.097938139
+Rio Grande do Sul;Metropolitana de Porto Alegre;2010;120807688.3;0.168562731
+Rio Grande do Sul;Metropolitana de Porto Alegre;2011;128895151.4;0.066944937
+Rio Grande do Sul;Metropolitana de Porto Alegre;2012;141593615.5;0.098517779
+Rio Grande do Sul;Metropolitana de Porto Alegre;2013;155258509.3;0.096507839
+Rio Grande do Sul;Metropolitana de Porto Alegre;2014;168720479.3;0.08670681
+Rio Grande do Sul;Metropolitana de Porto Alegre;2015;184122639.1;0.091288028
+Rio Grande do Sul;Metropolitana de Porto Alegre;2016;195640991.9;0.062558047
+Rio Grande do Sul;Metropolitana de Porto Alegre;2017;203094032.6;0.038095496
+Rio Grande do Sul;Sudoeste Rio-grandense;2002;4637139.04;0
+Rio Grande do Sul;Sudoeste Rio-grandense;2003;5646536.88;0.217676854
+Rio Grande do Sul;Sudoeste Rio-grandense;2004;6150015.99;0.089166
+Rio Grande do Sul;Sudoeste Rio-grandense;2005;5882674.59;-0.043470033
+Rio Grande do Sul;Sudoeste Rio-grandense;2006;6361976.7;0.081476904
+Rio Grande do Sul;Sudoeste Rio-grandense;2007;6948688.38;0.092221602
+Rio Grande do Sul;Sudoeste Rio-grandense;2008;8299300.0;0.194369289
+Rio Grande do Sul;Sudoeste Rio-grandense;2009;8700840.1;0.048382406
+Rio Grande do Sul;Sudoeste Rio-grandense;2010;9770953.33;0.122989644
+Rio Grande do Sul;Sudoeste Rio-grandense;2011;10229865.82;0.046967013
+Rio Grande do Sul;Sudoeste Rio-grandense;2012;11468083.41;0.121039475
+Rio Grande do Sul;Sudoeste Rio-grandense;2013;14200464.17;0.238259582
+Rio Grande do Sul;Sudoeste Rio-grandense;2014;15271671.53;0.075434672
+Rio Grande do Sul;Sudoeste Rio-grandense;2015;17480256.43;0.144619723
+Rio Grande do Sul;Sudoeste Rio-grandense;2016;18742317.82;0.072199249
+Rio Grande do Sul;Sudoeste Rio-grandense;2017;20002643.45;0.067244918
+Rio Grande do Sul;Sudeste Rio-grandense;2002;5676551.85;0
+Rio Grande do Sul;Sudeste Rio-grandense;2003;6966639.66;0.227266102
+Rio Grande do Sul;Sudeste Rio-grandense;2004;7362366.18;0.05680307
+Rio Grande do Sul;Sudeste Rio-grandense;2005;7295153.26;-0.009129255
+Rio Grande do Sul;Sudeste Rio-grandense;2006;8037121.84;0.101707059
+Rio Grande do Sul;Sudeste Rio-grandense;2007;9975348.32;0.241159275
+Rio Grande do Sul;Sudeste Rio-grandense;2008;11605065.94;0.163374508
+Rio Grande do Sul;Sudeste Rio-grandense;2009;12199119.93;0.051189196
+Rio Grande do Sul;Sudeste Rio-grandense;2010;14202965.21;0.164261462
+Rio Grande do Sul;Sudeste Rio-grandense;2011;15445221.13;0.087464547
+Rio Grande do Sul;Sudeste Rio-grandense;2012;17314984.84;0.121057749
+Rio Grande do Sul;Sudeste Rio-grandense;2013;20463604.61;0.181843634
+Rio Grande do Sul;Sudeste Rio-grandense;2014;21263874.51;0.039106986
+Rio Grande do Sul;Sudeste Rio-grandense;2015;22626627.74;0.06408772
+Rio Grande do Sul;Sudeste Rio-grandense;2016;26639480.31;0.17735089
+Rio Grande do Sul;Sudeste Rio-grandense;2017;27226667.74;0.022042
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2002;1083951.25;0
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2003;1389358.84;0.28175399
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2004;1491507.17;0.07352192
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2005;1611190.47;0.080243195
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2006;1972197.54;0.224062317
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2007;2179489.09;0.10510689
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2008;2823056.15;0.295283451
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2009;2838571.26;0.005495856
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2010;3341316.1;0.177111932
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2011;3715659.82;0.112034812
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2012;4161000.16;0.119854982
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2013;4641417.28;0.115457126
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2014;5370656.22;0.157115574
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2015;5262884.1;-0.020066844
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2016;5167176.67;-0.018185358
+Mato Grosso do Sul;Pantanais Sul Mato-grossense;2017;5511320.24;0.066601859
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2002;6422991.02;0
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2003;8038754.11;0.251559295
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2004;8924496.88;0.110184085
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2005;9490508.58;0.063422253
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2006;10842612.55;0.142469074
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2007;12171349.87;0.122547708
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2008;14396721.63;0.18283689
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2009;16229537.5;0.127307863
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2010;18750560.69;0.155335492
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2011;21613457.62;0.152683271
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2012;24021614.5;0.111419326
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2013;25940734.75;0.079891393
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2014;29679835.87;0.144140139
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2015;30652756.8;0.032780536
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2016;32654611.35;0.065307488
+Mato Grosso do Sul;Centro Norte de Mato Grosso do Sul;2017;34246201.8;0.048740144
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2002;3923803.25;0
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2003;5188305.13;0.322264344
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2004;5856471.59;0.128783185
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2005;5600660.41;-0.043680086
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2006;6097205.35;0.088658284
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2007;6324285.79;0.037243364
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2008;7551187.04;0.193998388
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2009;8576755.92;0.135815584
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2010;11187621.9;0.304411832
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2011;12927451.28;0.155513781
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2012;14349315.44;0.109987973
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2013;17041146.28;0.18759298
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2014;19542934.04;0.146808655
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2015;20636067.48;0.055934971
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2016;23682802.22;0.147641247
+Mato Grosso do Sul;Leste de Mato Grosso do Sul;2017;25387565.09;0.071983157
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2002;5009678.4;0
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2003;7230148.27;0.443236011
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2004;7099832.54;-0.018023936
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2005;7022898.91;-0.010835978
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2006;7755878.37;0.104369929
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2007;9409640.44;0.213226922
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2008;11448298.23;0.21665629
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2009;11872877.06;0.037086633
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2010;13991157.7;0.178413423
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2011;16876593.73;0.206232829
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2012;19481270.79;0.154336657
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2013;21579902.96;0.10772563
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2014;24356706.59;0.128675446
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2015;26530846.33;0.089262468
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2016;30387694.92;0.145372241
+Mato Grosso do Sul;Sudoeste de Mato Grosso do Sul;2017;31227108.16;0.027623459
+Mato Grosso;Norte Mato-grossense;2002;6105042.88;0
+Mato Grosso;Norte Mato-grossense;2003;8894019.21;0.456831571
+Mato Grosso;Norte Mato-grossense;2004;11553999.2;0.299075134
+Mato Grosso;Norte Mato-grossense;2005;11143496.32;-0.035529073
+Mato Grosso;Norte Mato-grossense;2006;9058683.55;-0.18708785
+Mato Grosso;Norte Mato-grossense;2007;12295045.0;0.3572662
+Mato Grosso;Norte Mato-grossense;2008;17285805.71;0.405916425
+Mato Grosso;Norte Mato-grossense;2009;17960114.3;0.039009382
+Mato Grosso;Norte Mato-grossense;2010;17775991.09;-0.010251784
+Mato Grosso;Norte Mato-grossense;2011;24316486.87;0.367939866
+Mato Grosso;Norte Mato-grossense;2012;28907525.42;0.18880353
+Mato Grosso;Norte Mato-grossense;2013;32331186.25;0.118434933
+Mato Grosso;Norte Mato-grossense;2014;36531351.32;0.129910639
+Mato Grosso;Norte Mato-grossense;2015;38395864.85;0.051038723
+Mato Grosso;Norte Mato-grossense;2016;46690662.24;0.216033613
+Mato Grosso;Norte Mato-grossense;2017;47309110.8;0.013245658
+Mato Grosso;Nordeste Mato-grossense;2002;1311925.45;0
+Mato Grosso;Nordeste Mato-grossense;2003;1815695.91;0.383993206
+Mato Grosso;Nordeste Mato-grossense;2004;2310378.55;0.272447956
+Mato Grosso;Nordeste Mato-grossense;2005;2299845.92;-0.004558833
+Mato Grosso;Nordeste Mato-grossense;2006;2052295.76;-0.107637715
+Mato Grosso;Nordeste Mato-grossense;2007;2516907.13;0.226386167
+Mato Grosso;Nordeste Mato-grossense;2008;3395678.97;0.349147503
+Mato Grosso;Nordeste Mato-grossense;2009;3615997.67;0.064882076
+Mato Grosso;Nordeste Mato-grossense;2010;3741465.81;0.03469807
+Mato Grosso;Nordeste Mato-grossense;2011;4982418.67;0.331675585
+Mato Grosso;Nordeste Mato-grossense;2012;5815145.8;0.16713311
+Mato Grosso;Nordeste Mato-grossense;2013;6717079.25;0.155100746
+Mato Grosso;Nordeste Mato-grossense;2014;7856496.67;0.169629891
+Mato Grosso;Nordeste Mato-grossense;2015;8613826.61;0.096395375
+Mato Grosso;Nordeste Mato-grossense;2016;10054245.07;0.167221669
+Mato Grosso;Nordeste Mato-grossense;2017;10499720.62;0.04430721
+Mato Grosso;Sudoeste Mato-grossense;2002;1867047.24;0
+Mato Grosso;Sudoeste Mato-grossense;2003;2367092.35;0.267826705
+Mato Grosso;Sudoeste Mato-grossense;2004;2657131.46;0.122529698
+Mato Grosso;Sudoeste Mato-grossense;2005;2749479.22;0.034754682
+Mato Grosso;Sudoeste Mato-grossense;2006;2845887.99;0.035064375
+Mato Grosso;Sudoeste Mato-grossense;2007;3364462.24;0.182218784
+Mato Grosso;Sudoeste Mato-grossense;2008;4069382.08;0.20951932
+Mato Grosso;Sudoeste Mato-grossense;2009;4460911.79;0.096213553
+Mato Grosso;Sudoeste Mato-grossense;2010;5386596.14;0.207510122
+Mato Grosso;Sudoeste Mato-grossense;2011;6001824.05;0.114214597
+Mato Grosso;Sudoeste Mato-grossense;2012;6453527.42;0.075261015
+Mato Grosso;Sudoeste Mato-grossense;2013;7338218.44;0.137086428
+Mato Grosso;Sudoeste Mato-grossense;2014;7718704.8;0.051849964
+Mato Grosso;Sudoeste Mato-grossense;2015;8597435.05;0.113844262
+Mato Grosso;Sudoeste Mato-grossense;2016;9564152.2;0.112442507
+Mato Grosso;Sudoeste Mato-grossense;2017;9855784.32;0.030492208
+Mato Grosso;Centro-Sul Mato-grossense;2002;6230438.31;0
+Mato Grosso;Centro-Sul Mato-grossense;2003;8120524.98;0.303363355
+Mato Grosso;Centro-Sul Mato-grossense;2004;9985337.15;0.229641824
+Mato Grosso;Centro-Sul Mato-grossense;2005;10892262.47;0.090825708
+Mato Grosso;Centro-Sul Mato-grossense;2006;11097431.4;0.018836209
+Mato Grosso;Centro-Sul Mato-grossense;2007;12502271.51;0.126591466
+Mato Grosso;Centro-Sul Mato-grossense;2008;14714358.01;0.176934767
+Mato Grosso;Centro-Sul Mato-grossense;2009;16353347.44;0.111387084
+Mato Grosso;Centro-Sul Mato-grossense;2010;18674357.93;0.14192877
+Mato Grosso;Centro-Sul Mato-grossense;2011;20473028.13;0.096317646
+Mato Grosso;Centro-Sul Mato-grossense;2012;23732551.59;0.159210618
+Mato Grosso;Centro-Sul Mato-grossense;2013;26009301.98;0.095933654
+Mato Grosso;Centro-Sul Mato-grossense;2014;30414731.62;0.169379003
+Mato Grosso;Centro-Sul Mato-grossense;2015;31892007.45;0.048571062
+Mato Grosso;Centro-Sul Mato-grossense;2016;34520701.99;0.082424869
+Mato Grosso;Centro-Sul Mato-grossense;2017;36386845.41;0.054058675
+Mato Grosso;Sudeste Mato-grossense;2002;3676198.66;0
+Mato Grosso;Sudeste Mato-grossense;2003;5499764.45;0.496046585
+Mato Grosso;Sudeste Mato-grossense;2004;6881823.81;0.251294282
+Mato Grosso;Sudeste Mato-grossense;2005;7171970.69;0.042161335
+Mato Grosso;Sudeste Mato-grossense;2006;5645865.88;-0.212787374
+Mato Grosso;Sudeste Mato-grossense;2007;7348892.53;0.301641358
+Mato Grosso;Sudeste Mato-grossense;2008;9737280.49;0.324999713
+Mato Grosso;Sudeste Mato-grossense;2009;10303045.59;0.058102989
+Mato Grosso;Sudeste Mato-grossense;2010;11022544.4;0.069833604
+Mato Grosso;Sudeste Mato-grossense;2011;13380199.03;0.213893866
+Mato Grosso;Sudeste Mato-grossense;2012;14756940.91;0.102893976
+Mato Grosso;Sudeste Mato-grossense;2013;16817132.67;0.139608322
+Mato Grosso;Sudeste Mato-grossense;2014;18713235.87;0.112748305
+Mato Grosso;Sudeste Mato-grossense;2015;19919184.67;0.064443627
+Mato Grosso;Sudeste Mato-grossense;2016;23050534.06;0.157202689
+Mato Grosso;Sudeste Mato-grossense;2017;22753596.69;-0.012882017
+Goiás;Noroeste Goiano;2002;1188648.38;0
+Goiás;Noroeste Goiano;2003;1388295.06;0.167961092
+Goiás;Noroeste Goiano;2004;1586792.38;0.142979202
+Goiás;Noroeste Goiano;2005;1618610.7;0.020051974
+Goiás;Noroeste Goiano;2006;1734421.6;0.07154957
+Goiás;Noroeste Goiano;2007;1968828.39;0.135149833
+Goiás;Noroeste Goiano;2008;2143542.79;0.088740289
+Goiás;Noroeste Goiano;2009;2385996.05;0.113108663
+Goiás;Noroeste Goiano;2010;2777011.99;0.163879542
+Goiás;Noroeste Goiano;2011;3191012.28;0.149081204
+Goiás;Noroeste Goiano;2012;3812853.71;0.194872779
+Goiás;Noroeste Goiano;2013;4196509.16;0.100621602
+Goiás;Noroeste Goiano;2014;4534600.82;0.080564976
+Goiás;Noroeste Goiano;2015;4833139.27;0.065835663
+Goiás;Noroeste Goiano;2016;5006190.65;0.035805171
+Goiás;Noroeste Goiano;2017;5298682.75;0.058426081
+Goiás;Norte Goiano;2002;1807042.32;0
+Goiás;Norte Goiano;2003;2164050.0;0.197564648
+Goiás;Norte Goiano;2004;2431636.72;0.123650895
+Goiás;Norte Goiano;2005;2581635.71;0.061686431
+Goiás;Norte Goiano;2006;2879842.79;0.115510906
+Goiás;Norte Goiano;2007;4026859.66;0.398291488
+Goiás;Norte Goiano;2008;4006231.45;-0.005122654
+Goiás;Norte Goiano;2009;4047526.58;0.010307724
+Goiás;Norte Goiano;2010;4764891.06;0.177235273
+Goiás;Norte Goiano;2011;5555046.81;0.165828713
+Goiás;Norte Goiano;2012;6267666.71;0.128283329
+Goiás;Norte Goiano;2013;5836115.98;-0.06885349
+Goiás;Norte Goiano;2014;5909772.84;0.01262087
+Goiás;Norte Goiano;2015;6945993.26;0.175340144
+Goiás;Norte Goiano;2016;6265106.19;-0.098025875
+Goiás;Norte Goiano;2017;6703612.21;0.069991794
+Goiás;Centro Goiano;2002;19166758.52;0
+Goiás;Centro Goiano;2003;22002107.82;0.147930559
+Goiás;Centro Goiano;2004;24555616.93;0.116057476
+Goiás;Centro Goiano;2005;27124896.4;0.104631029
+Goiás;Centro Goiano;2006;32493440.4;0.197919429
+Goiás;Centro Goiano;2007;37169285.82;0.143901211
+Goiás;Centro Goiano;2008;42028683.43;0.130736911
+Goiás;Centro Goiano;2009;48362863.24;0.150710879
+Goiás;Centro Goiano;2010;56874615.4;0.175997689
+Goiás;Centro Goiano;2011;64397821.49;0.132277046
+Goiás;Centro Goiano;2012;71557122.91;0.111173037
+Goiás;Centro Goiano;2013;78310453.32;0.094376774
+Goiás;Centro Goiano;2014;89123235.47;0.138075847
+Goiás;Centro Goiano;2015;91364697.0;0.025150136
+Goiás;Centro Goiano;2016;93041593.8;0.018353881
+Goiás;Centro Goiano;2017;99869479.6;0.073385306
+Goiás;Leste Goiano;2002;3351418.62;0
+Goiás;Leste Goiano;2003;4189939.7;0.250198849
+Goiás;Leste Goiano;2004;4823092.38;0.1511126
+Goiás;Leste Goiano;2005;5258808.19;0.090339512
+Goiás;Leste Goiano;2006;5724715.92;0.088595688
+Goiás;Leste Goiano;2007;6757221.88;0.180359336
+Goiás;Leste Goiano;2008;7897718.56;0.16878189
+Goiás;Leste Goiano;2009;8920099.07;0.129452639
+Goiás;Leste Goiano;2010;10208749.57;0.14446594
+Goiás;Leste Goiano;2011;11835847.78;0.159382714
+Goiás;Leste Goiano;2012;13823897.29;0.167968493
+Goiás;Leste Goiano;2013;15550573.01;0.124905132
+Goiás;Leste Goiano;2014;16858283.07;0.084094011
+Goiás;Leste Goiano;2015;18255793.51;0.082897555
+Goiás;Leste Goiano;2016;20174127.28;0.105080821
+Goiás;Leste Goiano;2017;20348570.56;0.008646881
+Goiás;Sul Goiano;2002;13115496.74;0
+Goiás;Sul Goiano;2003;15813496.63;0.205710843
+Goiás;Sul Goiano;2004;17706676.94;0.119719272
+Goiás;Sul Goiano;2005;17281161.57;-0.024031351
+Goiás;Sul Goiano;2006;18542981.92;0.073017103
+Goiás;Sul Goiano;2007;21488371.98;0.15884123
+Goiás;Sul Goiano;2008;26341387.57;0.2258438
+Goiás;Sul Goiano;2009;29149258.14;0.106595393
+Goiás;Sul Goiano;2010;32144841.45;0.102767051
+Goiás;Sul Goiano;2011;36316992.48;0.129792242
+Goiás;Sul Goiano;2012;43296284.41;0.192177035
+Goiás;Sul Goiano;2013;47406523.65;0.09493284
+Goiás;Sul Goiano;2014;48589426.27;0.024952317
+Goiás;Sul Goiano;2015;52232827.21;0.074983411
+Goiás;Sul Goiano;2016;57272585.61;0.096486418
+Goiás;Sul Goiano;2017;59678344.4;0.042005416
+Distrito Federal;Distrito Federal;2002;53902199.8;0
+Distrito Federal;Distrito Federal;2003;58456124.32;0.084484947
+Distrito Federal;Distrito Federal;2004;67076505.2;0.14746754
+Distrito Federal;Distrito Federal;2005;75732681.21;0.1290493
+Distrito Federal;Distrito Federal;2006;84661405.54;0.117897903
+Distrito Federal;Distrito Federal;2007;93404000.77;0.103265416
+Distrito Federal;Distrito Federal;2008;110299557.2;0.18088686
+Distrito Federal;Distrito Federal;2009;124323753.1;0.127146439
+Distrito Federal;Distrito Federal;2010;144174101.6;0.15966658
+Distrito Federal;Distrito Federal;2011;154568954.0;0.072099304
+Distrito Federal;Distrito Federal;2012;164101336.5;0.061670745
+Distrito Federal;Distrito Federal;2013;175906725.5;0.071939627
+Distrito Federal;Distrito Federal;2014;197432058.5;0.12236788
+Distrito Federal;Distrito Federal;2015;215612862.8;0.092086384
+Distrito Federal;Distrito Federal;2016;235540044.8;0.092421119
+Distrito Federal;Distrito Federal;2017;244682756.5;0.038815955
