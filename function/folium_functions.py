@@ -73,6 +73,31 @@ def pipeline_lines(filename_lines: str, filename_stations: str, current_map: fol
         dic[line].add_to(current_map)
 
 
+def pipeline_venues(filename_venues: str, current_map: folium.folium.Map = None) -> Dict[(float, float)]:
+    """
+    Map the venues if coordinates (latitude, longitude), if one provide a map, it will plot the station on it.
+    :param filename_stations: str, the path to stations csv
+    :param current_map: folium.folium.Map, map
+    :return: dict, map of the stations and coordinates (latitude, longitude)
+    """
+    # Load stations data
+    df = pd.read_csv(filename_venues)
+
+    # Map station with coordinates
+    unique_venues = df['Venue'].unique()
+    df.set_index('Venue', inplace=True)
+    map_venue_to_coordinates = {venue: (df.loc[venue]['Latitude'],
+                                            df.loc[venue]['Longitude']) for venue in unique_venues}
+
+    # Plot the station on the provided map
+    if current_map is not None:
+        for venue in unique_venues:
+            folium.Marker(map_venue_to_coordinates[venue], popup=venue,
+                          icon=folium.Icon(icon='glyphicon glyphicon-screenshot')).add_to(current_map)
+
+    return map_venue_to_coordinates
+
+
 def get_raw_map() -> folium.Map:
     """
     Make a folium map centered on London.
