@@ -3,7 +3,7 @@ import os
 import geopandas as gpd
 
 
-def data_loader(path='datasets_full/', city='London'):
+def data_loader(path='../data/', city='London'):
     """Read data for a given city, put them in a dict
     with same key as file name.
     Example: london_underground_station_info.csv
@@ -18,6 +18,26 @@ def data_loader(path='datasets_full/', city='London'):
         )
     )
 
+
+def load_satisfaction(path='../data/London_satisfaction/', transpose=True):
+    """Load satisfaction poll for LDN (from London datastore).
+    """
+    dfs = dict(
+        zip(
+            [dataset.split('.')[0] for dataset in os.listdir(path)],
+            [pd.read_csv(path + dataset, encoding='latin1', low_memory=False)
+             for dataset in os.listdir(path)]
+        )
+    )
+
+    if transpose:
+        for key, df in dfs.items():
+            df = df.T
+            columns = df.loc['area'].to_list()
+            df = df.iloc[1:]
+            df.columns = columns
+            dfs[key] = df
+    return dfs
 
 def load_pubs_data(global_path: str) -> (pd.DataFrame, pd.DataFrame):
     """
