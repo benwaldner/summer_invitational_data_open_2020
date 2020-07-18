@@ -1,5 +1,7 @@
 import pandas as pd
 from typing import Dict
+import io
+from PIL import Image
 import folium
 
 
@@ -92,8 +94,12 @@ def pipeline_venues(filename_venues: str, current_map: folium.folium.Map = None)
     # Plot the station on the provided map
     if current_map is not None:
         for venue in unique_venues:
+            if venue == 'Olympic Park - Olympic Stadium':
+                icon = 'glyphicon glyphicon-tower'
+            else:
+                icon = 'glyphicon glyphicon-screenshot'
             folium.Marker(map_venue_to_coordinates[venue], popup=venue,
-                          icon=folium.Icon(icon='glyphicon glyphicon-screenshot')).add_to(current_map)
+                          icon=folium.Icon(icon=icon)).add_to(current_map)
 
     return map_venue_to_coordinates
 
@@ -104,3 +110,25 @@ def get_raw_map() -> folium.Map:
     :return: folium.Map
     """
     return folium.Map(location=[51.505453, -0.268839])
+
+
+def save_map(m: folium.Map, filename: str='', render_time: int=5) -> None:
+    """
+    Wrapper to convert a folium map to .png and save itself.
+
+    Warning: to install it, you need selenium (pip install selenium),
+    and a browser specific executable. For firefox it is geckodriver.
+    1) download the latest version
+    2) make it executable: chmod +x geckodriver
+    3) move it where it needs to be : sudo mv geckodriver /usr/local/bin/
+    (adding the path to geckdriver to $PATH supposedly works too, but
+    only the above worked for me).
+
+    :param m: folium.Map,
+    :param filename: str, path to save map as .png
+    :param render_time: int, time to render as .png
+    :return: None
+    """
+    img_data = m._to_png(render_time)
+    img = Image.open(io.BytesIO(img_data))
+    img.save(filename)
