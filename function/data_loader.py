@@ -13,7 +13,9 @@ def data_loader(path='../data/', city='London'):
     return dict(
         zip(
             [dataset.split('.')[0] for dataset in os.listdir(full_path)],
-            [pd.read_csv(full_path + dataset, encoding='latin1', low_memory=False)
+            [pd.read_csv(full_path + dataset,
+                         encoding='latin1',
+                         low_memory=False)
              for dataset in os.listdir(full_path)]
         )
     )
@@ -49,9 +51,11 @@ def load_carbon(path='../data/London_atlas/london-borough-atlas_carbon'):
 
 def load_pubs_data(global_path: str) -> (pd.DataFrame, pd.DataFrame):
     """
-    Treat the data from  https://data.london.gov.uk/dataset/pubs-clubs-restaurants-takeaways-borough
+    Treat the data from
+    https://data.london.gov.uk/dataset/pubs-clubs-restaurants-takeaways-borough
     :param global_path: str, global path to the data
-    :return: (pd.DataFrame, pd.DataFrame), (number of pubs in the borough, pubs employment in the borough)
+    :return: (pd.DataFrame, pd.DataFrame),
+        (number of pubs in the borough, pubs employment in the borough)
     """
     # Load data
     pubs = pd.read_csv(global_path + 'london_data_pubs.csv')
@@ -66,9 +70,33 @@ def load_pubs_data(global_path: str) -> (pd.DataFrame, pd.DataFrame):
     return pubs, pubs_employment
 
 
+def load_restaurants_data(path='../data/London_in_depth/', transpose=True):
+    """Load restaurants data for LDN (from London datastore).
+    """
+    # Load data
+    restaurants = pd.read_csv(
+        path + 'London_restaurants_unit_borough.csv',
+        sep=';',
+        )
+    restaurants_employment = pd.read_csv(
+        path + 'London_restaurants_licencied_employment_borough.csv',
+        sep=';',
+        )
+
+    # Treat the data
+    for df in [restaurants, restaurants_employment]:
+        df.rename(columns={'Area name': 'area'}, inplace=True)
+        df.set_index('area', inplace=True)
+        for col in df.columns:
+            df[col] = df[col].apply(lambda x: int(x.replace(' ', ''))).astype(int)
+
+    return restaurants, restaurants_employment
+
+
 def get_path_london_boroughs(global_path: str = '../data/') -> str:
     """
-    Get the path to London boroughs. If the file doesn't exist, it will automatically make this file.
+    Get the path to London boroughs. If the file doesn't exist,
+    it will automatically make this file.
     :param global_path: str, path to the data directory
     :return: str, path to London boroughs (in GeoJSON)
     """
