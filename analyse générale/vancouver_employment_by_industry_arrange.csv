@@ -1,0 +1,2821 @@
+﻿year;industry;value
+2000.0;All industries;1930800.0
+2000.0;Goods-Producing Sector;407200.0
+2000.0;Agriculture;29700.0
+2000.0;   Crop Production;16200.0
+2000.0;   Animal Production;10400.0
+2000.0;   Mix farming;
+2000.0;   Support Activities for Agriculture;1700.0
+2000.0;Forestry, fishing, mining, quarrying, oil and gas;52600.0
+2000.0;   Forestry and Logging with support activities;35500.0
+2000.0;   Fishing, Hunting and Trapping;4300.0
+2000.0;   Mining and Oil and Gas Extraction;12800.0
+2000.0;      Oil and Gas Extraction;
+2000.0;      Mining (except Oil and Gas) & Mix Mining;8600.0
+2000.0;      Support Activities for Mining and Oil and Gas Extraction;3000.0
+2000.0;Utilities;10400.0
+2000.0;Construction;112100.0
+2000.0;  Construction of Buildings;27100.0
+2000.0;     Residential Building Construction;19100.0
+2000.0;     Non-residential Building Construction;8000.0
+2000.0;  Heavy and Civil Engineering Construction;15100.0
+2000.0;     Utility System Construction;2900.0
+2000.0;     Land Subdivision;1800.0
+2000.0;     Highway, Street and Bridge Construction;8700.0
+2000.0;     Other Heavy and Civil Engineering Construction;1700.0
+2000.0;   Trade Contracting;69900.0
+2000.0;     Foundation Structure and Building Exterior Contractors;9700.0
+2000.0;     Building Equipment Contractors;23700.0
+2000.0;     Building Finishing Contractors;23500.0
+2000.0;     Other Specialty Trade Contractors;13000.0
+2000.0;Manufacturing;202500.0
+2000.0;   Food Manufacturing;19600.0
+2000.0;   Beverage and Tobacco Product Manufacturing;3900.0
+2000.0;   Textile Mills & Textile Product Mills;2700.0
+2000.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;7800.0
+2000.0;   Wood Product Manufacturing;47800.0
+2000.0;   Paper Manufacturing;17700.0
+2000.0;   Printing and Related Support Activities;10900.0
+2000.0;   Petroleum and Coal Products Manufacturing;
+2000.0;   Chemical Manufacturing;7700.0
+2000.0;   Plastics and Rubber Products Manufacturing;8000.0
+2000.0;   Non-Metallic Mineral Product Manufacturing;6300.0
+2000.0;   Primary Metal Manufacturing;10500.0
+2000.0;   Fabricated Metal Product Manufacturing;12400.0
+2000.0;   Machinery Manufacturing;7900.0
+2000.0;   Computer and Electronic Product Manufacturing;7600.0
+2000.0;   Electrical Equipment, Appliance and Component Manufacturing;3900.0
+2000.0;   Transportation Equipment Manufacturing;13200.0
+2000.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;5000.0
+2000.0;      Other Transportation Equipment Manufacturing;8200.0
+2000.0;   Furniture and Related Product Manufacturing;3000.0
+2000.0;   Miscellaneous Manufacturing;10300.0
+2000.0;  Durables;122900.0
+2000.0;  Non-durables;79500.0
+2000.0;Services-Producing Sector;1523500.0
+2000.0;Trade;303600.0
+2000.0;   Wholesale;67200.0
+2000.0;      Farm Product Wholesaler-Distributors;1600.0
+2000.0;      Petroleum Product Wholesaler-Distributors;
+2000.0;      Food, Beverage and Tobacco Wholesaler-Distributors;12800.0
+2000.0;      Personal and Household Goods Wholesaler-Distributors;9600.0
+2000.0;      Motor Vehicle and Parts Wholesaler-Distributors;4300.0
+2000.0;      Building Material and Supplies Wholesaler-Distributors;10000.0
+2000.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;16200.0
+2000.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;11900.0
+2000.0;   Retail;236400.0
+2000.0;      Motor Vehicle and Parts Dealers;22400.0
+2000.0;      Furniture and Home Furnishings Stores;8300.0
+2000.0;      Electronics and Appliance Stores;10200.0
+2000.0;      Building Material and Garden Equipment and Supplies Dealers;13200.0
+2000.0;      Food and Beverage Stores;61300.0
+2000.0;      Health and Personal Care Stores;17600.0
+2000.0;      Gasoline Stations;9600.0
+2000.0;      Clothing and Clothing Accessories Stores;22500.0
+2000.0;      Sporting Goods, Hobby, Book and Music Stores;12200.0
+2000.0;      General Merchandise Stores;28400.0
+2000.0;      Miscellaneous Store Retailers;23900.0
+2000.0;      Non-Store Retailers;6900.0
+2000.0;Transportation and Warehousing;118100.0
+2000.0;   Transportation;114800.0
+2000.0;      Air Transportation;19700.0
+2000.0;      Rail Transportation;6200.0
+2000.0;      Water Transportation;5500.0
+2000.0;      Truck Transportation;32100.0
+2000.0;      Transit and Ground Passenger Transportation;12300.0
+2000.0;      Pipeline Transportation;
+2000.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;20600.0
+2000.0;      Postal Service;8900.0
+2000.0;      Couriers and Messengers;8900.0
+2000.0;   Warehousing and Storage;3300.0
+2000.0;Finance, Insurance, Real Estate and Leasing;117000.0
+2000.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;40900.0
+2000.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;10900.0
+2000.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;27000.0
+2000.0;   Real Estate;28900.0
+2000.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;9200.0
+2000.0;Professional, Scientific and Technical Services;136300.0
+2000.0;   Legal Services;18700.0
+2000.0;   Accounting and Tax Preparation;19900.0
+2000.0;   Architectural, Engineering and Design Services;32000.0
+2000.0;   Computer System Design Services;31900.0
+2000.0;   Management, Scientific and Technical Services;19400.0
+2000.0;   Advertising and Related Services;6500.0
+2000.0;   Other Professional Services;7900.0
+2000.0;Business, Building and Other Support Services;69700.0
+2000.0;   Employment Services;6400.0
+2000.0;   Business Services;5800.0
+2000.0;   Travelling Services;7500.0
+2000.0;   Security Services;9200.0
+2000.0;   Building Services;32200.0
+2000.0;   Management of Enterprises and Other Administrative Services;5700.0
+2000.0;   Waste Management and Remediation Services;3000.0
+2000.0;Educational Services;135700.0
+2000.0;   Primary and Secondary;87000.0
+2000.0;   Post-Secondary;14700.0
+2000.0;   University;16300.0
+2000.0;   Other Schools and Educational Support;17700.0
+2000.0;Health Care and Social Assistance;200800.0
+2000.0;   Ambulatory Health Care Services;52500.0
+2000.0;   Hospitals;70100.0
+2000.0;   Nursing and Residential Care Facilities;27300.0
+2000.0;   Social Assistance;50900.0
+2000.0;Information, culture and recreation;97000.0
+2000.0;   Publishing Industries;13700.0
+2000.0;   Motion Picture and Sound Recording Industries;10700.0
+2000.0;   Broadcasting and Telecommunications;27400.0
+2000.0;   Information Services and Data Processing Services;4700.0
+2000.0;   Performing Arts, Spectator Sports and Related Industries;12600.0
+2000.0;   Heritage Institutions;3600.0
+2000.0;   Amusement, Gambling and Recreation Industries;24300.0
+2000.0;Accommodation and food services;155600.0
+2000.0;   Accommodation Services;37900.0
+2000.0;   Food Services and Drinking Places;117700.0
+2000.0;Other services;98300.0
+2000.0;   Repair and Maintenance;34000.0
+2000.0;   Personal and Laundry Services;27900.0
+2000.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;22300.0
+2000.0;   Private Households;14000.0
+2000.0;Public administration;91500.0
+2000.0;   Federal Government Public Administration (including Defence Services);33500.0
+2000.0;   Provincial and Territorial Public Administration;26700.0
+2000.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;31200.0
+2001.0;All industries;1920900.0
+2001.0;Goods-Producing Sector;383800.0
+2001.0;Agriculture;25600.0
+2001.0;   Crop Production;11100.0
+2001.0;   Animal Production;12200.0
+2001.0;   Mix farming;
+2001.0;   Support Activities for Agriculture;
+2001.0;Forestry, fishing, mining, quarrying, oil and gas;41200.0
+2001.0;   Forestry and Logging with support activities;25100.0
+2001.0;   Fishing, Hunting and Trapping;4700.0
+2001.0;   Mining and Oil and Gas Extraction;11400.0
+2001.0;      Oil and Gas Extraction;1800.0
+2001.0;      Mining (except Oil and Gas) & Mix Mining;5900.0
+2001.0;      Support Activities for Mining and Oil and Gas Extraction;3700.0
+2001.0;Utilities;10600.0
+2001.0;Construction;112300.0
+2001.0;  Construction of Buildings;27800.0
+2001.0;     Residential Building Construction;19500.0
+2001.0;     Non-residential Building Construction;8400.0
+2001.0;  Heavy and Civil Engineering Construction;12400.0
+2001.0;     Utility System Construction;2800.0
+2001.0;     Land Subdivision;
+2001.0;     Highway, Street and Bridge Construction;7800.0
+2001.0;     Other Heavy and Civil Engineering Construction;
+2001.0;   Trade Contracting;72000.0
+2001.0;     Foundation Structure and Building Exterior Contractors;14000.0
+2001.0;     Building Equipment Contractors;23500.0
+2001.0;     Building Finishing Contractors;19900.0
+2001.0;     Other Specialty Trade Contractors;14600.0
+2001.0;Manufacturing;194100.0
+2001.0;   Food Manufacturing;22100.0
+2001.0;   Beverage and Tobacco Product Manufacturing;3500.0
+2001.0;   Textile Mills & Textile Product Mills;2900.0
+2001.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;9300.0
+2001.0;   Wood Product Manufacturing;51300.0
+2001.0;   Paper Manufacturing;14600.0
+2001.0;   Printing and Related Support Activities;8500.0
+2001.0;   Petroleum and Coal Products Manufacturing;
+2001.0;   Chemical Manufacturing;5700.0
+2001.0;   Plastics and Rubber Products Manufacturing;6800.0
+2001.0;   Non-Metallic Mineral Product Manufacturing;5200.0
+2001.0;   Primary Metal Manufacturing;8000.0
+2001.0;   Fabricated Metal Product Manufacturing;13400.0
+2001.0;   Machinery Manufacturing;6500.0
+2001.0;   Computer and Electronic Product Manufacturing;7000.0
+2001.0;   Electrical Equipment, Appliance and Component Manufacturing;3100.0
+2001.0;   Transportation Equipment Manufacturing;10400.0
+2001.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3900.0
+2001.0;      Other Transportation Equipment Manufacturing;6500.0
+2001.0;   Furniture and Related Product Manufacturing;5600.0
+2001.0;   Miscellaneous Manufacturing;8900.0
+2001.0;  Durables;119400.0
+2001.0;  Non-durables;74800.0
+2001.0;Services-Producing Sector;1537200.0
+2001.0;Trade;303300.0
+2001.0;   Wholesale;67300.0
+2001.0;      Farm Product Wholesaler-Distributors;
+2001.0;      Petroleum Product Wholesaler-Distributors;
+2001.0;      Food, Beverage and Tobacco Wholesaler-Distributors;10900.0
+2001.0;      Personal and Household Goods Wholesaler-Distributors;8100.0
+2001.0;      Motor Vehicle and Parts Wholesaler-Distributors;4600.0
+2001.0;      Building Material and Supplies Wholesaler-Distributors;9500.0
+2001.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;19700.0
+2001.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;11800.0
+2001.0;   Retail;236000.0
+2001.0;      Motor Vehicle and Parts Dealers;25800.0
+2001.0;      Furniture and Home Furnishings Stores;7700.0
+2001.0;      Electronics and Appliance Stores;10300.0
+2001.0;      Building Material and Garden Equipment and Supplies Dealers;12900.0
+2001.0;      Food and Beverage Stores;61300.0
+2001.0;      Health and Personal Care Stores;17200.0
+2001.0;      Gasoline Stations;11000.0
+2001.0;      Clothing and Clothing Accessories Stores;20300.0
+2001.0;      Sporting Goods, Hobby, Book and Music Stores;12400.0
+2001.0;      General Merchandise Stores;26600.0
+2001.0;      Miscellaneous Store Retailers;24300.0
+2001.0;      Non-Store Retailers;6200.0
+2001.0;Transportation and Warehousing;112700.0
+2001.0;   Transportation;108500.0
+2001.0;      Air Transportation;16100.0
+2001.0;      Rail Transportation;6500.0
+2001.0;      Water Transportation;7100.0
+2001.0;      Truck Transportation;27700.0
+2001.0;      Transit and Ground Passenger Transportation;15500.0
+2001.0;      Pipeline Transportation;
+2001.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;19100.0
+2001.0;      Postal Service;8100.0
+2001.0;      Couriers and Messengers;8100.0
+2001.0;   Warehousing and Storage;4200.0
+2001.0;Finance, Insurance, Real Estate and Leasing;120200.0
+2001.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;39000.0
+2001.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;16400.0
+2001.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;24900.0
+2001.0;   Real Estate;27900.0
+2001.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;11900.0
+2001.0;Professional, Scientific and Technical Services;139200.0
+2001.0;   Legal Services;17200.0
+2001.0;   Accounting and Tax Preparation;20200.0
+2001.0;   Architectural, Engineering and Design Services;32100.0
+2001.0;   Computer System Design Services;34300.0
+2001.0;   Management, Scientific and Technical Services;21100.0
+2001.0;   Advertising and Related Services;6100.0
+2001.0;   Other Professional Services;8200.0
+2001.0;Business, Building and Other Support Services;70500.0
+2001.0;   Employment Services;5200.0
+2001.0;   Business Services;7600.0
+2001.0;   Travelling Services;8500.0
+2001.0;   Security Services;11700.0
+2001.0;   Building Services;30900.0
+2001.0;   Management of Enterprises and Other Administrative Services;4000.0
+2001.0;   Waste Management and Remediation Services;2700.0
+2001.0;Educational Services;137300.0
+2001.0;   Primary and Secondary;82500.0
+2001.0;   Post-Secondary;16200.0
+2001.0;   University;19400.0
+2001.0;   Other Schools and Educational Support;19200.0
+2001.0;Health Care and Social Assistance;197200.0
+2001.0;   Ambulatory Health Care Services;47300.0
+2001.0;   Hospitals;72100.0
+2001.0;   Nursing and Residential Care Facilities;32400.0
+2001.0;   Social Assistance;45400.0
+2001.0;Information, culture and recreation;103700.0
+2001.0;   Publishing Industries;12200.0
+2001.0;   Motion Picture and Sound Recording Industries;9700.0
+2001.0;   Broadcasting and Telecommunications;32700.0
+2001.0;   Information Services and Data Processing Services;5600.0
+2001.0;   Performing Arts, Spectator Sports and Related Industries;13700.0
+2001.0;   Heritage Institutions;3700.0
+2001.0;   Amusement, Gambling and Recreation Industries;26000.0
+2001.0;Accommodation and food services;164000.0
+2001.0;   Accommodation Services;44000.0
+2001.0;   Food Services and Drinking Places;120000.0
+2001.0;Other services;98600.0
+2001.0;   Repair and Maintenance;36700.0
+2001.0;   Personal and Laundry Services;31900.0
+2001.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;18500.0
+2001.0;   Private Households;11400.0
+2001.0;Public administration;90300.0
+2001.0;   Federal Government Public Administration (including Defence Services);30300.0
+2001.0;   Provincial and Territorial Public Administration;33200.0
+2001.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;26800.0
+2002.0;All industries;1952400.0
+2002.0;Goods-Producing Sector;392800.0
+2002.0;Agriculture;29800.0
+2002.0;   Crop Production;16500.0
+2002.0;   Animal Production;10900.0
+2002.0;   Mix farming;
+2002.0;   Support Activities for Agriculture;1800.0
+2002.0;Forestry, fishing, mining, quarrying, oil and gas;37400.0
+2002.0;   Forestry and Logging with support activities;25100.0
+2002.0;   Fishing, Hunting and Trapping;3100.0
+2002.0;   Mining and Oil and Gas Extraction;9200.0
+2002.0;      Oil and Gas Extraction;2000.0
+2002.0;      Mining (except Oil and Gas) & Mix Mining;4200.0
+2002.0;      Support Activities for Mining and Oil and Gas Extraction;3000.0
+2002.0;Utilities;10900.0
+2002.0;Construction;116800.0
+2002.0;  Construction of Buildings;27300.0
+2002.0;     Residential Building Construction;18000.0
+2002.0;     Non-residential Building Construction;9300.0
+2002.0;  Heavy and Civil Engineering Construction;13800.0
+2002.0;     Utility System Construction;3400.0
+2002.0;     Land Subdivision;2300.0
+2002.0;     Highway, Street and Bridge Construction;6500.0
+2002.0;     Other Heavy and Civil Engineering Construction;1600.0
+2002.0;   Trade Contracting;75700.0
+2002.0;     Foundation Structure and Building Exterior Contractors;11800.0
+2002.0;     Building Equipment Contractors;23700.0
+2002.0;     Building Finishing Contractors;25800.0
+2002.0;     Other Specialty Trade Contractors;14400.0
+2002.0;Manufacturing;197900.0
+2002.0;   Food Manufacturing;23700.0
+2002.0;   Beverage and Tobacco Product Manufacturing;3300.0
+2002.0;   Textile Mills & Textile Product Mills;3300.0
+2002.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;5300.0
+2002.0;   Wood Product Manufacturing;48200.0
+2002.0;   Paper Manufacturing;16800.0
+2002.0;   Printing and Related Support Activities;8500.0
+2002.0;   Petroleum and Coal Products Manufacturing;
+2002.0;   Chemical Manufacturing;6400.0
+2002.0;   Plastics and Rubber Products Manufacturing;5700.0
+2002.0;   Non-Metallic Mineral Product Manufacturing;6800.0
+2002.0;   Primary Metal Manufacturing;5600.0
+2002.0;   Fabricated Metal Product Manufacturing;13100.0
+2002.0;   Machinery Manufacturing;10100.0
+2002.0;   Computer and Electronic Product Manufacturing;10100.0
+2002.0;   Electrical Equipment, Appliance and Component Manufacturing;3100.0
+2002.0;   Transportation Equipment Manufacturing;13500.0
+2002.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;5000.0
+2002.0;      Other Transportation Equipment Manufacturing;8500.0
+2002.0;   Furniture and Related Product Manufacturing;5000.0
+2002.0;   Miscellaneous Manufacturing;9100.0
+2002.0;  Durables;124500.0
+2002.0;  Non-durables;73300.0
+2002.0;Services-Producing Sector;1559700.0
+2002.0;Trade;318500.0
+2002.0;   Wholesale;72200.0
+2002.0;      Farm Product Wholesaler-Distributors;2000.0
+2002.0;      Petroleum Product Wholesaler-Distributors;
+2002.0;      Food, Beverage and Tobacco Wholesaler-Distributors;11200.0
+2002.0;      Personal and Household Goods Wholesaler-Distributors;8500.0
+2002.0;      Motor Vehicle and Parts Wholesaler-Distributors;4000.0
+2002.0;      Building Material and Supplies Wholesaler-Distributors;10900.0
+2002.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;20100.0
+2002.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;14300.0
+2002.0;   Retail;246300.0
+2002.0;      Motor Vehicle and Parts Dealers;23800.0
+2002.0;      Furniture and Home Furnishings Stores;9500.0
+2002.0;      Electronics and Appliance Stores;12900.0
+2002.0;      Building Material and Garden Equipment and Supplies Dealers;13600.0
+2002.0;      Food and Beverage Stores;64000.0
+2002.0;      Health and Personal Care Stores;20000.0
+2002.0;      Gasoline Stations;12200.0
+2002.0;      Clothing and Clothing Accessories Stores;21500.0
+2002.0;      Sporting Goods, Hobby, Book and Music Stores;10900.0
+2002.0;      General Merchandise Stores;29000.0
+2002.0;      Miscellaneous Store Retailers;23100.0
+2002.0;      Non-Store Retailers;6000.0
+2002.0;Transportation and Warehousing;110300.0
+2002.0;   Transportation;105200.0
+2002.0;      Air Transportation;14200.0
+2002.0;      Rail Transportation;6600.0
+2002.0;      Water Transportation;6400.0
+2002.0;      Truck Transportation;27800.0
+2002.0;      Transit and Ground Passenger Transportation;16600.0
+2002.0;      Pipeline Transportation;
+2002.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;19700.0
+2002.0;      Postal Service;7200.0
+2002.0;      Couriers and Messengers;6600.0
+2002.0;   Warehousing and Storage;5100.0
+2002.0;Finance, Insurance, Real Estate and Leasing;123800.0
+2002.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;39100.0
+2002.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;17700.0
+2002.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;23700.0
+2002.0;   Real Estate;32300.0
+2002.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;11000.0
+2002.0;Professional, Scientific and Technical Services;134000.0
+2002.0;   Legal Services;21200.0
+2002.0;   Accounting and Tax Preparation;20500.0
+2002.0;   Architectural, Engineering and Design Services;31600.0
+2002.0;   Computer System Design Services;25600.0
+2002.0;   Management, Scientific and Technical Services;20500.0
+2002.0;   Advertising and Related Services;6400.0
+2002.0;   Other Professional Services;8100.0
+2002.0;Business, Building and Other Support Services;71800.0
+2002.0;   Employment Services;5300.0
+2002.0;   Business Services;6800.0
+2002.0;   Travelling Services;9000.0
+2002.0;   Security Services;6700.0
+2002.0;   Building Services;36700.0
+2002.0;   Management of Enterprises and Other Administrative Services;3300.0
+2002.0;   Waste Management and Remediation Services;3900.0
+2002.0;Educational Services;136700.0
+2002.0;   Primary and Secondary;80200.0
+2002.0;   Post-Secondary;14600.0
+2002.0;   University;21400.0
+2002.0;   Other Schools and Educational Support;20500.0
+2002.0;Health Care and Social Assistance;211200.0
+2002.0;   Ambulatory Health Care Services;51100.0
+2002.0;   Hospitals;76300.0
+2002.0;   Nursing and Residential Care Facilities;35100.0
+2002.0;   Social Assistance;48700.0
+2002.0;Information, culture and recreation;105000.0
+2002.0;   Publishing Industries;11300.0
+2002.0;   Motion Picture and Sound Recording Industries;10100.0
+2002.0;   Broadcasting and Telecommunications;30800.0
+2002.0;   Information Services and Data Processing Services;4400.0
+2002.0;   Performing Arts, Spectator Sports and Related Industries;20500.0
+2002.0;   Heritage Institutions;2500.0
+2002.0;   Amusement, Gambling and Recreation Industries;25400.0
+2002.0;Accommodation and food services;163000.0
+2002.0;   Accommodation Services;39400.0
+2002.0;   Food Services and Drinking Places;123600.0
+2002.0;Other services;96000.0
+2002.0;   Repair and Maintenance;36700.0
+2002.0;   Personal and Laundry Services;24100.0
+2002.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;20800.0
+2002.0;   Private Households;14400.0
+2002.0;Public administration;89500.0
+2002.0;   Federal Government Public Administration (including Defence Services);32800.0
+2002.0;   Provincial and Territorial Public Administration;27500.0
+2002.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;29200.0
+2003.0;All industries;1998100.0
+2003.0;Goods-Producing Sector;413000.0
+2003.0;Agriculture;33200.0
+2003.0;   Crop Production;15800.0
+2003.0;   Animal Production;13600.0
+2003.0;   Mix farming;1600.0
+2003.0;   Support Activities for Agriculture;2200.0
+2003.0;Forestry, fishing, mining, quarrying, oil and gas;44500.0
+2003.0;   Forestry and Logging with support activities;26900.0
+2003.0;   Fishing, Hunting and Trapping;4500.0
+2003.0;   Mining and Oil and Gas Extraction;13100.0
+2003.0;      Oil and Gas Extraction;2500.0
+2003.0;      Mining (except Oil and Gas) & Mix Mining;6400.0
+2003.0;      Support Activities for Mining and Oil and Gas Extraction;4200.0
+2003.0;Utilities;11100.0
+2003.0;Construction;117600.0
+2003.0;  Construction of Buildings;31400.0
+2003.0;     Residential Building Construction;21600.0
+2003.0;     Non-residential Building Construction;9700.0
+2003.0;  Heavy and Civil Engineering Construction;15100.0
+2003.0;     Utility System Construction;2900.0
+2003.0;     Land Subdivision;2000.0
+2003.0;     Highway, Street and Bridge Construction;8400.0
+2003.0;     Other Heavy and Civil Engineering Construction;1800.0
+2003.0;   Trade Contracting;71200.0
+2003.0;     Foundation Structure and Building Exterior Contractors;12200.0
+2003.0;     Building Equipment Contractors;22700.0
+2003.0;     Building Finishing Contractors;21500.0
+2003.0;     Other Specialty Trade Contractors;14700.0
+2003.0;Manufacturing;206500.0
+2003.0;   Food Manufacturing;27100.0
+2003.0;   Beverage and Tobacco Product Manufacturing;4300.0
+2003.0;   Textile Mills & Textile Product Mills;1800.0
+2003.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;5600.0
+2003.0;   Wood Product Manufacturing;51400.0
+2003.0;   Paper Manufacturing;14300.0
+2003.0;   Printing and Related Support Activities;7800.0
+2003.0;   Petroleum and Coal Products Manufacturing;2000.0
+2003.0;   Chemical Manufacturing;7100.0
+2003.0;   Plastics and Rubber Products Manufacturing;7200.0
+2003.0;   Non-Metallic Mineral Product Manufacturing;5600.0
+2003.0;   Primary Metal Manufacturing;9200.0
+2003.0;   Fabricated Metal Product Manufacturing;13800.0
+2003.0;   Machinery Manufacturing;8800.0
+2003.0;   Computer and Electronic Product Manufacturing;10100.0
+2003.0;   Electrical Equipment, Appliance and Component Manufacturing;2800.0
+2003.0;   Transportation Equipment Manufacturing;12000.0
+2003.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;5100.0
+2003.0;      Other Transportation Equipment Manufacturing;6900.0
+2003.0;   Furniture and Related Product Manufacturing;4400.0
+2003.0;   Miscellaneous Manufacturing;11300.0
+2003.0;  Durables;129300.0
+2003.0;  Non-durables;77200.0
+2003.0;Services-Producing Sector;1585100.0
+2003.0;Trade;325600.0
+2003.0;   Wholesale;76300.0
+2003.0;      Farm Product Wholesaler-Distributors;
+2003.0;      Petroleum Product Wholesaler-Distributors;
+2003.0;      Food, Beverage and Tobacco Wholesaler-Distributors;11600.0
+2003.0;      Personal and Household Goods Wholesaler-Distributors;10400.0
+2003.0;      Motor Vehicle and Parts Wholesaler-Distributors;5100.0
+2003.0;      Building Material and Supplies Wholesaler-Distributors;8800.0
+2003.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21400.0
+2003.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;17700.0
+2003.0;   Retail;249300.0
+2003.0;      Motor Vehicle and Parts Dealers;26700.0
+2003.0;      Furniture and Home Furnishings Stores;9300.0
+2003.0;      Electronics and Appliance Stores;11400.0
+2003.0;      Building Material and Garden Equipment and Supplies Dealers;15400.0
+2003.0;      Food and Beverage Stores;70800.0
+2003.0;      Health and Personal Care Stores;19000.0
+2003.0;      Gasoline Stations;8000.0
+2003.0;      Clothing and Clothing Accessories Stores;17800.0
+2003.0;      Sporting Goods, Hobby, Book and Music Stores;11300.0
+2003.0;      General Merchandise Stores;29900.0
+2003.0;      Miscellaneous Store Retailers;23000.0
+2003.0;      Non-Store Retailers;6700.0
+2003.0;Transportation and Warehousing;114500.0
+2003.0;   Transportation;108900.0
+2003.0;      Air Transportation;14000.0
+2003.0;      Rail Transportation;7800.0
+2003.0;      Water Transportation;6600.0
+2003.0;      Truck Transportation;29500.0
+2003.0;      Transit and Ground Passenger Transportation;12100.0
+2003.0;      Pipeline Transportation;
+2003.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;21200.0
+2003.0;      Postal Service;8400.0
+2003.0;      Couriers and Messengers;8300.0
+2003.0;   Warehousing and Storage;5600.0
+2003.0;Finance, Insurance, Real Estate and Leasing;125900.0
+2003.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;42500.0
+2003.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;17600.0
+2003.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;20700.0
+2003.0;   Real Estate;34600.0
+2003.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;10600.0
+2003.0;Professional, Scientific and Technical Services;136000.0
+2003.0;   Legal Services;21200.0
+2003.0;   Accounting and Tax Preparation;18200.0
+2003.0;   Architectural, Engineering and Design Services;35200.0
+2003.0;   Computer System Design Services;28500.0
+2003.0;   Management, Scientific and Technical Services;20200.0
+2003.0;   Advertising and Related Services;5400.0
+2003.0;   Other Professional Services;7300.0
+2003.0;Business, Building and Other Support Services;78900.0
+2003.0;   Employment Services;5700.0
+2003.0;   Business Services;10200.0
+2003.0;   Travelling Services;6700.0
+2003.0;   Security Services;10600.0
+2003.0;   Building Services;38400.0
+2003.0;   Management of Enterprises and Other Administrative Services;2700.0
+2003.0;   Waste Management and Remediation Services;4500.0
+2003.0;Educational Services;136800.0
+2003.0;   Primary and Secondary;76900.0
+2003.0;   Post-Secondary;14000.0
+2003.0;   University;30300.0
+2003.0;   Other Schools and Educational Support;15700.0
+2003.0;Health Care and Social Assistance;214300.0
+2003.0;   Ambulatory Health Care Services;57800.0
+2003.0;   Hospitals;73700.0
+2003.0;   Nursing and Residential Care Facilities;32200.0
+2003.0;   Social Assistance;50700.0
+2003.0;Information, culture and recreation;105300.0
+2003.0;   Publishing Industries;13800.0
+2003.0;   Motion Picture and Sound Recording Industries;10700.0
+2003.0;   Broadcasting and Telecommunications;21000.0
+2003.0;   Information Services and Data Processing Services;4500.0
+2003.0;   Performing Arts, Spectator Sports and Related Industries;17100.0
+2003.0;   Heritage Institutions;3900.0
+2003.0;   Amusement, Gambling and Recreation Industries;34400.0
+2003.0;Accommodation and food services;159100.0
+2003.0;   Accommodation Services;37200.0
+2003.0;   Food Services and Drinking Places;122000.0
+2003.0;Other services;93900.0
+2003.0;   Repair and Maintenance;35500.0
+2003.0;   Personal and Laundry Services;27700.0
+2003.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;18100.0
+2003.0;   Private Households;12600.0
+2003.0;Public administration;94600.0
+2003.0;   Federal Government Public Administration (including Defence Services);37000.0
+2003.0;   Provincial and Territorial Public Administration;28600.0
+2003.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;29000.0
+2004.0;All industries;2028300.0
+2004.0;Goods-Producing Sector;431200.0
+2004.0;Agriculture;36000.0
+2004.0;   Crop Production;20600.0
+2004.0;   Animal Production;11500.0
+2004.0;   Mix farming;
+2004.0;   Support Activities for Agriculture;2800.0
+2004.0;Forestry, fishing, mining, quarrying, oil and gas;35700.0
+2004.0;   Forestry and Logging with support activities;21500.0
+2004.0;   Fishing, Hunting and Trapping;2900.0
+2004.0;   Mining and Oil and Gas Extraction;11300.0
+2004.0;      Oil and Gas Extraction;2500.0
+2004.0;      Mining (except Oil and Gas) & Mix Mining;3900.0
+2004.0;      Support Activities for Mining and Oil and Gas Extraction;4900.0
+2004.0;Utilities;9100.0
+2004.0;Construction;142100.0
+2004.0;  Construction of Buildings;34300.0
+2004.0;     Residential Building Construction;23400.0
+2004.0;     Non-residential Building Construction;10900.0
+2004.0;  Heavy and Civil Engineering Construction;16200.0
+2004.0;     Utility System Construction;4600.0
+2004.0;     Land Subdivision;1900.0
+2004.0;     Highway, Street and Bridge Construction;8100.0
+2004.0;     Other Heavy and Civil Engineering Construction;1600.0
+2004.0;   Trade Contracting;91600.0
+2004.0;     Foundation Structure and Building Exterior Contractors;15200.0
+2004.0;     Building Equipment Contractors;27500.0
+2004.0;     Building Finishing Contractors;30500.0
+2004.0;     Other Specialty Trade Contractors;18400.0
+2004.0;Manufacturing;208400.0
+2004.0;   Food Manufacturing;25400.0
+2004.0;   Beverage and Tobacco Product Manufacturing;5700.0
+2004.0;   Textile Mills & Textile Product Mills;2000.0
+2004.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;9500.0
+2004.0;   Wood Product Manufacturing;48800.0
+2004.0;   Paper Manufacturing;12000.0
+2004.0;   Printing and Related Support Activities;7800.0
+2004.0;   Petroleum and Coal Products Manufacturing;
+2004.0;   Chemical Manufacturing;8400.0
+2004.0;   Plastics and Rubber Products Manufacturing;7500.0
+2004.0;   Non-Metallic Mineral Product Manufacturing;7600.0
+2004.0;   Primary Metal Manufacturing;6700.0
+2004.0;   Fabricated Metal Product Manufacturing;14500.0
+2004.0;   Machinery Manufacturing;9600.0
+2004.0;   Computer and Electronic Product Manufacturing;9900.0
+2004.0;   Electrical Equipment, Appliance and Component Manufacturing;3900.0
+2004.0;   Transportation Equipment Manufacturing;11500.0
+2004.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;2900.0
+2004.0;      Other Transportation Equipment Manufacturing;8600.0
+2004.0;   Furniture and Related Product Manufacturing;5200.0
+2004.0;   Miscellaneous Manufacturing;11500.0
+2004.0;  Durables;129100.0
+2004.0;  Non-durables;79200.0
+2004.0;Services-Producing Sector;1597100.0
+2004.0;Trade;313000.0
+2004.0;   Wholesale;65500.0
+2004.0;      Farm Product Wholesaler-Distributors;
+2004.0;      Petroleum Product Wholesaler-Distributors;
+2004.0;      Food, Beverage and Tobacco Wholesaler-Distributors;11200.0
+2004.0;      Personal and Household Goods Wholesaler-Distributors;8700.0
+2004.0;      Motor Vehicle and Parts Wholesaler-Distributors;5900.0
+2004.0;      Building Material and Supplies Wholesaler-Distributors;7900.0
+2004.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;16700.0
+2004.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;13000.0
+2004.0;   Retail;247500.0
+2004.0;      Motor Vehicle and Parts Dealers;25900.0
+2004.0;      Furniture and Home Furnishings Stores;6900.0
+2004.0;      Electronics and Appliance Stores;11700.0
+2004.0;      Building Material and Garden Equipment and Supplies Dealers;13200.0
+2004.0;      Food and Beverage Stores;65100.0
+2004.0;      Health and Personal Care Stores;12900.0
+2004.0;      Gasoline Stations;11400.0
+2004.0;      Clothing and Clothing Accessories Stores;24800.0
+2004.0;      Sporting Goods, Hobby, Book and Music Stores;13500.0
+2004.0;      General Merchandise Stores;28600.0
+2004.0;      Miscellaneous Store Retailers;25600.0
+2004.0;      Non-Store Retailers;7700.0
+2004.0;Transportation and Warehousing;112600.0
+2004.0;   Transportation;108000.0
+2004.0;      Air Transportation;11500.0
+2004.0;      Rail Transportation;7700.0
+2004.0;      Water Transportation;5400.0
+2004.0;      Truck Transportation;30700.0
+2004.0;      Transit and Ground Passenger Transportation;15300.0
+2004.0;      Pipeline Transportation;
+2004.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;19600.0
+2004.0;      Postal Service;7600.0
+2004.0;      Couriers and Messengers;10000.0
+2004.0;   Warehousing and Storage;4600.0
+2004.0;Finance, Insurance, Real Estate and Leasing;127900.0
+2004.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;40200.0
+2004.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;14900.0
+2004.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;26700.0
+2004.0;   Real Estate;34800.0
+2004.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;11300.0
+2004.0;Professional, Scientific and Technical Services;143100.0
+2004.0;   Legal Services;17800.0
+2004.0;   Accounting and Tax Preparation;20700.0
+2004.0;   Architectural, Engineering and Design Services;35200.0
+2004.0;   Computer System Design Services;31600.0
+2004.0;   Management, Scientific and Technical Services;23500.0
+2004.0;   Advertising and Related Services;6700.0
+2004.0;   Other Professional Services;7800.0
+2004.0;Business, Building and Other Support Services;79600.0
+2004.0;   Employment Services;5000.0
+2004.0;   Business Services;8300.0
+2004.0;   Travelling Services;11700.0
+2004.0;   Security Services;9800.0
+2004.0;   Building Services;35600.0
+2004.0;   Management of Enterprises and Other Administrative Services;4300.0
+2004.0;   Waste Management and Remediation Services;4800.0
+2004.0;Educational Services;132400.0
+2004.0;   Primary and Secondary;75600.0
+2004.0;   Post-Secondary;14800.0
+2004.0;   University;23600.0
+2004.0;   Other Schools and Educational Support;18400.0
+2004.0;Health Care and Social Assistance;216700.0
+2004.0;   Ambulatory Health Care Services;51300.0
+2004.0;   Hospitals;77300.0
+2004.0;   Nursing and Residential Care Facilities;31700.0
+2004.0;   Social Assistance;56500.0
+2004.0;Information, culture and recreation;109800.0
+2004.0;   Publishing Industries;14500.0
+2004.0;   Motion Picture and Sound Recording Industries;10500.0
+2004.0;   Broadcasting and Telecommunications;24400.0
+2004.0;   Information Services and Data Processing Services;5300.0
+2004.0;   Performing Arts, Spectator Sports and Related Industries;20600.0
+2004.0;   Heritage Institutions;2400.0
+2004.0;   Amusement, Gambling and Recreation Industries;32100.0
+2004.0;Accommodation and food services;170000.0
+2004.0;   Accommodation Services;39700.0
+2004.0;   Food Services and Drinking Places;130300.0
+2004.0;Other services;92700.0
+2004.0;   Repair and Maintenance;32400.0
+2004.0;   Personal and Laundry Services;29600.0
+2004.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;18100.0
+2004.0;   Private Households;12600.0
+2004.0;Public administration;99100.0
+2004.0;   Federal Government Public Administration (including Defence Services);34700.0
+2004.0;   Provincial and Territorial Public Administration;29700.0
+2004.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;34700.0
+2005.0;All industries;2089700.0
+2005.0;Goods-Producing Sector;445100.0
+2005.0;Agriculture;38300.0
+2005.0;   Crop Production;19600.0
+2005.0;   Animal Production;14200.0
+2005.0;   Mix farming;3000.0
+2005.0;   Support Activities for Agriculture;1500.0
+2005.0;Forestry, fishing, mining, quarrying, oil and gas;37500.0
+2005.0;   Forestry and Logging with support activities;21600.0
+2005.0;   Fishing, Hunting and Trapping;2100.0
+2005.0;   Mining and Oil and Gas Extraction;13800.0
+2005.0;      Oil and Gas Extraction;2500.0
+2005.0;      Mining (except Oil and Gas) & Mix Mining;7000.0
+2005.0;      Support Activities for Mining and Oil and Gas Extraction;4400.0
+2005.0;Utilities;10200.0
+2005.0;Construction;165800.0
+2005.0;  Construction of Buildings;51200.0
+2005.0;     Residential Building Construction;40700.0
+2005.0;     Non-residential Building Construction;10500.0
+2005.0;  Heavy and Civil Engineering Construction;14100.0
+2005.0;     Utility System Construction;3100.0
+2005.0;     Land Subdivision;2500.0
+2005.0;     Highway, Street and Bridge Construction;7800.0
+2005.0;     Other Heavy and Civil Engineering Construction;
+2005.0;   Trade Contracting;100500.0
+2005.0;     Foundation Structure and Building Exterior Contractors;25500.0
+2005.0;     Building Equipment Contractors;29800.0
+2005.0;     Building Finishing Contractors;29800.0
+2005.0;     Other Specialty Trade Contractors;15400.0
+2005.0;Manufacturing;193400.0
+2005.0;   Food Manufacturing;25900.0
+2005.0;   Beverage and Tobacco Product Manufacturing;5000.0
+2005.0;   Textile Mills & Textile Product Mills;2100.0
+2005.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;5100.0
+2005.0;   Wood Product Manufacturing;47400.0
+2005.0;   Paper Manufacturing;11900.0
+2005.0;   Printing and Related Support Activities;7700.0
+2005.0;   Petroleum and Coal Products Manufacturing;
+2005.0;   Chemical Manufacturing;6300.0
+2005.0;   Plastics and Rubber Products Manufacturing;6700.0
+2005.0;   Non-Metallic Mineral Product Manufacturing;6400.0
+2005.0;   Primary Metal Manufacturing;6500.0
+2005.0;   Fabricated Metal Product Manufacturing;17600.0
+2005.0;   Machinery Manufacturing;9700.0
+2005.0;   Computer and Electronic Product Manufacturing;7800.0
+2005.0;   Electrical Equipment, Appliance and Component Manufacturing;3000.0
+2005.0;   Transportation Equipment Manufacturing;9000.0
+2005.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3400.0
+2005.0;      Other Transportation Equipment Manufacturing;5600.0
+2005.0;   Furniture and Related Product Manufacturing;5300.0
+2005.0;   Miscellaneous Manufacturing;9600.0
+2005.0;  Durables;122400.0
+2005.0;  Non-durables;71000.0
+2005.0;Services-Producing Sector;1644600.0
+2005.0;Trade;329800.0
+2005.0;   Wholesale;78500.0
+2005.0;      Farm Product Wholesaler-Distributors;
+2005.0;      Petroleum Product Wholesaler-Distributors;
+2005.0;      Food, Beverage and Tobacco Wholesaler-Distributors;13300.0
+2005.0;      Personal and Household Goods Wholesaler-Distributors;9500.0
+2005.0;      Motor Vehicle and Parts Wholesaler-Distributors;7000.0
+2005.0;      Building Material and Supplies Wholesaler-Distributors;10800.0
+2005.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;19800.0
+2005.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;16100.0
+2005.0;   Retail;251300.0
+2005.0;      Motor Vehicle and Parts Dealers;24100.0
+2005.0;      Furniture and Home Furnishings Stores;8100.0
+2005.0;      Electronics and Appliance Stores;10200.0
+2005.0;      Building Material and Garden Equipment and Supplies Dealers;19500.0
+2005.0;      Food and Beverage Stores;67000.0
+2005.0;      Health and Personal Care Stores;16400.0
+2005.0;      Gasoline Stations;10200.0
+2005.0;      Clothing and Clothing Accessories Stores;21900.0
+2005.0;      Sporting Goods, Hobby, Book and Music Stores;13200.0
+2005.0;      General Merchandise Stores;28500.0
+2005.0;      Miscellaneous Store Retailers;24000.0
+2005.0;      Non-Store Retailers;8000.0
+2005.0;Transportation and Warehousing;116300.0
+2005.0;   Transportation;111700.0
+2005.0;      Air Transportation;13200.0
+2005.0;      Rail Transportation;6000.0
+2005.0;      Water Transportation;5200.0
+2005.0;      Truck Transportation;34800.0
+2005.0;      Transit and Ground Passenger Transportation;16700.0
+2005.0;      Pipeline Transportation;
+2005.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;18100.0
+2005.0;      Postal Service;8100.0
+2005.0;      Couriers and Messengers;9100.0
+2005.0;   Warehousing and Storage;4600.0
+2005.0;Finance, Insurance, Real Estate and Leasing;131200.0
+2005.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;45400.0
+2005.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;13600.0
+2005.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;25500.0
+2005.0;   Real Estate;34300.0
+2005.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;12500.0
+2005.0;Professional, Scientific and Technical Services;159100.0
+2005.0;   Legal Services;22400.0
+2005.0;   Accounting and Tax Preparation;23900.0
+2005.0;   Architectural, Engineering and Design Services;42800.0
+2005.0;   Computer System Design Services;31500.0
+2005.0;   Management, Scientific and Technical Services;22900.0
+2005.0;   Advertising and Related Services;8400.0
+2005.0;   Other Professional Services;7300.0
+2005.0;Business, Building and Other Support Services;89500.0
+2005.0;   Employment Services;4900.0
+2005.0;   Business Services;12600.0
+2005.0;   Travelling Services;9900.0
+2005.0;   Security Services;14400.0
+2005.0;   Building Services;36300.0
+2005.0;   Management of Enterprises and Other Administrative Services;7200.0
+2005.0;   Waste Management and Remediation Services;4100.0
+2005.0;Educational Services;143200.0
+2005.0;   Primary and Secondary;81700.0
+2005.0;   Post-Secondary;13600.0
+2005.0;   University;26900.0
+2005.0;   Other Schools and Educational Support;21000.0
+2005.0;Health Care and Social Assistance;212800.0
+2005.0;   Ambulatory Health Care Services;58300.0
+2005.0;   Hospitals;71000.0
+2005.0;   Nursing and Residential Care Facilities;36100.0
+2005.0;   Social Assistance;47300.0
+2005.0;Information, culture and recreation;109200.0
+2005.0;   Publishing Industries;15300.0
+2005.0;   Motion Picture and Sound Recording Industries;9000.0
+2005.0;   Broadcasting and Telecommunications;22500.0
+2005.0;   Information Services and Data Processing Services;7600.0
+2005.0;   Performing Arts, Spectator Sports and Related Industries;19100.0
+2005.0;   Heritage Institutions;3500.0
+2005.0;   Amusement, Gambling and Recreation Industries;32200.0
+2005.0;Accommodation and food services;171700.0
+2005.0;   Accommodation Services;38000.0
+2005.0;   Food Services and Drinking Places;133800.0
+2005.0;Other services;88400.0
+2005.0;   Repair and Maintenance;32600.0
+2005.0;   Personal and Laundry Services;29000.0
+2005.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;16600.0
+2005.0;   Private Households;10300.0
+2005.0;Public administration;93200.0
+2005.0;   Federal Government Public Administration (including Defence Services);32200.0
+2005.0;   Provincial and Territorial Public Administration;29400.0
+2005.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;31500.0
+2006.0;All industries;2140800.0
+2006.0;Goods-Producing Sector;452700.0
+2006.0;Agriculture;34900.0
+2006.0;   Crop Production;18600.0
+2006.0;   Animal Production;12200.0
+2006.0;   Mix farming;2500.0
+2006.0;   Support Activities for Agriculture;1600.0
+2006.0;Forestry, fishing, mining, quarrying, oil and gas;43500.0
+2006.0;   Forestry and Logging with support activities;21700.0
+2006.0;   Fishing, Hunting and Trapping;2700.0
+2006.0;   Mining and Oil and Gas Extraction;19100.0
+2006.0;      Oil and Gas Extraction;3600.0
+2006.0;      Mining (except Oil and Gas) & Mix Mining;8000.0
+2006.0;      Support Activities for Mining and Oil and Gas Extraction;7500.0
+2006.0;Utilities;8200.0
+2006.0;Construction;174700.0
+2006.0;  Construction of Buildings;46100.0
+2006.0;     Residential Building Construction;38700.0
+2006.0;     Non-residential Building Construction;7500.0
+2006.0;  Heavy and Civil Engineering Construction;18200.0
+2006.0;     Utility System Construction;3300.0
+2006.0;     Land Subdivision;3500.0
+2006.0;     Highway, Street and Bridge Construction;9200.0
+2006.0;     Other Heavy and Civil Engineering Construction;2100.0
+2006.0;   Trade Contracting;110400.0
+2006.0;     Foundation Structure and Building Exterior Contractors;20500.0
+2006.0;     Building Equipment Contractors;33400.0
+2006.0;     Building Finishing Contractors;35500.0
+2006.0;     Other Specialty Trade Contractors;21000.0
+2006.0;Manufacturing;191300.0
+2006.0;   Food Manufacturing;18800.0
+2006.0;   Beverage and Tobacco Product Manufacturing;4700.0
+2006.0;   Textile Mills & Textile Product Mills;
+2006.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;6000.0
+2006.0;   Wood Product Manufacturing;47400.0
+2006.0;   Paper Manufacturing;14700.0
+2006.0;   Printing and Related Support Activities;7900.0
+2006.0;   Petroleum and Coal Products Manufacturing;
+2006.0;   Chemical Manufacturing;5800.0
+2006.0;   Plastics and Rubber Products Manufacturing;7300.0
+2006.0;   Non-Metallic Mineral Product Manufacturing;8100.0
+2006.0;   Primary Metal Manufacturing;6600.0
+2006.0;   Fabricated Metal Product Manufacturing;14700.0
+2006.0;   Machinery Manufacturing;8700.0
+2006.0;   Computer and Electronic Product Manufacturing;8000.0
+2006.0;   Electrical Equipment, Appliance and Component Manufacturing;3100.0
+2006.0;   Transportation Equipment Manufacturing;9400.0
+2006.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3900.0
+2006.0;      Other Transportation Equipment Manufacturing;5500.0
+2006.0;   Furniture and Related Product Manufacturing;6100.0
+2006.0;   Miscellaneous Manufacturing;12600.0
+2006.0;  Durables;124700.0
+2006.0;  Non-durables;66600.0
+2006.0;Services-Producing Sector;1688100.0
+2006.0;Trade;343300.0
+2006.0;   Wholesale;80300.0
+2006.0;      Farm Product Wholesaler-Distributors;
+2006.0;      Petroleum Product Wholesaler-Distributors;
+2006.0;      Food, Beverage and Tobacco Wholesaler-Distributors;12800.0
+2006.0;      Personal and Household Goods Wholesaler-Distributors;8900.0
+2006.0;      Motor Vehicle and Parts Wholesaler-Distributors;8800.0
+2006.0;      Building Material and Supplies Wholesaler-Distributors;12300.0
+2006.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21300.0
+2006.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;14900.0
+2006.0;   Retail;262900.0
+2006.0;      Motor Vehicle and Parts Dealers;27700.0
+2006.0;      Furniture and Home Furnishings Stores;11800.0
+2006.0;      Electronics and Appliance Stores;11500.0
+2006.0;      Building Material and Garden Equipment and Supplies Dealers;20000.0
+2006.0;      Food and Beverage Stores;66800.0
+2006.0;      Health and Personal Care Stores;18200.0
+2006.0;      Gasoline Stations;11600.0
+2006.0;      Clothing and Clothing Accessories Stores;24600.0
+2006.0;      Sporting Goods, Hobby, Book and Music Stores;12400.0
+2006.0;      General Merchandise Stores;26700.0
+2006.0;      Miscellaneous Store Retailers;24200.0
+2006.0;      Non-Store Retailers;7400.0
+2006.0;Transportation and Warehousing;115800.0
+2006.0;   Transportation;109400.0
+2006.0;      Air Transportation;12400.0
+2006.0;      Rail Transportation;4200.0
+2006.0;      Water Transportation;5900.0
+2006.0;      Truck Transportation;32800.0
+2006.0;      Transit and Ground Passenger Transportation;15100.0
+2006.0;      Pipeline Transportation;
+2006.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;19300.0
+2006.0;      Postal Service;9200.0
+2006.0;      Couriers and Messengers;9700.0
+2006.0;   Warehousing and Storage;6400.0
+2006.0;Finance, Insurance, Real Estate and Leasing;133200.0
+2006.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;41600.0
+2006.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;17500.0
+2006.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;25600.0
+2006.0;   Real Estate;38300.0
+2006.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;10300.0
+2006.0;Professional, Scientific and Technical Services;164000.0
+2006.0;   Legal Services;20500.0
+2006.0;   Accounting and Tax Preparation;19600.0
+2006.0;   Architectural, Engineering and Design Services;48000.0
+2006.0;   Computer System Design Services;36400.0
+2006.0;   Management, Scientific and Technical Services;23600.0
+2006.0;   Advertising and Related Services;7900.0
+2006.0;   Other Professional Services;8000.0
+2006.0;Business, Building and Other Support Services;95600.0
+2006.0;   Employment Services;8100.0
+2006.0;   Business Services;11800.0
+2006.0;   Travelling Services;9100.0
+2006.0;   Security Services;12000.0
+2006.0;   Building Services;42400.0
+2006.0;   Management of Enterprises and Other Administrative Services;5200.0
+2006.0;   Waste Management and Remediation Services;6900.0
+2006.0;Educational Services;153200.0
+2006.0;   Primary and Secondary;84000.0
+2006.0;   Post-Secondary;16100.0
+2006.0;   University;34700.0
+2006.0;   Other Schools and Educational Support;18500.0
+2006.0;Health Care and Social Assistance;227700.0
+2006.0;   Ambulatory Health Care Services;58100.0
+2006.0;   Hospitals;85600.0
+2006.0;   Nursing and Residential Care Facilities;35200.0
+2006.0;   Social Assistance;48800.0
+2006.0;Information, culture and recreation;109200.0
+2006.0;   Publishing Industries;14400.0
+2006.0;   Motion Picture and Sound Recording Industries;11800.0
+2006.0;   Broadcasting and Telecommunications;22400.0
+2006.0;   Information Services and Data Processing Services;5300.0
+2006.0;   Performing Arts, Spectator Sports and Related Industries;18800.0
+2006.0;   Heritage Institutions;2300.0
+2006.0;   Amusement, Gambling and Recreation Industries;34200.0
+2006.0;Accommodation and food services;167400.0
+2006.0;   Accommodation Services;34300.0
+2006.0;   Food Services and Drinking Places;133100.0
+2006.0;Other services;89000.0
+2006.0;   Repair and Maintenance;33800.0
+2006.0;   Personal and Laundry Services;29700.0
+2006.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;16700.0
+2006.0;   Private Households;8800.0
+2006.0;Public administration;89900.0
+2006.0;   Federal Government Public Administration (including Defence Services);34400.0
+2006.0;   Provincial and Territorial Public Administration;26600.0
+2006.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;28900.0
+2007.0;All industries;2206000.0
+2007.0;Goods-Producing Sector;480600.0
+2007.0;Agriculture;34900.0
+2007.0;   Crop Production;16100.0
+2007.0;   Animal Production;14400.0
+2007.0;   Mix farming;3200.0
+2007.0;   Support Activities for Agriculture;
+2007.0;Forestry, fishing, mining, quarrying, oil and gas;46700.0
+2007.0;   Forestry and Logging with support activities;24100.0
+2007.0;   Fishing, Hunting and Trapping;2900.0
+2007.0;   Mining and Oil and Gas Extraction;19700.0
+2007.0;      Oil and Gas Extraction;1800.0
+2007.0;      Mining (except Oil and Gas) & Mix Mining;9900.0
+2007.0;      Support Activities for Mining and Oil and Gas Extraction;8000.0
+2007.0;Utilities;9900.0
+2007.0;Construction;191700.0
+2007.0;  Construction of Buildings;45900.0
+2007.0;     Residential Building Construction;34800.0
+2007.0;     Non-residential Building Construction;11000.0
+2007.0;  Heavy and Civil Engineering Construction;18800.0
+2007.0;     Utility System Construction;3500.0
+2007.0;     Land Subdivision;3700.0
+2007.0;     Highway, Street and Bridge Construction;9800.0
+2007.0;     Other Heavy and Civil Engineering Construction;1900.0
+2007.0;   Trade Contracting;127000.0
+2007.0;     Foundation Structure and Building Exterior Contractors;24700.0
+2007.0;     Building Equipment Contractors;43500.0
+2007.0;     Building Finishing Contractors;33400.0
+2007.0;     Other Specialty Trade Contractors;25400.0
+2007.0;Manufacturing;197400.0
+2007.0;   Food Manufacturing;22000.0
+2007.0;   Beverage and Tobacco Product Manufacturing;5200.0
+2007.0;   Textile Mills & Textile Product Mills;1600.0
+2007.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;6900.0
+2007.0;   Wood Product Manufacturing;47200.0
+2007.0;   Paper Manufacturing;14900.0
+2007.0;   Printing and Related Support Activities;6000.0
+2007.0;   Petroleum and Coal Products Manufacturing;
+2007.0;   Chemical Manufacturing;5500.0
+2007.0;   Plastics and Rubber Products Manufacturing;8700.0
+2007.0;   Non-Metallic Mineral Product Manufacturing;8100.0
+2007.0;   Primary Metal Manufacturing;5800.0
+2007.0;   Fabricated Metal Product Manufacturing;15100.0
+2007.0;   Machinery Manufacturing;8600.0
+2007.0;   Computer and Electronic Product Manufacturing;7000.0
+2007.0;   Electrical Equipment, Appliance and Component Manufacturing;2600.0
+2007.0;   Transportation Equipment Manufacturing;12000.0
+2007.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4500.0
+2007.0;      Other Transportation Equipment Manufacturing;7500.0
+2007.0;   Furniture and Related Product Manufacturing;6900.0
+2007.0;   Miscellaneous Manufacturing;12700.0
+2007.0;  Durables;126000.0
+2007.0;  Non-durables;71500.0
+2007.0;Services-Producing Sector;1725400.0
+2007.0;Trade;353200.0
+2007.0;   Wholesale;79200.0
+2007.0;      Farm Product Wholesaler-Distributors;
+2007.0;      Petroleum Product Wholesaler-Distributors;
+2007.0;      Food, Beverage and Tobacco Wholesaler-Distributors;11900.0
+2007.0;      Personal and Household Goods Wholesaler-Distributors;6400.0
+2007.0;      Motor Vehicle and Parts Wholesaler-Distributors;8800.0
+2007.0;      Building Material and Supplies Wholesaler-Distributors;12700.0
+2007.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21700.0
+2007.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;15300.0
+2007.0;   Retail;274000.0
+2007.0;      Motor Vehicle and Parts Dealers;28800.0
+2007.0;      Furniture and Home Furnishings Stores;12600.0
+2007.0;      Electronics and Appliance Stores;10000.0
+2007.0;      Building Material and Garden Equipment and Supplies Dealers;19200.0
+2007.0;      Food and Beverage Stores;76900.0
+2007.0;      Health and Personal Care Stores;19500.0
+2007.0;      Gasoline Stations;8600.0
+2007.0;      Clothing and Clothing Accessories Stores;27300.0
+2007.0;      Sporting Goods, Hobby, Book and Music Stores;15000.0
+2007.0;      General Merchandise Stores;29300.0
+2007.0;      Miscellaneous Store Retailers;19900.0
+2007.0;      Non-Store Retailers;6900.0
+2007.0;Transportation and Warehousing;121700.0
+2007.0;   Transportation;114800.0
+2007.0;      Air Transportation;14000.0
+2007.0;      Rail Transportation;4700.0
+2007.0;      Water Transportation;5500.0
+2007.0;      Truck Transportation;33600.0
+2007.0;      Transit and Ground Passenger Transportation;16400.0
+2007.0;      Pipeline Transportation;
+2007.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;21700.0
+2007.0;      Postal Service;9100.0
+2007.0;      Couriers and Messengers;9600.0
+2007.0;   Warehousing and Storage;6900.0
+2007.0;Finance, Insurance, Real Estate and Leasing;141400.0
+2007.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;50400.0
+2007.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;16400.0
+2007.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;28500.0
+2007.0;   Real Estate;36700.0
+2007.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;9400.0
+2007.0;Professional, Scientific and Technical Services;164100.0
+2007.0;   Legal Services;17600.0
+2007.0;   Accounting and Tax Preparation;22000.0
+2007.0;   Architectural, Engineering and Design Services;40900.0
+2007.0;   Computer System Design Services;32400.0
+2007.0;   Management, Scientific and Technical Services;30600.0
+2007.0;   Advertising and Related Services;10200.0
+2007.0;   Other Professional Services;10500.0
+2007.0;Business, Building and Other Support Services;95500.0
+2007.0;   Employment Services;5900.0
+2007.0;   Business Services;12700.0
+2007.0;   Travelling Services;10900.0
+2007.0;   Security Services;12500.0
+2007.0;   Building Services;42900.0
+2007.0;   Management of Enterprises and Other Administrative Services;6200.0
+2007.0;   Waste Management and Remediation Services;4400.0
+2007.0;Educational Services;154300.0
+2007.0;   Primary and Secondary;87100.0
+2007.0;   Post-Secondary;13100.0
+2007.0;   University;32800.0
+2007.0;   Other Schools and Educational Support;21300.0
+2007.0;Health Care and Social Assistance;231700.0
+2007.0;   Ambulatory Health Care Services;62700.0
+2007.0;   Hospitals;82800.0
+2007.0;   Nursing and Residential Care Facilities;34400.0
+2007.0;   Social Assistance;51700.0
+2007.0;Information, culture and recreation;113900.0
+2007.0;   Publishing Industries;14800.0
+2007.0;   Motion Picture and Sound Recording Industries;14100.0
+2007.0;   Broadcasting and Telecommunications;24500.0
+2007.0;   Information Services and Data Processing Services;5200.0
+2007.0;   Performing Arts, Spectator Sports and Related Industries;17700.0
+2007.0;   Heritage Institutions;3000.0
+2007.0;   Amusement, Gambling and Recreation Industries;34600.0
+2007.0;Accommodation and food services;168700.0
+2007.0;   Accommodation Services;34300.0
+2007.0;   Food Services and Drinking Places;134300.0
+2007.0;Other services;86200.0
+2007.0;   Repair and Maintenance;33800.0
+2007.0;   Personal and Laundry Services;26500.0
+2007.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;16700.0
+2007.0;   Private Households;9100.0
+2007.0;Public administration;94700.0
+2007.0;   Federal Government Public Administration (including Defence Services);34900.0
+2007.0;   Provincial and Territorial Public Administration;26100.0
+2007.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;33700.0
+2008.0;All industries;2241900.0
+2008.0;Goods-Producing Sector;486100.0
+2008.0;Agriculture;33800.0
+2008.0;   Crop Production;15100.0
+2008.0;   Animal Production;15000.0
+2008.0;   Mix farming;
+2008.0;   Support Activities for Agriculture;2500.0
+2008.0;Forestry, fishing, mining, quarrying, oil and gas;43800.0
+2008.0;   Forestry and Logging with support activities;17200.0
+2008.0;   Fishing, Hunting and Trapping;2100.0
+2008.0;   Mining and Oil and Gas Extraction;24500.0
+2008.0;      Oil and Gas Extraction;2100.0
+2008.0;      Mining (except Oil and Gas) & Mix Mining;13400.0
+2008.0;      Support Activities for Mining and Oil and Gas Extraction;9100.0
+2008.0;Utilities;12500.0
+2008.0;Construction;218100.0
+2008.0;  Construction of Buildings;60400.0
+2008.0;     Residential Building Construction;48100.0
+2008.0;     Non-residential Building Construction;12300.0
+2008.0;  Heavy and Civil Engineering Construction;23700.0
+2008.0;     Utility System Construction;4200.0
+2008.0;     Land Subdivision;5400.0
+2008.0;     Highway, Street and Bridge Construction;12100.0
+2008.0;     Other Heavy and Civil Engineering Construction;1900.0
+2008.0;   Trade Contracting;134000.0
+2008.0;     Foundation Structure and Building Exterior Contractors;32700.0
+2008.0;     Building Equipment Contractors;45900.0
+2008.0;     Building Finishing Contractors;32100.0
+2008.0;     Other Specialty Trade Contractors;23300.0
+2008.0;Manufacturing;177900.0
+2008.0;   Food Manufacturing;23300.0
+2008.0;   Beverage and Tobacco Product Manufacturing;5700.0
+2008.0;   Textile Mills & Textile Product Mills;
+2008.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;5400.0
+2008.0;   Wood Product Manufacturing;37200.0
+2008.0;   Paper Manufacturing;12900.0
+2008.0;   Printing and Related Support Activities;8300.0
+2008.0;   Petroleum and Coal Products Manufacturing;
+2008.0;   Chemical Manufacturing;6700.0
+2008.0;   Plastics and Rubber Products Manufacturing;4600.0
+2008.0;   Non-Metallic Mineral Product Manufacturing;7300.0
+2008.0;   Primary Metal Manufacturing;4900.0
+2008.0;   Fabricated Metal Product Manufacturing;15700.0
+2008.0;   Machinery Manufacturing;5800.0
+2008.0;   Computer and Electronic Product Manufacturing;6300.0
+2008.0;   Electrical Equipment, Appliance and Component Manufacturing;4200.0
+2008.0;   Transportation Equipment Manufacturing;9300.0
+2008.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4800.0
+2008.0;      Other Transportation Equipment Manufacturing;4500.0
+2008.0;   Furniture and Related Product Manufacturing;5700.0
+2008.0;   Miscellaneous Manufacturing;12300.0
+2008.0;  Durables;108700.0
+2008.0;  Non-durables;69200.0
+2008.0;Services-Producing Sector;1755800.0
+2008.0;Trade;352200.0
+2008.0;   Wholesale;85500.0
+2008.0;      Farm Product Wholesaler-Distributors;
+2008.0;      Petroleum Product Wholesaler-Distributors;
+2008.0;      Food, Beverage and Tobacco Wholesaler-Distributors;12400.0
+2008.0;      Personal and Household Goods Wholesaler-Distributors;8700.0
+2008.0;      Motor Vehicle and Parts Wholesaler-Distributors;9500.0
+2008.0;      Building Material and Supplies Wholesaler-Distributors;14500.0
+2008.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;24100.0
+2008.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;14900.0
+2008.0;   Retail;266700.0
+2008.0;      Motor Vehicle and Parts Dealers;26300.0
+2008.0;      Furniture and Home Furnishings Stores;8400.0
+2008.0;      Electronics and Appliance Stores;11400.0
+2008.0;      Building Material and Garden Equipment and Supplies Dealers;18100.0
+2008.0;      Food and Beverage Stores;79600.0
+2008.0;      Health and Personal Care Stores;20000.0
+2008.0;      Gasoline Stations;10400.0
+2008.0;      Clothing and Clothing Accessories Stores;25700.0
+2008.0;      Sporting Goods, Hobby, Book and Music Stores;11800.0
+2008.0;      General Merchandise Stores;28900.0
+2008.0;      Miscellaneous Store Retailers;18200.0
+2008.0;      Non-Store Retailers;7900.0
+2008.0;Transportation and Warehousing;123800.0
+2008.0;   Transportation;118500.0
+2008.0;      Air Transportation;11500.0
+2008.0;      Rail Transportation;5200.0
+2008.0;      Water Transportation;5800.0
+2008.0;      Truck Transportation;35100.0
+2008.0;      Transit and Ground Passenger Transportation;18400.0
+2008.0;      Pipeline Transportation;
+2008.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;21700.0
+2008.0;      Postal Service;10400.0
+2008.0;      Couriers and Messengers;10200.0
+2008.0;   Warehousing and Storage;5300.0
+2008.0;Finance, Insurance, Real Estate and Leasing;138700.0
+2008.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;46600.0
+2008.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;14600.0
+2008.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;28300.0
+2008.0;   Real Estate;38700.0
+2008.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;10400.0
+2008.0;Professional, Scientific and Technical Services;165600.0
+2008.0;   Legal Services;23300.0
+2008.0;   Accounting and Tax Preparation;25300.0
+2008.0;   Architectural, Engineering and Design Services;45500.0
+2008.0;   Computer System Design Services;30200.0
+2008.0;   Management, Scientific and Technical Services;23600.0
+2008.0;   Advertising and Related Services;6900.0
+2008.0;   Other Professional Services;10700.0
+2008.0;Business, Building and Other Support Services;102600.0
+2008.0;   Employment Services;8100.0
+2008.0;   Business Services;12900.0
+2008.0;   Travelling Services;10300.0
+2008.0;   Security Services;13500.0
+2008.0;   Building Services;44200.0
+2008.0;   Management of Enterprises and Other Administrative Services;7500.0
+2008.0;   Waste Management and Remediation Services;6100.0
+2008.0;Educational Services;153300.0
+2008.0;   Primary and Secondary;86200.0
+2008.0;   Post-Secondary;14300.0
+2008.0;   University;33800.0
+2008.0;   Other Schools and Educational Support;19000.0
+2008.0;Health Care and Social Assistance;241200.0
+2008.0;   Ambulatory Health Care Services;67900.0
+2008.0;   Hospitals;85500.0
+2008.0;   Nursing and Residential Care Facilities;36100.0
+2008.0;   Social Assistance;51600.0
+2008.0;Information, culture and recreation;112200.0
+2008.0;   Publishing Industries;14800.0
+2008.0;   Motion Picture and Sound Recording Industries;10800.0
+2008.0;   Broadcasting and Telecommunications;24000.0
+2008.0;   Information Services and Data Processing Services;5600.0
+2008.0;   Performing Arts, Spectator Sports and Related Industries;18800.0
+2008.0;   Heritage Institutions;2900.0
+2008.0;   Amusement, Gambling and Recreation Industries;35100.0
+2008.0;Accommodation and food services;170600.0
+2008.0;   Accommodation Services;35300.0
+2008.0;   Food Services and Drinking Places;135300.0
+2008.0;Other services;94800.0
+2008.0;   Repair and Maintenance;34100.0
+2008.0;   Personal and Laundry Services;26900.0
+2008.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;19900.0
+2008.0;   Private Households;13800.0
+2008.0;Public administration;100900.0
+2008.0;   Federal Government Public Administration (including Defence Services);37300.0
+2008.0;   Provincial and Territorial Public Administration;26300.0
+2008.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;37300.0
+2009.0;All industries;2191900.0
+2009.0;Goods-Producing Sector;441400.0
+2009.0;Agriculture;31600.0
+2009.0;   Crop Production;17300.0
+2009.0;   Animal Production;12600.0
+2009.0;   Mix farming;
+2009.0;   Support Activities for Agriculture;
+2009.0;Forestry, fishing, mining, quarrying, oil and gas;39600.0
+2009.0;   Forestry and Logging with support activities;13800.0
+2009.0;   Fishing, Hunting and Trapping;2200.0
+2009.0;   Mining and Oil and Gas Extraction;23600.0
+2009.0;      Oil and Gas Extraction;3000.0
+2009.0;      Mining (except Oil and Gas) & Mix Mining;12100.0
+2009.0;      Support Activities for Mining and Oil and Gas Extraction;8500.0
+2009.0;Utilities;11900.0
+2009.0;Construction;203700.0
+2009.0;  Construction of Buildings;53900.0
+2009.0;     Residential Building Construction;45200.0
+2009.0;     Non-residential Building Construction;8700.0
+2009.0;  Heavy and Civil Engineering Construction;23200.0
+2009.0;     Utility System Construction;4900.0
+2009.0;     Land Subdivision;5100.0
+2009.0;     Highway, Street and Bridge Construction;11900.0
+2009.0;     Other Heavy and Civil Engineering Construction;
+2009.0;   Trade Contracting;126600.0
+2009.0;     Foundation Structure and Building Exterior Contractors;29900.0
+2009.0;     Building Equipment Contractors;41800.0
+2009.0;     Building Finishing Contractors;35500.0
+2009.0;     Other Specialty Trade Contractors;19400.0
+2009.0;Manufacturing;154500.0
+2009.0;   Food Manufacturing;23500.0
+2009.0;   Beverage and Tobacco Product Manufacturing;3800.0
+2009.0;   Textile Mills & Textile Product Mills;
+2009.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3600.0
+2009.0;   Wood Product Manufacturing;31400.0
+2009.0;   Paper Manufacturing;10300.0
+2009.0;   Printing and Related Support Activities;7200.0
+2009.0;   Petroleum and Coal Products Manufacturing;
+2009.0;   Chemical Manufacturing;5300.0
+2009.0;   Plastics and Rubber Products Manufacturing;5800.0
+2009.0;   Non-Metallic Mineral Product Manufacturing;7000.0
+2009.0;   Primary Metal Manufacturing;5100.0
+2009.0;   Fabricated Metal Product Manufacturing;11800.0
+2009.0;   Machinery Manufacturing;6300.0
+2009.0;   Computer and Electronic Product Manufacturing;4400.0
+2009.0;   Electrical Equipment, Appliance and Component Manufacturing;1600.0
+2009.0;   Transportation Equipment Manufacturing;9600.0
+2009.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;1700.0
+2009.0;      Other Transportation Equipment Manufacturing;7900.0
+2009.0;   Furniture and Related Product Manufacturing;5100.0
+2009.0;   Miscellaneous Manufacturing;10800.0
+2009.0;  Durables;93000.0
+2009.0;  Non-durables;61500.0
+2009.0;Services-Producing Sector;1750600.0
+2009.0;Trade;359000.0
+2009.0;   Wholesale;85500.0
+2009.0;      Farm Product Wholesaler-Distributors;1800.0
+2009.0;      Petroleum Product Wholesaler-Distributors;
+2009.0;      Food, Beverage and Tobacco Wholesaler-Distributors;15100.0
+2009.0;      Personal and Household Goods Wholesaler-Distributors;10600.0
+2009.0;      Motor Vehicle and Parts Wholesaler-Distributors;6300.0
+2009.0;      Building Material and Supplies Wholesaler-Distributors;13800.0
+2009.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21800.0
+2009.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;15100.0
+2009.0;   Retail;273500.0
+2009.0;      Motor Vehicle and Parts Dealers;26900.0
+2009.0;      Furniture and Home Furnishings Stores;9900.0
+2009.0;      Electronics and Appliance Stores;11100.0
+2009.0;      Building Material and Garden Equipment and Supplies Dealers;20900.0
+2009.0;      Food and Beverage Stores;74200.0
+2009.0;      Health and Personal Care Stores;19800.0
+2009.0;      Gasoline Stations;9000.0
+2009.0;      Clothing and Clothing Accessories Stores;25400.0
+2009.0;      Sporting Goods, Hobby, Book and Music Stores;11500.0
+2009.0;      General Merchandise Stores;32700.0
+2009.0;      Miscellaneous Store Retailers;23800.0
+2009.0;      Non-Store Retailers;8300.0
+2009.0;Transportation and Warehousing;113600.0
+2009.0;   Transportation;108000.0
+2009.0;      Air Transportation;12300.0
+2009.0;      Rail Transportation;5200.0
+2009.0;      Water Transportation;3200.0
+2009.0;      Truck Transportation;31900.0
+2009.0;      Transit and Ground Passenger Transportation;19800.0
+2009.0;      Pipeline Transportation;
+2009.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;19500.0
+2009.0;      Postal Service;8000.0
+2009.0;      Couriers and Messengers;7400.0
+2009.0;   Warehousing and Storage;5600.0
+2009.0;Finance, Insurance, Real Estate and Leasing;132700.0
+2009.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;39800.0
+2009.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;17300.0
+2009.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;27200.0
+2009.0;   Real Estate;38900.0
+2009.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;9400.0
+2009.0;Professional, Scientific and Technical Services;159800.0
+2009.0;   Legal Services;18400.0
+2009.0;   Accounting and Tax Preparation;23600.0
+2009.0;   Architectural, Engineering and Design Services;44400.0
+2009.0;   Computer System Design Services;31400.0
+2009.0;   Management, Scientific and Technical Services;24500.0
+2009.0;   Advertising and Related Services;7600.0
+2009.0;   Other Professional Services;9800.0
+2009.0;Business, Building and Other Support Services;97900.0
+2009.0;   Employment Services;8100.0
+2009.0;   Business Services;6500.0
+2009.0;   Travelling Services;9800.0
+2009.0;   Security Services;15600.0
+2009.0;   Building Services;47300.0
+2009.0;   Management of Enterprises and Other Administrative Services;5800.0
+2009.0;   Waste Management and Remediation Services;4800.0
+2009.0;Educational Services;147000.0
+2009.0;   Primary and Secondary;81200.0
+2009.0;   Post-Secondary;10400.0
+2009.0;   University;33100.0
+2009.0;   Other Schools and Educational Support;22300.0
+2009.0;Health Care and Social Assistance;257000.0
+2009.0;   Ambulatory Health Care Services;72200.0
+2009.0;   Hospitals;90800.0
+2009.0;   Nursing and Residential Care Facilities;40000.0
+2009.0;   Social Assistance;53900.0
+2009.0;Information, culture and recreation;111900.0
+2009.0;   Publishing Industries;11700.0
+2009.0;   Motion Picture and Sound Recording Industries;9100.0
+2009.0;   Broadcasting and Telecommunications;24300.0
+2009.0;   Information Services and Data Processing Services;5700.0
+2009.0;   Performing Arts, Spectator Sports and Related Industries;25300.0
+2009.0;   Heritage Institutions;2700.0
+2009.0;   Amusement, Gambling and Recreation Industries;33000.0
+2009.0;Accommodation and food services;170800.0
+2009.0;   Accommodation Services;41800.0
+2009.0;   Food Services and Drinking Places;129000.0
+2009.0;Other services;95300.0
+2009.0;   Repair and Maintenance;28300.0
+2009.0;   Personal and Laundry Services;32200.0
+2009.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;23100.0
+2009.0;   Private Households;11800.0
+2009.0;Public administration;105600.0
+2009.0;   Federal Government Public Administration (including Defence Services);38900.0
+2009.0;   Provincial and Territorial Public Administration;27000.0
+2009.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;39800.0
+2010.0;All industries;2223000.0
+2010.0;Goods-Producing Sector;436600.0
+2010.0;Agriculture;29700.0
+2010.0;   Crop Production;14200.0
+2010.0;   Animal Production;12900.0
+2010.0;   Mix farming;
+2010.0;   Support Activities for Agriculture;1700.0
+2010.0;Forestry, fishing, mining, quarrying, oil and gas;41700.0
+2010.0;   Forestry and Logging with support activities;16300.0
+2010.0;   Fishing, Hunting and Trapping;2000.0
+2010.0;   Mining and Oil and Gas Extraction;23400.0
+2010.0;      Oil and Gas Extraction;3000.0
+2010.0;      Mining (except Oil and Gas) & Mix Mining;12000.0
+2010.0;      Support Activities for Mining and Oil and Gas Extraction;8400.0
+2010.0;Utilities;12200.0
+2010.0;Construction;198400.0
+2010.0;  Construction of Buildings;57600.0
+2010.0;     Residential Building Construction;48600.0
+2010.0;     Non-residential Building Construction;9000.0
+2010.0;  Heavy and Civil Engineering Construction;21200.0
+2010.0;     Utility System Construction;4500.0
+2010.0;     Land Subdivision;3900.0
+2010.0;     Highway, Street and Bridge Construction;11600.0
+2010.0;     Other Heavy and Civil Engineering Construction;
+2010.0;   Trade Contracting;119600.0
+2010.0;     Foundation Structure and Building Exterior Contractors;28000.0
+2010.0;     Building Equipment Contractors;42800.0
+2010.0;     Building Finishing Contractors;36000.0
+2010.0;     Other Specialty Trade Contractors;12800.0
+2010.0;Manufacturing;154600.0
+2010.0;   Food Manufacturing;20600.0
+2010.0;   Beverage and Tobacco Product Manufacturing;4300.0
+2010.0;   Textile Mills & Textile Product Mills;2100.0
+2010.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3200.0
+2010.0;   Wood Product Manufacturing;30800.0
+2010.0;   Paper Manufacturing;9400.0
+2010.0;   Printing and Related Support Activities;6000.0
+2010.0;   Petroleum and Coal Products Manufacturing;1800.0
+2010.0;   Chemical Manufacturing;4800.0
+2010.0;   Plastics and Rubber Products Manufacturing;3800.0
+2010.0;   Non-Metallic Mineral Product Manufacturing;6700.0
+2010.0;   Primary Metal Manufacturing;6700.0
+2010.0;   Fabricated Metal Product Manufacturing;12200.0
+2010.0;   Machinery Manufacturing;7000.0
+2010.0;   Computer and Electronic Product Manufacturing;6900.0
+2010.0;   Electrical Equipment, Appliance and Component Manufacturing;2400.0
+2010.0;   Transportation Equipment Manufacturing;8600.0
+2010.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;2600.0
+2010.0;      Other Transportation Equipment Manufacturing;6000.0
+2010.0;   Furniture and Related Product Manufacturing;4900.0
+2010.0;   Miscellaneous Manufacturing;12500.0
+2010.0;  Durables;98700.0
+2010.0;  Non-durables;56000.0
+2010.0;Services-Producing Sector;1786500.0
+2010.0;Trade;369400.0
+2010.0;   Wholesale;81900.0
+2010.0;      Farm Product Wholesaler-Distributors;
+2010.0;      Petroleum Product Wholesaler-Distributors;
+2010.0;      Food, Beverage and Tobacco Wholesaler-Distributors;11900.0
+2010.0;      Personal and Household Goods Wholesaler-Distributors;9400.0
+2010.0;      Motor Vehicle and Parts Wholesaler-Distributors;7600.0
+2010.0;      Building Material and Supplies Wholesaler-Distributors;17400.0
+2010.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;18800.0
+2010.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;15100.0
+2010.0;   Retail;287500.0
+2010.0;      Motor Vehicle and Parts Dealers;32100.0
+2010.0;      Furniture and Home Furnishings Stores;10800.0
+2010.0;      Electronics and Appliance Stores;11800.0
+2010.0;      Building Material and Garden Equipment and Supplies Dealers;18800.0
+2010.0;      Food and Beverage Stores;82200.0
+2010.0;      Health and Personal Care Stores;23400.0
+2010.0;      Gasoline Stations;6100.0
+2010.0;      Clothing and Clothing Accessories Stores;25100.0
+2010.0;      Sporting Goods, Hobby, Book and Music Stores;12800.0
+2010.0;      General Merchandise Stores;37200.0
+2010.0;      Miscellaneous Store Retailers;20500.0
+2010.0;      Non-Store Retailers;6700.0
+2010.0;Transportation and Warehousing;117700.0
+2010.0;   Transportation;111500.0
+2010.0;      Air Transportation;13600.0
+2010.0;      Rail Transportation;5300.0
+2010.0;      Water Transportation;6400.0
+2010.0;      Truck Transportation;29800.0
+2010.0;      Transit and Ground Passenger Transportation;21000.0
+2010.0;      Pipeline Transportation;
+2010.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;18900.0
+2010.0;      Postal Service;8400.0
+2010.0;      Couriers and Messengers;7800.0
+2010.0;   Warehousing and Storage;6200.0
+2010.0;Finance, Insurance, Real Estate and Leasing;139800.0
+2010.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;47800.0
+2010.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;18200.0
+2010.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;28100.0
+2010.0;   Real Estate;37400.0
+2010.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;8400.0
+2010.0;Professional, Scientific and Technical Services;163100.0
+2010.0;   Legal Services;22100.0
+2010.0;   Accounting and Tax Preparation;18700.0
+2010.0;   Architectural, Engineering and Design Services;45000.0
+2010.0;   Computer System Design Services;32600.0
+2010.0;   Management, Scientific and Technical Services;26200.0
+2010.0;   Advertising and Related Services;8700.0
+2010.0;   Other Professional Services;9800.0
+2010.0;Business, Building and Other Support Services;95400.0
+2010.0;   Employment Services;6400.0
+2010.0;   Business Services;6600.0
+2010.0;   Travelling Services;11200.0
+2010.0;   Security Services;16700.0
+2010.0;   Building Services;45700.0
+2010.0;   Management of Enterprises and Other Administrative Services;4700.0
+2010.0;   Waste Management and Remediation Services;4200.0
+2010.0;Educational Services;152000.0
+2010.0;   Primary and Secondary;83500.0
+2010.0;   Post-Secondary;12000.0
+2010.0;   University;32500.0
+2010.0;   Other Schools and Educational Support;24000.0
+2010.0;Health Care and Social Assistance;263800.0
+2010.0;   Ambulatory Health Care Services;70200.0
+2010.0;   Hospitals;93500.0
+2010.0;   Nursing and Residential Care Facilities;39400.0
+2010.0;   Social Assistance;60700.0
+2010.0;Information, culture and recreation;112100.0
+2010.0;   Publishing Industries;13800.0
+2010.0;   Motion Picture and Sound Recording Industries;13600.0
+2010.0;   Broadcasting and Telecommunications;22300.0
+2010.0;   Information Services and Data Processing Services;4500.0
+2010.0;   Performing Arts, Spectator Sports and Related Industries;20300.0
+2010.0;   Heritage Institutions;4100.0
+2010.0;   Amusement, Gambling and Recreation Industries;33600.0
+2010.0;Accommodation and food services;172400.0
+2010.0;   Accommodation Services;33000.0
+2010.0;   Food Services and Drinking Places;139400.0
+2010.0;Other services;96000.0
+2010.0;   Repair and Maintenance;29800.0
+2010.0;   Personal and Laundry Services;33000.0
+2010.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;19900.0
+2010.0;   Private Households;13300.0
+2010.0;Public administration;104700.0
+2010.0;   Federal Government Public Administration (including Defence Services);42500.0
+2010.0;   Provincial and Territorial Public Administration;26800.0
+2010.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;35500.0
+2011.0;All industries;2227800.0
+2011.0;Goods-Producing Sector;431700.0
+2011.0;Agriculture;25600.0
+2011.0;   Crop Production;13600.0
+2011.0;   Animal Production;9200.0
+2011.0;   Mix farming;
+2011.0;   Support Activities for Agriculture;2100.0
+2011.0;Forestry, fishing, mining, quarrying, oil and gas;40800.0
+2011.0;   Forestry and Logging with support activities;14600.0
+2011.0;   Fishing, Hunting and Trapping;
+2011.0;   Mining and Oil and Gas Extraction;24800.0
+2011.0;      Oil and Gas Extraction;3500.0
+2011.0;      Mining (except Oil and Gas) & Mix Mining;13800.0
+2011.0;      Support Activities for Mining and Oil and Gas Extraction;7500.0
+2011.0;Utilities;11300.0
+2011.0;Construction;197100.0
+2011.0;  Construction of Buildings;57100.0
+2011.0;     Residential Building Construction;46100.0
+2011.0;     Non-residential Building Construction;11000.0
+2011.0;  Heavy and Civil Engineering Construction;21800.0
+2011.0;     Utility System Construction;5000.0
+2011.0;     Land Subdivision;3800.0
+2011.0;     Highway, Street and Bridge Construction;10700.0
+2011.0;     Other Heavy and Civil Engineering Construction;2200.0
+2011.0;   Trade Contracting;118300.0
+2011.0;     Foundation Structure and Building Exterior Contractors;31000.0
+2011.0;     Building Equipment Contractors;42100.0
+2011.0;     Building Finishing Contractors;30900.0
+2011.0;     Other Specialty Trade Contractors;14400.0
+2011.0;Manufacturing;156800.0
+2011.0;   Food Manufacturing;22600.0
+2011.0;   Beverage and Tobacco Product Manufacturing;6100.0
+2011.0;   Textile Mills & Textile Product Mills;2200.0
+2011.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;4400.0
+2011.0;   Wood Product Manufacturing;32400.0
+2011.0;   Paper Manufacturing;8700.0
+2011.0;   Printing and Related Support Activities;7300.0
+2011.0;   Petroleum and Coal Products Manufacturing;
+2011.0;   Chemical Manufacturing;4400.0
+2011.0;   Plastics and Rubber Products Manufacturing;4100.0
+2011.0;   Non-Metallic Mineral Product Manufacturing;6800.0
+2011.0;   Primary Metal Manufacturing;5800.0
+2011.0;   Fabricated Metal Product Manufacturing;11200.0
+2011.0;   Machinery Manufacturing;9000.0
+2011.0;   Computer and Electronic Product Manufacturing;6200.0
+2011.0;   Electrical Equipment, Appliance and Component Manufacturing;1700.0
+2011.0;   Transportation Equipment Manufacturing;8800.0
+2011.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4300.0
+2011.0;      Other Transportation Equipment Manufacturing;4500.0
+2011.0;   Furniture and Related Product Manufacturing;3500.0
+2011.0;   Miscellaneous Manufacturing;11000.0
+2011.0;  Durables;96400.0
+2011.0;  Non-durables;60500.0
+2011.0;Services-Producing Sector;1796100.0
+2011.0;Trade;354100.0
+2011.0;   Wholesale;77600.0
+2011.0;      Farm Product Wholesaler-Distributors;
+2011.0;      Petroleum Product Wholesaler-Distributors;
+2011.0;      Food, Beverage and Tobacco Wholesaler-Distributors;13200.0
+2011.0;      Personal and Household Goods Wholesaler-Distributors;10800.0
+2011.0;      Motor Vehicle and Parts Wholesaler-Distributors;5300.0
+2011.0;      Building Material and Supplies Wholesaler-Distributors;12000.0
+2011.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;19600.0
+2011.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;14400.0
+2011.0;   Retail;276500.0
+2011.0;      Motor Vehicle and Parts Dealers;28100.0
+2011.0;      Furniture and Home Furnishings Stores;10900.0
+2011.0;      Electronics and Appliance Stores;11300.0
+2011.0;      Building Material and Garden Equipment and Supplies Dealers;16500.0
+2011.0;      Food and Beverage Stores;75700.0
+2011.0;      Health and Personal Care Stores;23400.0
+2011.0;      Gasoline Stations;8700.0
+2011.0;      Clothing and Clothing Accessories Stores;26100.0
+2011.0;      Sporting Goods, Hobby, Book and Music Stores;12800.0
+2011.0;      General Merchandise Stores;37900.0
+2011.0;      Miscellaneous Store Retailers;18000.0
+2011.0;      Non-Store Retailers;7100.0
+2011.0;Transportation and Warehousing;122400.0
+2011.0;   Transportation;114500.0
+2011.0;      Air Transportation;13000.0
+2011.0;      Rail Transportation;6100.0
+2011.0;      Water Transportation;4500.0
+2011.0;      Truck Transportation;33300.0
+2011.0;      Transit and Ground Passenger Transportation;17900.0
+2011.0;      Pipeline Transportation;
+2011.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;22400.0
+2011.0;      Postal Service;10000.0
+2011.0;      Couriers and Messengers;7200.0
+2011.0;   Warehousing and Storage;7900.0
+2011.0;Finance, Insurance, Real Estate and Leasing;139600.0
+2011.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;37200.0
+2011.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;16500.0
+2011.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;31800.0
+2011.0;   Real Estate;44900.0
+2011.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;9200.0
+2011.0;Professional, Scientific and Technical Services;174200.0
+2011.0;   Legal Services;22200.0
+2011.0;   Accounting and Tax Preparation;23200.0
+2011.0;   Architectural, Engineering and Design Services;46800.0
+2011.0;   Computer System Design Services;34200.0
+2011.0;   Management, Scientific and Technical Services;24900.0
+2011.0;   Advertising and Related Services;9300.0
+2011.0;   Other Professional Services;13600.0
+2011.0;Business, Building and Other Support Services;94500.0
+2011.0;   Employment Services;5900.0
+2011.0;   Business Services;8200.0
+2011.0;   Travelling Services;9900.0
+2011.0;   Security Services;14600.0
+2011.0;   Building Services;42900.0
+2011.0;   Management of Enterprises and Other Administrative Services;7200.0
+2011.0;   Waste Management and Remediation Services;5700.0
+2011.0;Educational Services;155300.0
+2011.0;   Primary and Secondary;84600.0
+2011.0;   Post-Secondary;11600.0
+2011.0;   University;36300.0
+2011.0;   Other Schools and Educational Support;22900.0
+2011.0;Health Care and Social Assistance;262500.0
+2011.0;   Ambulatory Health Care Services;76700.0
+2011.0;   Hospitals;90900.0
+2011.0;   Nursing and Residential Care Facilities;39200.0
+2011.0;   Social Assistance;55600.0
+2011.0;Information, culture and recreation;107600.0
+2011.0;   Publishing Industries;14400.0
+2011.0;   Motion Picture and Sound Recording Industries;10400.0
+2011.0;   Broadcasting and Telecommunications;20900.0
+2011.0;   Information Services and Data Processing Services;4000.0
+2011.0;   Performing Arts, Spectator Sports and Related Industries;19300.0
+2011.0;   Heritage Institutions;4000.0
+2011.0;   Amusement, Gambling and Recreation Industries;34600.0
+2011.0;Accommodation and food services;183000.0
+2011.0;   Accommodation Services;38800.0
+2011.0;   Food Services and Drinking Places;144200.0
+2011.0;Other services;97400.0
+2011.0;   Repair and Maintenance;33600.0
+2011.0;   Personal and Laundry Services;33000.0
+2011.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;18100.0
+2011.0;   Private Households;12600.0
+2011.0;Public administration;105700.0
+2011.0;   Federal Government Public Administration (including Defence Services);42600.0
+2011.0;   Provincial and Territorial Public Administration;25100.0
+2011.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;38000.0
+2012.0;All industries;2262500.0
+2012.0;Goods-Producing Sector;441400.0
+2012.0;Agriculture;23800.0
+2012.0;   Crop Production;11100.0
+2012.0;   Animal Production;9700.0
+2012.0;   Mix farming;
+2012.0;   Support Activities for Agriculture;1800.0
+2012.0;Forestry, fishing, mining, quarrying, oil and gas;43100.0
+2012.0;   Forestry and Logging with support activities;16200.0
+2012.0;   Fishing, Hunting and Trapping;1800.0
+2012.0;   Mining and Oil and Gas Extraction;25100.0
+2012.0;      Oil and Gas Extraction;3300.0
+2012.0;      Mining (except Oil and Gas) & Mix Mining;13600.0
+2012.0;      Support Activities for Mining and Oil and Gas Extraction;8200.0
+2012.0;Utilities;11100.0
+2012.0;Construction;198600.0
+2012.0;  Construction of Buildings;53300.0
+2012.0;     Residential Building Construction;42200.0
+2012.0;     Non-residential Building Construction;11100.0
+2012.0;  Heavy and Civil Engineering Construction;24900.0
+2012.0;     Utility System Construction;8000.0
+2012.0;     Land Subdivision;4000.0
+2012.0;     Highway, Street and Bridge Construction;9900.0
+2012.0;     Other Heavy and Civil Engineering Construction;3000.0
+2012.0;   Trade Contracting;120400.0
+2012.0;     Foundation Structure and Building Exterior Contractors;30300.0
+2012.0;     Building Equipment Contractors;44100.0
+2012.0;     Building Finishing Contractors;31600.0
+2012.0;     Other Specialty Trade Contractors;14500.0
+2012.0;Manufacturing;164800.0
+2012.0;   Food Manufacturing;24600.0
+2012.0;   Beverage and Tobacco Product Manufacturing;4400.0
+2012.0;   Textile Mills & Textile Product Mills;
+2012.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3600.0
+2012.0;   Wood Product Manufacturing;29200.0
+2012.0;   Paper Manufacturing;11400.0
+2012.0;   Printing and Related Support Activities;7900.0
+2012.0;   Petroleum and Coal Products Manufacturing;
+2012.0;   Chemical Manufacturing;6500.0
+2012.0;   Plastics and Rubber Products Manufacturing;4500.0
+2012.0;   Non-Metallic Mineral Product Manufacturing;5800.0
+2012.0;   Primary Metal Manufacturing;5500.0
+2012.0;   Fabricated Metal Product Manufacturing;13800.0
+2012.0;   Machinery Manufacturing;9700.0
+2012.0;   Computer and Electronic Product Manufacturing;7000.0
+2012.0;   Electrical Equipment, Appliance and Component Manufacturing;3900.0
+2012.0;   Transportation Equipment Manufacturing;10900.0
+2012.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3600.0
+2012.0;      Other Transportation Equipment Manufacturing;7300.0
+2012.0;   Furniture and Related Product Manufacturing;3900.0
+2012.0;   Miscellaneous Manufacturing;9900.0
+2012.0;  Durables;99600.0
+2012.0;  Non-durables;65100.0
+2012.0;Services-Producing Sector;1821000.0
+2012.0;Trade;346900.0
+2012.0;   Wholesale;81500.0
+2012.0;      Farm Product Wholesaler-Distributors;
+2012.0;      Petroleum Product Wholesaler-Distributors;
+2012.0;      Food, Beverage and Tobacco Wholesaler-Distributors;9800.0
+2012.0;      Personal and Household Goods Wholesaler-Distributors;10700.0
+2012.0;      Motor Vehicle and Parts Wholesaler-Distributors;6600.0
+2012.0;      Building Material and Supplies Wholesaler-Distributors;15500.0
+2012.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21000.0
+2012.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;15800.0
+2012.0;   Retail;265400.0
+2012.0;      Motor Vehicle and Parts Dealers;28300.0
+2012.0;      Furniture and Home Furnishings Stores;9200.0
+2012.0;      Electronics and Appliance Stores;14400.0
+2012.0;      Building Material and Garden Equipment and Supplies Dealers;19100.0
+2012.0;      Food and Beverage Stores;65900.0
+2012.0;      Health and Personal Care Stores;22400.0
+2012.0;      Gasoline Stations;10300.0
+2012.0;      Clothing and Clothing Accessories Stores;26000.0
+2012.0;      Sporting Goods, Hobby, Book and Music Stores;13800.0
+2012.0;      General Merchandise Stores;30100.0
+2012.0;      Miscellaneous Store Retailers;20100.0
+2012.0;      Non-Store Retailers;5800.0
+2012.0;Transportation and Warehousing;129300.0
+2012.0;   Transportation;118700.0
+2012.0;      Air Transportation;10600.0
+2012.0;      Rail Transportation;8000.0
+2012.0;      Water Transportation;4900.0
+2012.0;      Truck Transportation;32000.0
+2012.0;      Transit and Ground Passenger Transportation;20900.0
+2012.0;      Pipeline Transportation;
+2012.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;23100.0
+2012.0;      Postal Service;9400.0
+2012.0;      Couriers and Messengers;9600.0
+2012.0;   Warehousing and Storage;10600.0
+2012.0;Finance, Insurance, Real Estate and Leasing;136500.0
+2012.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;43500.0
+2012.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;18100.0
+2012.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;25800.0
+2012.0;   Real Estate;43000.0
+2012.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;6100.0
+2012.0;Professional, Scientific and Technical Services;170200.0
+2012.0;   Legal Services;18400.0
+2012.0;   Accounting and Tax Preparation;19500.0
+2012.0;   Architectural, Engineering and Design Services;47400.0
+2012.0;   Computer System Design Services;40500.0
+2012.0;   Management, Scientific and Technical Services;27400.0
+2012.0;   Advertising and Related Services;7200.0
+2012.0;   Other Professional Services;9800.0
+2012.0;Business, Building and Other Support Services;96800.0
+2012.0;   Employment Services;4300.0
+2012.0;   Business Services;9700.0
+2012.0;   Travelling Services;10900.0
+2012.0;   Security Services;14400.0
+2012.0;   Building Services;47800.0
+2012.0;   Management of Enterprises and Other Administrative Services;4400.0
+2012.0;   Waste Management and Remediation Services;5300.0
+2012.0;Educational Services;164500.0
+2012.0;   Primary and Secondary;90000.0
+2012.0;   Post-Secondary;13200.0
+2012.0;   University;36400.0
+2012.0;   Other Schools and Educational Support;24900.0
+2012.0;Health Care and Social Assistance;275200.0
+2012.0;   Ambulatory Health Care Services;75700.0
+2012.0;   Hospitals;100300.0
+2012.0;   Nursing and Residential Care Facilities;42100.0
+2012.0;   Social Assistance;57100.0
+2012.0;Information, culture and recreation;108900.0
+2012.0;   Publishing Industries;13000.0
+2012.0;   Motion Picture and Sound Recording Industries;8300.0
+2012.0;   Broadcasting and Telecommunications;21200.0
+2012.0;   Information Services and Data Processing Services;4800.0
+2012.0;   Performing Arts, Spectator Sports and Related Industries;17400.0
+2012.0;   Heritage Institutions;3100.0
+2012.0;   Amusement, Gambling and Recreation Industries;41100.0
+2012.0;Accommodation and food services;182700.0
+2012.0;   Accommodation Services;42700.0
+2012.0;   Food Services and Drinking Places;140000.0
+2012.0;Other services;109500.0
+2012.0;   Repair and Maintenance;38900.0
+2012.0;   Personal and Laundry Services;32300.0
+2012.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;24200.0
+2012.0;   Private Households;14100.0
+2012.0;Public administration;100500.0
+2012.0;   Federal Government Public Administration (including Defence Services);42300.0
+2012.0;   Provincial and Territorial Public Administration;27300.0
+2012.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;30900.0
+2013.0;All industries;2265600.0
+2013.0;Goods-Producing Sector;442100.0
+2013.0;Agriculture;28000.0
+2013.0;   Crop Production;14000.0
+2013.0;   Animal Production;10300.0
+2013.0;   Mix farming;1600.0
+2013.0;   Support Activities for Agriculture;2000.0
+2013.0;Forestry, fishing, mining, quarrying, oil and gas;46800.0
+2013.0;   Forestry and Logging with support activities;17600.0
+2013.0;   Fishing, Hunting and Trapping;1600.0
+2013.0;   Mining and Oil and Gas Extraction;27600.0
+2013.0;      Oil and Gas Extraction;4200.0
+2013.0;      Mining (except Oil and Gas) & Mix Mining;13800.0
+2013.0;      Support Activities for Mining and Oil and Gas Extraction;9600.0
+2013.0;Utilities;11200.0
+2013.0;Construction;204400.0
+2013.0;  Construction of Buildings;63300.0
+2013.0;     Residential Building Construction;50700.0
+2013.0;     Non-residential Building Construction;12600.0
+2013.0;  Heavy and Civil Engineering Construction;21900.0
+2013.0;     Utility System Construction;6200.0
+2013.0;     Land Subdivision;2400.0
+2013.0;     Highway, Street and Bridge Construction;11400.0
+2013.0;     Other Heavy and Civil Engineering Construction;2000.0
+2013.0;   Trade Contracting;119200.0
+2013.0;     Foundation Structure and Building Exterior Contractors;27200.0
+2013.0;     Building Equipment Contractors;46400.0
+2013.0;     Building Finishing Contractors;31000.0
+2013.0;     Other Specialty Trade Contractors;14600.0
+2013.0;Manufacturing;151700.0
+2013.0;   Food Manufacturing;21900.0
+2013.0;   Beverage and Tobacco Product Manufacturing;4800.0
+2013.0;   Textile Mills & Textile Product Mills;
+2013.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3100.0
+2013.0;   Wood Product Manufacturing;30200.0
+2013.0;   Paper Manufacturing;10500.0
+2013.0;   Printing and Related Support Activities;6500.0
+2013.0;   Petroleum and Coal Products Manufacturing;
+2013.0;   Chemical Manufacturing;6500.0
+2013.0;   Plastics and Rubber Products Manufacturing;6400.0
+2013.0;   Non-Metallic Mineral Product Manufacturing;4600.0
+2013.0;   Primary Metal Manufacturing;5000.0
+2013.0;   Fabricated Metal Product Manufacturing;11100.0
+2013.0;   Machinery Manufacturing;9400.0
+2013.0;   Computer and Electronic Product Manufacturing;6200.0
+2013.0;   Electrical Equipment, Appliance and Component Manufacturing;2900.0
+2013.0;   Transportation Equipment Manufacturing;8500.0
+2013.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4000.0
+2013.0;      Other Transportation Equipment Manufacturing;4500.0
+2013.0;   Furniture and Related Product Manufacturing;3100.0
+2013.0;   Miscellaneous Manufacturing;9800.0
+2013.0;  Durables;90900.0
+2013.0;  Non-durables;60800.0
+2013.0;Services-Producing Sector;1823500.0
+2013.0;Trade;360500.0
+2013.0;   Wholesale;82000.0
+2013.0;      Farm Product Wholesaler-Distributors;
+2013.0;      Petroleum Product Wholesaler-Distributors;
+2013.0;      Food, Beverage and Tobacco Wholesaler-Distributors;14600.0
+2013.0;      Personal and Household Goods Wholesaler-Distributors;8800.0
+2013.0;      Motor Vehicle and Parts Wholesaler-Distributors;5500.0
+2013.0;      Building Material and Supplies Wholesaler-Distributors;16200.0
+2013.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;19200.0
+2013.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;16100.0
+2013.0;   Retail;278500.0
+2013.0;      Motor Vehicle and Parts Dealers;33100.0
+2013.0;      Furniture and Home Furnishings Stores;10400.0
+2013.0;      Electronics and Appliance Stores;14400.0
+2013.0;      Building Material and Garden Equipment and Supplies Dealers;17400.0
+2013.0;      Food and Beverage Stores;70700.0
+2013.0;      Health and Personal Care Stores;27700.0
+2013.0;      Gasoline Stations;7700.0
+2013.0;      Clothing and Clothing Accessories Stores;29300.0
+2013.0;      Sporting Goods, Hobby, Book and Music Stores;12200.0
+2013.0;      General Merchandise Stores;26800.0
+2013.0;      Miscellaneous Store Retailers;21200.0
+2013.0;      Non-Store Retailers;7600.0
+2013.0;Transportation and Warehousing;127300.0
+2013.0;   Transportation;118000.0
+2013.0;      Air Transportation;11900.0
+2013.0;      Rail Transportation;6800.0
+2013.0;      Water Transportation;7500.0
+2013.0;      Truck Transportation;36100.0
+2013.0;      Transit and Ground Passenger Transportation;18200.0
+2013.0;      Pipeline Transportation;
+2013.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;22900.0
+2013.0;      Postal Service;6700.0
+2013.0;      Couriers and Messengers;7500.0
+2013.0;   Warehousing and Storage;9300.0
+2013.0;Finance, Insurance, Real Estate and Leasing;139600.0
+2013.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;43600.0
+2013.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;15700.0
+2013.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;28700.0
+2013.0;   Real Estate;43700.0
+2013.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;8000.0
+2013.0;Professional, Scientific and Technical Services;178300.0
+2013.0;   Legal Services;23500.0
+2013.0;   Accounting and Tax Preparation;24400.0
+2013.0;   Architectural, Engineering and Design Services;54100.0
+2013.0;   Computer System Design Services;39700.0
+2013.0;   Management, Scientific and Technical Services;21100.0
+2013.0;   Advertising and Related Services;6200.0
+2013.0;   Other Professional Services;9300.0
+2013.0;Business, Building and Other Support Services;98800.0
+2013.0;   Employment Services;6900.0
+2013.0;   Business Services;8500.0
+2013.0;   Travelling Services;9000.0
+2013.0;   Security Services;15700.0
+2013.0;   Building Services;50400.0
+2013.0;   Management of Enterprises and Other Administrative Services;3300.0
+2013.0;   Waste Management and Remediation Services;5100.0
+2013.0;Educational Services;166700.0
+2013.0;   Primary and Secondary;91100.0
+2013.0;   Post-Secondary;13200.0
+2013.0;   University;38400.0
+2013.0;   Other Schools and Educational Support;23900.0
+2013.0;Health Care and Social Assistance;267200.0
+2013.0;   Ambulatory Health Care Services;73300.0
+2013.0;   Hospitals;104100.0
+2013.0;   Nursing and Residential Care Facilities;38800.0
+2013.0;   Social Assistance;51100.0
+2013.0;Information, culture and recreation;107400.0
+2013.0;   Publishing Industries;13300.0
+2013.0;   Motion Picture and Sound Recording Industries;11200.0
+2013.0;   Broadcasting and Telecommunications;17700.0
+2013.0;   Information Services and Data Processing Services;7500.0
+2013.0;   Performing Arts, Spectator Sports and Related Industries;18700.0
+2013.0;   Heritage Institutions;2800.0
+2013.0;   Amusement, Gambling and Recreation Industries;36200.0
+2013.0;Accommodation and food services;179500.0
+2013.0;   Accommodation Services;37900.0
+2013.0;   Food Services and Drinking Places;141600.0
+2013.0;Other services;99400.0
+2013.0;   Repair and Maintenance;34500.0
+2013.0;   Personal and Laundry Services;32500.0
+2013.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;20500.0
+2013.0;   Private Households;11900.0
+2013.0;Public administration;98700.0
+2013.0;   Federal Government Public Administration (including Defence Services);34700.0
+2013.0;   Provincial and Territorial Public Administration;28300.0
+2013.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;35700.0
+2014.0;All industries;2278400.0
+2014.0;Goods-Producing Sector;449900.0
+2014.0;Agriculture;24300.0
+2014.0;   Crop Production;12400.0
+2014.0;   Animal Production;8000.0
+2014.0;   Mix farming;1700.0
+2014.0;   Support Activities for Agriculture;2200.0
+2014.0;Forestry, fishing, mining, quarrying, oil and gas;50000.0
+2014.0;   Forestry and Logging with support activities;19200.0
+2014.0;   Fishing, Hunting and Trapping;2000.0
+2014.0;   Mining and Oil and Gas Extraction;28700.0
+2014.0;      Oil and Gas Extraction;6200.0
+2014.0;      Mining (except Oil and Gas) & Mix Mining;13200.0
+2014.0;      Support Activities for Mining and Oil and Gas Extraction;9400.0
+2014.0;Utilities;13700.0
+2014.0;Construction;200500.0
+2014.0;  Construction of Buildings;69400.0
+2014.0;     Residential Building Construction;58800.0
+2014.0;     Non-residential Building Construction;10600.0
+2014.0;  Heavy and Civil Engineering Construction;21500.0
+2014.0;     Utility System Construction;7300.0
+2014.0;     Land Subdivision;
+2014.0;     Highway, Street and Bridge Construction;10500.0
+2014.0;     Other Heavy and Civil Engineering Construction;2300.0
+2014.0;   Trade Contracting;109700.0
+2014.0;     Foundation Structure and Building Exterior Contractors;25500.0
+2014.0;     Building Equipment Contractors;43300.0
+2014.0;     Building Finishing Contractors;30000.0
+2014.0;     Other Specialty Trade Contractors;11000.0
+2014.0;Manufacturing;161400.0
+2014.0;   Food Manufacturing;21900.0
+2014.0;   Beverage and Tobacco Product Manufacturing;6200.0
+2014.0;   Textile Mills & Textile Product Mills;2600.0
+2014.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;4200.0
+2014.0;   Wood Product Manufacturing;33700.0
+2014.0;   Paper Manufacturing;12200.0
+2014.0;   Printing and Related Support Activities;5500.0
+2014.0;   Petroleum and Coal Products Manufacturing;
+2014.0;   Chemical Manufacturing;7100.0
+2014.0;   Plastics and Rubber Products Manufacturing;4300.0
+2014.0;   Non-Metallic Mineral Product Manufacturing;5100.0
+2014.0;   Primary Metal Manufacturing;2300.0
+2014.0;   Fabricated Metal Product Manufacturing;12300.0
+2014.0;   Machinery Manufacturing;8600.0
+2014.0;   Computer and Electronic Product Manufacturing;8000.0
+2014.0;   Electrical Equipment, Appliance and Component Manufacturing;3800.0
+2014.0;   Transportation Equipment Manufacturing;9600.0
+2014.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4200.0
+2014.0;      Other Transportation Equipment Manufacturing;5400.0
+2014.0;   Furniture and Related Product Manufacturing;3200.0
+2014.0;   Miscellaneous Manufacturing;10000.0
+2014.0;  Durables;96500.0
+2014.0;  Non-durables;64900.0
+2014.0;Services-Producing Sector;1828500.0
+2014.0;Trade;358000.0
+2014.0;   Wholesale;80500.0
+2014.0;      Farm Product Wholesaler-Distributors;
+2014.0;      Petroleum Product Wholesaler-Distributors;
+2014.0;      Food, Beverage and Tobacco Wholesaler-Distributors;13000.0
+2014.0;      Personal and Household Goods Wholesaler-Distributors;10100.0
+2014.0;      Motor Vehicle and Parts Wholesaler-Distributors;5900.0
+2014.0;      Building Material and Supplies Wholesaler-Distributors;14500.0
+2014.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21700.0
+2014.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;13900.0
+2014.0;   Retail;277500.0
+2014.0;      Motor Vehicle and Parts Dealers;28500.0
+2014.0;      Furniture and Home Furnishings Stores;9200.0
+2014.0;      Electronics and Appliance Stores;15400.0
+2014.0;      Building Material and Garden Equipment and Supplies Dealers;20300.0
+2014.0;      Food and Beverage Stores;72500.0
+2014.0;      Health and Personal Care Stores;22700.0
+2014.0;      Gasoline Stations;7700.0
+2014.0;      Clothing and Clothing Accessories Stores;32200.0
+2014.0;      Sporting Goods, Hobby, Book and Music Stores;11300.0
+2014.0;      General Merchandise Stores;28200.0
+2014.0;      Miscellaneous Store Retailers;21900.0
+2014.0;      Non-Store Retailers;7500.0
+2014.0;Transportation and Warehousing;133800.0
+2014.0;   Transportation;124900.0
+2014.0;      Air Transportation;13200.0
+2014.0;      Rail Transportation;6200.0
+2014.0;      Water Transportation;6100.0
+2014.0;      Truck Transportation;36900.0
+2014.0;      Transit and Ground Passenger Transportation;19600.0
+2014.0;      Pipeline Transportation;
+2014.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;24200.0
+2014.0;      Postal Service;7400.0
+2014.0;      Couriers and Messengers;11200.0
+2014.0;   Warehousing and Storage;8900.0
+2014.0;Finance, Insurance, Real Estate and Leasing;137200.0
+2014.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;43800.0
+2014.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;18200.0
+2014.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;26900.0
+2014.0;   Real Estate;40200.0
+2014.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;8000.0
+2014.0;Professional, Scientific and Technical Services;182300.0
+2014.0;   Legal Services;21400.0
+2014.0;   Accounting and Tax Preparation;25200.0
+2014.0;   Architectural, Engineering and Design Services;45600.0
+2014.0;   Computer System Design Services;43800.0
+2014.0;   Management, Scientific and Technical Services;28600.0
+2014.0;   Advertising and Related Services;7800.0
+2014.0;   Other Professional Services;9900.0
+2014.0;Business, Building and Other Support Services;87900.0
+2014.0;   Employment Services;6200.0
+2014.0;   Business Services;8500.0
+2014.0;   Travelling Services;7000.0
+2014.0;   Security Services;15900.0
+2014.0;   Building Services;39200.0
+2014.0;   Management of Enterprises and Other Administrative Services;5500.0
+2014.0;   Waste Management and Remediation Services;5600.0
+2014.0;Educational Services;166300.0
+2014.0;   Primary and Secondary;95100.0
+2014.0;   Post-Secondary;12800.0
+2014.0;   University;31300.0
+2014.0;   Other Schools and Educational Support;27000.0
+2014.0;Health Care and Social Assistance;269800.0
+2014.0;   Ambulatory Health Care Services;70600.0
+2014.0;   Hospitals;92700.0
+2014.0;   Nursing and Residential Care Facilities;47300.0
+2014.0;   Social Assistance;59100.0
+2014.0;Information, culture and recreation;107700.0
+2014.0;   Publishing Industries;11600.0
+2014.0;   Motion Picture and Sound Recording Industries;10600.0
+2014.0;   Broadcasting and Telecommunications;21400.0
+2014.0;   Information Services and Data Processing Services;5800.0
+2014.0;   Performing Arts, Spectator Sports and Related Industries;17200.0
+2014.0;   Heritage Institutions;3500.0
+2014.0;   Amusement, Gambling and Recreation Industries;37600.0
+2014.0;Accommodation and food services;185300.0
+2014.0;   Accommodation Services;39600.0
+2014.0;   Food Services and Drinking Places;145700.0
+2014.0;Other services;102400.0
+2014.0;   Repair and Maintenance;33600.0
+2014.0;   Personal and Laundry Services;34100.0
+2014.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;24300.0
+2014.0;   Private Households;10500.0
+2014.0;Public administration;97900.0
+2014.0;   Federal Government Public Administration (including Defence Services);32100.0
+2014.0;   Provincial and Territorial Public Administration;29100.0
+2014.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;36600.0
+2015.0;All industries;2306200.0
+2015.0;Goods-Producing Sector;459100.0
+2015.0;Agriculture;22200.0
+2015.0;   Crop Production;12400.0
+2015.0;   Animal Production;6800.0
+2015.0;   Mix farming;
+2015.0;   Support Activities for Agriculture;1600.0
+2015.0;Forestry, fishing, mining, quarrying, oil and gas;48300.0
+2015.0;   Forestry and Logging with support activities;19400.0
+2015.0;   Fishing, Hunting and Trapping;1600.0
+2015.0;   Mining and Oil and Gas Extraction;27400.0
+2015.0;      Oil and Gas Extraction;5100.0
+2015.0;      Mining (except Oil and Gas) & Mix Mining;14600.0
+2015.0;      Support Activities for Mining and Oil and Gas Extraction;7600.0
+2015.0;Utilities;14500.0
+2015.0;Construction;201500.0
+2015.0;  Construction of Buildings;67000.0
+2015.0;     Residential Building Construction;57000.0
+2015.0;     Non-residential Building Construction;10100.0
+2015.0;  Heavy and Civil Engineering Construction;21200.0
+2015.0;     Utility System Construction;7800.0
+2015.0;     Land Subdivision;3600.0
+2015.0;     Highway, Street and Bridge Construction;7800.0
+2015.0;     Other Heavy and Civil Engineering Construction;2000.0
+2015.0;   Trade Contracting;113200.0
+2015.0;     Foundation Structure and Building Exterior Contractors;25600.0
+2015.0;     Building Equipment Contractors;44600.0
+2015.0;     Building Finishing Contractors;30500.0
+2015.0;     Other Specialty Trade Contractors;12600.0
+2015.0;Manufacturing;172500.0
+2015.0;   Food Manufacturing;26600.0
+2015.0;   Beverage and Tobacco Product Manufacturing;6400.0
+2015.0;   Textile Mills & Textile Product Mills;
+2015.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3300.0
+2015.0;   Wood Product Manufacturing;36000.0
+2015.0;   Paper Manufacturing;10100.0
+2015.0;   Printing and Related Support Activities;8500.0
+2015.0;   Petroleum and Coal Products Manufacturing;
+2015.0;   Chemical Manufacturing;8700.0
+2015.0;   Plastics and Rubber Products Manufacturing;4800.0
+2015.0;   Non-Metallic Mineral Product Manufacturing;5000.0
+2015.0;   Primary Metal Manufacturing;5000.0
+2015.0;   Fabricated Metal Product Manufacturing;15700.0
+2015.0;   Machinery Manufacturing;7900.0
+2015.0;   Computer and Electronic Product Manufacturing;7200.0
+2015.0;   Electrical Equipment, Appliance and Component Manufacturing;3600.0
+2015.0;   Transportation Equipment Manufacturing;8200.0
+2015.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3900.0
+2015.0;      Other Transportation Equipment Manufacturing;4300.0
+2015.0;   Furniture and Related Product Manufacturing;3900.0
+2015.0;   Miscellaneous Manufacturing;10000.0
+2015.0;  Durables;102500.0
+2015.0;  Non-durables;70100.0
+2015.0;Services-Producing Sector;1847200.0
+2015.0;Trade;352900.0
+2015.0;   Wholesale;84900.0
+2015.0;      Farm Product Wholesaler-Distributors;
+2015.0;      Petroleum Product Wholesaler-Distributors;1500.0
+2015.0;      Food, Beverage and Tobacco Wholesaler-Distributors;14600.0
+2015.0;      Personal and Household Goods Wholesaler-Distributors;8700.0
+2015.0;      Motor Vehicle and Parts Wholesaler-Distributors;5800.0
+2015.0;      Building Material and Supplies Wholesaler-Distributors;14100.0
+2015.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;26500.0
+2015.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;13300.0
+2015.0;   Retail;268000.0
+2015.0;      Motor Vehicle and Parts Dealers;34500.0
+2015.0;      Furniture and Home Furnishings Stores;12400.0
+2015.0;      Electronics and Appliance Stores;12300.0
+2015.0;      Building Material and Garden Equipment and Supplies Dealers;17100.0
+2015.0;      Food and Beverage Stores;63000.0
+2015.0;      Health and Personal Care Stores;24700.0
+2015.0;      Gasoline Stations;6800.0
+2015.0;      Clothing and Clothing Accessories Stores;28700.0
+2015.0;      Sporting Goods, Hobby, Book and Music Stores;14300.0
+2015.0;      General Merchandise Stores;25900.0
+2015.0;      Miscellaneous Store Retailers;19500.0
+2015.0;      Non-Store Retailers;8700.0
+2015.0;Transportation and Warehousing;140000.0
+2015.0;   Transportation;132900.0
+2015.0;      Air Transportation;14900.0
+2015.0;      Rail Transportation;6000.0
+2015.0;      Water Transportation;6300.0
+2015.0;      Truck Transportation;39900.0
+2015.0;      Transit and Ground Passenger Transportation;18600.0
+2015.0;      Pipeline Transportation;
+2015.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;29500.0
+2015.0;      Postal Service;8500.0
+2015.0;      Couriers and Messengers;8700.0
+2015.0;   Warehousing and Storage;7100.0
+2015.0;Finance, Insurance, Real Estate and Leasing;128600.0
+2015.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;39200.0
+2015.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;17600.0
+2015.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;29000.0
+2015.0;   Real Estate;36300.0
+2015.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;6500.0
+2015.0;Professional, Scientific and Technical Services;188100.0
+2015.0;   Legal Services;21000.0
+2015.0;   Accounting and Tax Preparation;22500.0
+2015.0;   Architectural, Engineering and Design Services;50400.0
+2015.0;   Computer System Design Services;48000.0
+2015.0;   Management, Scientific and Technical Services;26900.0
+2015.0;   Advertising and Related Services;8400.0
+2015.0;   Other Professional Services;10900.0
+2015.0;Business, Building and Other Support Services;93500.0
+2015.0;   Employment Services;5500.0
+2015.0;   Business Services;9100.0
+2015.0;   Travelling Services;9300.0
+2015.0;   Security Services;17200.0
+2015.0;   Building Services;37800.0
+2015.0;   Management of Enterprises and Other Administrative Services;6900.0
+2015.0;   Waste Management and Remediation Services;7700.0
+2015.0;Educational Services;163400.0
+2015.0;   Primary and Secondary;91100.0
+2015.0;   Post-Secondary;11200.0
+2015.0;   University;35200.0
+2015.0;   Other Schools and Educational Support;26000.0
+2015.0;Health Care and Social Assistance;287400.0
+2015.0;   Ambulatory Health Care Services;82800.0
+2015.0;   Hospitals;97100.0
+2015.0;   Nursing and Residential Care Facilities;47400.0
+2015.0;   Social Assistance;60100.0
+2015.0;Information, culture and recreation;114500.0
+2015.0;   Publishing Industries;13800.0
+2015.0;   Motion Picture and Sound Recording Industries;14400.0
+2015.0;   Broadcasting and Telecommunications;20100.0
+2015.0;   Information Services and Data Processing Services;6200.0
+2015.0;   Performing Arts, Spectator Sports and Related Industries;16600.0
+2015.0;   Heritage Institutions;3100.0
+2015.0;   Amusement, Gambling and Recreation Industries;40300.0
+2015.0;Accommodation and food services;177500.0
+2015.0;   Accommodation Services;32000.0
+2015.0;   Food Services and Drinking Places;145500.0
+2015.0;Other services;105100.0
+2015.0;   Repair and Maintenance;28800.0
+2015.0;   Personal and Laundry Services;41300.0
+2015.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;25900.0
+2015.0;   Private Households;9100.0
+2015.0;Public administration;96100.0
+2015.0;   Federal Government Public Administration (including Defence Services);35600.0
+2015.0;   Provincial and Territorial Public Administration;27400.0
+2015.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;33200.0
+2016.0;All industries;2379500.0
+2016.0;Goods-Producing Sector;470100.0
+2016.0;Agriculture;24400.0
+2016.0;   Crop Production;13500.0
+2016.0;   Animal Production;8900.0
+2016.0;   Mix farming;
+2016.0;   Support Activities for Agriculture;
+2016.0;Forestry, fishing, mining, quarrying, oil and gas;50800.0
+2016.0;   Forestry and Logging with support activities;19400.0
+2016.0;   Fishing, Hunting and Trapping;1600.0
+2016.0;   Mining and Oil and Gas Extraction;29800.0
+2016.0;      Oil and Gas Extraction;3900.0
+2016.0;      Mining (except Oil and Gas) & Mix Mining;16600.0
+2016.0;      Support Activities for Mining and Oil and Gas Extraction;9300.0
+2016.0;Utilities;13500.0
+2016.0;Construction;211300.0
+2016.0;  Construction of Buildings;68700.0
+2016.0;     Residential Building Construction;58800.0
+2016.0;     Non-residential Building Construction;9900.0
+2016.0;  Heavy and Civil Engineering Construction;21200.0
+2016.0;     Utility System Construction;5700.0
+2016.0;     Land Subdivision;5500.0
+2016.0;     Highway, Street and Bridge Construction;8600.0
+2016.0;     Other Heavy and Civil Engineering Construction;1500.0
+2016.0;   Trade Contracting;121500.0
+2016.0;     Foundation Structure and Building Exterior Contractors;27800.0
+2016.0;     Building Equipment Contractors;50100.0
+2016.0;     Building Finishing Contractors;28900.0
+2016.0;     Other Specialty Trade Contractors;14700.0
+2016.0;Manufacturing;170100.0
+2016.0;   Food Manufacturing;29500.0
+2016.0;   Beverage and Tobacco Product Manufacturing;7400.0
+2016.0;   Textile Mills & Textile Product Mills;2300.0
+2016.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3300.0
+2016.0;   Wood Product Manufacturing;32000.0
+2016.0;   Paper Manufacturing;8500.0
+2016.0;   Printing and Related Support Activities;4500.0
+2016.0;   Petroleum and Coal Products Manufacturing;
+2016.0;   Chemical Manufacturing;6100.0
+2016.0;   Plastics and Rubber Products Manufacturing;5100.0
+2016.0;   Non-Metallic Mineral Product Manufacturing;4400.0
+2016.0;   Primary Metal Manufacturing;3100.0
+2016.0;   Fabricated Metal Product Manufacturing;13800.0
+2016.0;   Machinery Manufacturing;10200.0
+2016.0;   Computer and Electronic Product Manufacturing;8100.0
+2016.0;   Electrical Equipment, Appliance and Component Manufacturing;4000.0
+2016.0;   Transportation Equipment Manufacturing;9100.0
+2016.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;2900.0
+2016.0;      Other Transportation Equipment Manufacturing;6200.0
+2016.0;   Furniture and Related Product Manufacturing;6900.0
+2016.0;   Miscellaneous Manufacturing;10900.0
+2016.0;  Durables;102700.0
+2016.0;  Non-durables;67400.0
+2016.0;Services-Producing Sector;1909400.0
+2016.0;Trade;369900.0
+2016.0;   Wholesale;89700.0
+2016.0;      Farm Product Wholesaler-Distributors;
+2016.0;      Petroleum Product Wholesaler-Distributors;
+2016.0;      Food, Beverage and Tobacco Wholesaler-Distributors;15500.0
+2016.0;      Personal and Household Goods Wholesaler-Distributors;9800.0
+2016.0;      Motor Vehicle and Parts Wholesaler-Distributors;6500.0
+2016.0;      Building Material and Supplies Wholesaler-Distributors;15400.0
+2016.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;23500.0
+2016.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;17100.0
+2016.0;   Retail;280200.0
+2016.0;      Motor Vehicle and Parts Dealers;36000.0
+2016.0;      Furniture and Home Furnishings Stores;9500.0
+2016.0;      Electronics and Appliance Stores;13500.0
+2016.0;      Building Material and Garden Equipment and Supplies Dealers;19200.0
+2016.0;      Food and Beverage Stores;66800.0
+2016.0;      Health and Personal Care Stores;26300.0
+2016.0;      Gasoline Stations;9400.0
+2016.0;      Clothing and Clothing Accessories Stores;30700.0
+2016.0;      Sporting Goods, Hobby, Book and Music Stores;12700.0
+2016.0;      General Merchandise Stores;28100.0
+2016.0;      Miscellaneous Store Retailers;20100.0
+2016.0;      Non-Store Retailers;8000.0
+2016.0;Transportation and Warehousing;137900.0
+2016.0;   Transportation;130500.0
+2016.0;      Air Transportation;16100.0
+2016.0;      Rail Transportation;4400.0
+2016.0;      Water Transportation;7700.0
+2016.0;      Truck Transportation;41300.0
+2016.0;      Transit and Ground Passenger Transportation;22200.0
+2016.0;      Pipeline Transportation;
+2016.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;26700.0
+2016.0;      Postal Service;6400.0
+2016.0;      Couriers and Messengers;5500.0
+2016.0;   Warehousing and Storage;7400.0
+2016.0;Finance, Insurance, Real Estate and Leasing;135900.0
+2016.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;40400.0
+2016.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;21500.0
+2016.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;29100.0
+2016.0;   Real Estate;39300.0
+2016.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;5600.0
+2016.0;Professional, Scientific and Technical Services;195500.0
+2016.0;   Legal Services;24700.0
+2016.0;   Accounting and Tax Preparation;26200.0
+2016.0;   Architectural, Engineering and Design Services;55600.0
+2016.0;   Computer System Design Services;43500.0
+2016.0;   Management, Scientific and Technical Services;23500.0
+2016.0;   Advertising and Related Services;7600.0
+2016.0;   Other Professional Services;14400.0
+2016.0;Business, Building and Other Support Services;104700.0
+2016.0;   Employment Services;7900.0
+2016.0;   Business Services;8500.0
+2016.0;   Travelling Services;9600.0
+2016.0;   Security Services;18700.0
+2016.0;   Building Services;49000.0
+2016.0;   Management of Enterprises and Other Administrative Services;4600.0
+2016.0;   Waste Management and Remediation Services;6500.0
+2016.0;Educational Services;165000.0
+2016.0;   Primary and Secondary;88900.0
+2016.0;   Post-Secondary;11400.0
+2016.0;   University;36400.0
+2016.0;   Other Schools and Educational Support;28300.0
+2016.0;Health Care and Social Assistance;291600.0
+2016.0;   Ambulatory Health Care Services;81100.0
+2016.0;   Hospitals;101300.0
+2016.0;   Nursing and Residential Care Facilities;49500.0
+2016.0;   Social Assistance;59700.0
+2016.0;Information, culture and recreation;126600.0
+2016.0;   Publishing Industries;14300.0
+2016.0;   Motion Picture and Sound Recording Industries;22300.0
+2016.0;   Broadcasting and Telecommunications;19500.0
+2016.0;   Information Services and Data Processing Services;6200.0
+2016.0;   Performing Arts, Spectator Sports and Related Industries;19800.0
+2016.0;   Heritage Institutions;3800.0
+2016.0;   Amusement, Gambling and Recreation Industries;40700.0
+2016.0;Accommodation and food services;174200.0
+2016.0;   Accommodation Services;30400.0
+2016.0;   Food Services and Drinking Places;143800.0
+2016.0;Other services;104600.0
+2016.0;   Repair and Maintenance;31900.0
+2016.0;   Personal and Laundry Services;36800.0
+2016.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;26300.0
+2016.0;   Private Households;9600.0
+2016.0;Public administration;103700.0
+2016.0;   Federal Government Public Administration (including Defence Services);36900.0
+2016.0;   Provincial and Territorial Public Administration;31800.0
+2016.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;35100.0
+2017.0;All industries;2466800.0
+2017.0;Goods-Producing Sector;491700.0
+2017.0;Agriculture;26200.0
+2017.0;   Crop Production;12000.0
+2017.0;   Animal Production;10200.0
+2017.0;   Mix farming;1500.0
+2017.0;   Support Activities for Agriculture;2400.0
+2017.0;Forestry, fishing, mining, quarrying, oil and gas;49800.0
+2017.0;   Forestry and Logging with support activities;18600.0
+2017.0;   Fishing, Hunting and Trapping;2300.0
+2017.0;   Mining and Oil and Gas Extraction;28900.0
+2017.0;      Oil and Gas Extraction;5000.0
+2017.0;      Mining (except Oil and Gas) & Mix Mining;16600.0
+2017.0;      Support Activities for Mining and Oil and Gas Extraction;7400.0
+2017.0;Utilities;12900.0
+2017.0;Construction;228600.0
+2017.0;  Construction of Buildings;80300.0
+2017.0;     Residential Building Construction;64600.0
+2017.0;     Non-residential Building Construction;15700.0
+2017.0;  Heavy and Civil Engineering Construction;22000.0
+2017.0;     Utility System Construction;5800.0
+2017.0;     Land Subdivision;3200.0
+2017.0;     Highway, Street and Bridge Construction;10600.0
+2017.0;     Other Heavy and Civil Engineering Construction;2500.0
+2017.0;   Trade Contracting;126200.0
+2017.0;     Foundation Structure and Building Exterior Contractors;26300.0
+2017.0;     Building Equipment Contractors;53500.0
+2017.0;     Building Finishing Contractors;33800.0
+2017.0;     Other Specialty Trade Contractors;12600.0
+2017.0;Manufacturing;174200.0
+2017.0;   Food Manufacturing;25400.0
+2017.0;   Beverage and Tobacco Product Manufacturing;7200.0
+2017.0;   Textile Mills & Textile Product Mills;1800.0
+2017.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3500.0
+2017.0;   Wood Product Manufacturing;27800.0
+2017.0;   Paper Manufacturing;10700.0
+2017.0;   Printing and Related Support Activities;7400.0
+2017.0;   Petroleum and Coal Products Manufacturing;
+2017.0;   Chemical Manufacturing;7600.0
+2017.0;   Plastics and Rubber Products Manufacturing;7600.0
+2017.0;   Non-Metallic Mineral Product Manufacturing;6500.0
+2017.0;   Primary Metal Manufacturing;3900.0
+2017.0;   Fabricated Metal Product Manufacturing;12900.0
+2017.0;   Machinery Manufacturing;9900.0
+2017.0;   Computer and Electronic Product Manufacturing;8100.0
+2017.0;   Electrical Equipment, Appliance and Component Manufacturing;4800.0
+2017.0;   Transportation Equipment Manufacturing;9500.0
+2017.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;3000.0
+2017.0;      Other Transportation Equipment Manufacturing;6400.0
+2017.0;   Furniture and Related Product Manufacturing;8700.0
+2017.0;   Miscellaneous Manufacturing;10300.0
+2017.0;  Durables;102300.0
+2017.0;  Non-durables;71900.0
+2017.0;Services-Producing Sector;1975100.0
+2017.0;Trade;374000.0
+2017.0;   Wholesale;83600.0
+2017.0;      Farm Product Wholesaler-Distributors;
+2017.0;      Petroleum Product Wholesaler-Distributors;1600.0
+2017.0;      Food, Beverage and Tobacco Wholesaler-Distributors;12900.0
+2017.0;      Personal and Household Goods Wholesaler-Distributors;10500.0
+2017.0;      Motor Vehicle and Parts Wholesaler-Distributors;5500.0
+2017.0;      Building Material and Supplies Wholesaler-Distributors;16100.0
+2017.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;23200.0
+2017.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;13300.0
+2017.0;   Retail;290400.0
+2017.0;      Motor Vehicle and Parts Dealers;33600.0
+2017.0;      Furniture and Home Furnishings Stores;12200.0
+2017.0;      Electronics and Appliance Stores;15500.0
+2017.0;      Building Material and Garden Equipment and Supplies Dealers;16900.0
+2017.0;      Food and Beverage Stores;75900.0
+2017.0;      Health and Personal Care Stores;25200.0
+2017.0;      Gasoline Stations;5800.0
+2017.0;      Clothing and Clothing Accessories Stores;31600.0
+2017.0;      Sporting Goods, Hobby, Book and Music Stores;13900.0
+2017.0;      General Merchandise Stores;26600.0
+2017.0;      Miscellaneous Store Retailers;22500.0
+2017.0;      Non-Store Retailers;10600.0
+2017.0;Transportation and Warehousing;139400.0
+2017.0;   Transportation;128300.0
+2017.0;      Air Transportation;15100.0
+2017.0;      Rail Transportation;4800.0
+2017.0;      Water Transportation;6100.0
+2017.0;      Truck Transportation;38700.0
+2017.0;      Transit and Ground Passenger Transportation;23600.0
+2017.0;      Pipeline Transportation;
+2017.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;25800.0
+2017.0;      Postal Service;6900.0
+2017.0;      Couriers and Messengers;7100.0
+2017.0;   Warehousing and Storage;11100.0
+2017.0;Finance, Insurance, Real Estate and Leasing;156200.0
+2017.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;46300.0
+2017.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;19400.0
+2017.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;32800.0
+2017.0;   Real Estate;51000.0
+2017.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;6800.0
+2017.0;Professional, Scientific and Technical Services;197200.0
+2017.0;   Legal Services;24900.0
+2017.0;   Accounting and Tax Preparation;25500.0
+2017.0;   Architectural, Engineering and Design Services;45700.0
+2017.0;   Computer System Design Services;46300.0
+2017.0;   Management, Scientific and Technical Services;31800.0
+2017.0;   Advertising and Related Services;10000.0
+2017.0;   Other Professional Services;13000.0
+2017.0;Business, Building and Other Support Services;102500.0
+2017.0;   Employment Services;7800.0
+2017.0;   Business Services;11400.0
+2017.0;   Travelling Services;13600.0
+2017.0;   Security Services;16000.0
+2017.0;   Building Services;41300.0
+2017.0;   Management of Enterprises and Other Administrative Services;4700.0
+2017.0;   Waste Management and Remediation Services;7700.0
+2017.0;Educational Services;166600.0
+2017.0;   Primary and Secondary;91000.0
+2017.0;   Post-Secondary;10300.0
+2017.0;   University;35500.0
+2017.0;   Other Schools and Educational Support;29800.0
+2017.0;Health Care and Social Assistance;303500.0
+2017.0;   Ambulatory Health Care Services;89800.0
+2017.0;   Hospitals;100100.0
+2017.0;   Nursing and Residential Care Facilities;50200.0
+2017.0;   Social Assistance;63300.0
+2017.0;Information, culture and recreation;136800.0
+2017.0;   Publishing Industries;10400.0
+2017.0;   Motion Picture and Sound Recording Industries;26800.0
+2017.0;   Broadcasting and Telecommunications;20200.0
+2017.0;   Information Services and Data Processing Services;7300.0
+2017.0;   Performing Arts, Spectator Sports and Related Industries;21100.0
+2017.0;   Heritage Institutions;3500.0
+2017.0;   Amusement, Gambling and Recreation Industries;47500.0
+2017.0;Accommodation and food services;182600.0
+2017.0;   Accommodation Services;37800.0
+2017.0;   Food Services and Drinking Places;144800.0
+2017.0;Other services;114400.0
+2017.0;   Repair and Maintenance;38000.0
+2017.0;   Personal and Laundry Services;37100.0
+2017.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;26500.0
+2017.0;   Private Households;12800.0
+2017.0;Public administration;101900.0
+2017.0;   Federal Government Public Administration (including Defence Services);36500.0
+2017.0;   Provincial and Territorial Public Administration;30500.0
+2017.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;34900.0
+2018.0;All industries;2493600.0
+2018.0;Goods-Producing Sector;500000.0
+2018.0;Agriculture;23600.0
+2018.0;   Crop Production;13000.0
+2018.0;   Animal Production;8400.0
+2018.0;   Mix farming;
+2018.0;   Support Activities for Agriculture;1600.0
+2018.0;Forestry, fishing, mining, quarrying, oil and gas;49700.0
+2018.0;   Forestry and Logging with support activities;17800.0
+2018.0;   Fishing, Hunting and Trapping;3300.0
+2018.0;   Mining and Oil and Gas Extraction;28600.0
+2018.0;      Oil and Gas Extraction;4200.0
+2018.0;      Mining (except Oil and Gas) & Mix Mining;16600.0
+2018.0;      Support Activities for Mining and Oil and Gas Extraction;7800.0
+2018.0;Utilities;13900.0
+2018.0;Construction;238400.0
+2018.0;  Construction of Buildings;80500.0
+2018.0;     Residential Building Construction;66800.0
+2018.0;     Non-residential Building Construction;13700.0
+2018.0;  Heavy and Civil Engineering Construction;25200.0
+2018.0;     Utility System Construction;7200.0
+2018.0;     Land Subdivision;5700.0
+2018.0;     Highway, Street and Bridge Construction;10700.0
+2018.0;     Other Heavy and Civil Engineering Construction;1600.0
+2018.0;   Trade Contracting;132700.0
+2018.0;     Foundation Structure and Building Exterior Contractors;25900.0
+2018.0;     Building Equipment Contractors;61500.0
+2018.0;     Building Finishing Contractors;32200.0
+2018.0;     Other Specialty Trade Contractors;13100.0
+2018.0;Manufacturing;174300.0
+2018.0;   Food Manufacturing;29600.0
+2018.0;   Beverage and Tobacco Product Manufacturing;6900.0
+2018.0;   Textile Mills & Textile Product Mills;
+2018.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;5600.0
+2018.0;   Wood Product Manufacturing;23900.0
+2018.0;   Paper Manufacturing;8800.0
+2018.0;   Printing and Related Support Activities;7100.0
+2018.0;   Petroleum and Coal Products Manufacturing;
+2018.0;   Chemical Manufacturing;7800.0
+2018.0;   Plastics and Rubber Products Manufacturing;4800.0
+2018.0;   Non-Metallic Mineral Product Manufacturing;5300.0
+2018.0;   Primary Metal Manufacturing;5200.0
+2018.0;   Fabricated Metal Product Manufacturing;13300.0
+2018.0;   Machinery Manufacturing;8600.0
+2018.0;   Computer and Electronic Product Manufacturing;8400.0
+2018.0;   Electrical Equipment, Appliance and Component Manufacturing;5000.0
+2018.0;   Transportation Equipment Manufacturing;11200.0
+2018.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;4700.0
+2018.0;      Other Transportation Equipment Manufacturing;6600.0
+2018.0;   Furniture and Related Product Manufacturing;7700.0
+2018.0;   Miscellaneous Manufacturing;12800.0
+2018.0;  Durables;101400.0
+2018.0;  Non-durables;73000.0
+2018.0;Services-Producing Sector;1993600.0
+2018.0;Trade;368400.0
+2018.0;   Wholesale;82200.0
+2018.0;      Farm Product Wholesaler-Distributors;
+2018.0;      Petroleum Product Wholesaler-Distributors;
+2018.0;      Food, Beverage and Tobacco Wholesaler-Distributors;15200.0
+2018.0;      Personal and Household Goods Wholesaler-Distributors;9400.0
+2018.0;      Motor Vehicle and Parts Wholesaler-Distributors;4800.0
+2018.0;      Building Material and Supplies Wholesaler-Distributors;14300.0
+2018.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;21300.0
+2018.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;15300.0
+2018.0;   Retail;286200.0
+2018.0;      Motor Vehicle and Parts Dealers;33900.0
+2018.0;      Furniture and Home Furnishings Stores;9300.0
+2018.0;      Electronics and Appliance Stores;12200.0
+2018.0;      Building Material and Garden Equipment and Supplies Dealers;18800.0
+2018.0;      Food and Beverage Stores;77600.0
+2018.0;      Health and Personal Care Stores;23600.0
+2018.0;      Gasoline Stations;6600.0
+2018.0;      Clothing and Clothing Accessories Stores;28300.0
+2018.0;      Sporting Goods, Hobby, Book and Music Stores;15800.0
+2018.0;      General Merchandise Stores;27400.0
+2018.0;      Miscellaneous Store Retailers;24100.0
+2018.0;      Non-Store Retailers;8600.0
+2018.0;Transportation and Warehousing;135800.0
+2018.0;   Transportation;125300.0
+2018.0;      Air Transportation;12600.0
+2018.0;      Rail Transportation;5900.0
+2018.0;      Water Transportation;6800.0
+2018.0;      Truck Transportation;37600.0
+2018.0;      Transit and Ground Passenger Transportation;21000.0
+2018.0;      Pipeline Transportation;
+2018.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;25000.0
+2018.0;      Postal Service;6100.0
+2018.0;      Couriers and Messengers;9900.0
+2018.0;   Warehousing and Storage;10400.0
+2018.0;Finance, Insurance, Real Estate and Leasing;150800.0
+2018.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;43300.0
+2018.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;20100.0
+2018.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;30000.0
+2018.0;   Real Estate;51500.0
+2018.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;5700.0
+2018.0;Professional, Scientific and Technical Services;208500.0
+2018.0;   Legal Services;25300.0
+2018.0;   Accounting and Tax Preparation;24400.0
+2018.0;   Architectural, Engineering and Design Services;49100.0
+2018.0;   Computer System Design Services;55200.0
+2018.0;   Management, Scientific and Technical Services;29600.0
+2018.0;   Advertising and Related Services;11600.0
+2018.0;   Other Professional Services;13300.0
+2018.0;Business, Building and Other Support Services;100600.0
+2018.0;   Employment Services;9100.0
+2018.0;   Business Services;8900.0
+2018.0;   Travelling Services;10800.0
+2018.0;   Security Services;14200.0
+2018.0;   Building Services;46200.0
+2018.0;   Management of Enterprises and Other Administrative Services;5000.0
+2018.0;   Waste Management and Remediation Services;6600.0
+2018.0;Educational Services;168600.0
+2018.0;   Primary and Secondary;83500.0
+2018.0;   Post-Secondary;13300.0
+2018.0;   University;36500.0
+2018.0;   Other Schools and Educational Support;35300.0
+2018.0;Health Care and Social Assistance;323200.0
+2018.0;   Ambulatory Health Care Services;96000.0
+2018.0;   Hospitals;112200.0
+2018.0;   Nursing and Residential Care Facilities;50900.0
+2018.0;   Social Assistance;64200.0
+2018.0;Information, culture and recreation;127600.0
+2018.0;   Publishing Industries;15200.0
+2018.0;   Motion Picture and Sound Recording Industries;18500.0
+2018.0;   Broadcasting and Telecommunications;18300.0
+2018.0;   Information Services and Data Processing Services;5900.0
+2018.0;   Performing Arts, Spectator Sports and Related Industries;22800.0
+2018.0;   Heritage Institutions;3900.0
+2018.0;   Amusement, Gambling and Recreation Industries;43000.0
+2018.0;Accommodation and food services;187700.0
+2018.0;   Accommodation Services;30800.0
+2018.0;   Food Services and Drinking Places;157000.0
+2018.0;Other services;118100.0
+2018.0;   Repair and Maintenance;37600.0
+2018.0;   Personal and Laundry Services;48100.0
+2018.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;22500.0
+2018.0;   Private Households;9900.0
+2018.0;Public administration;104300.0
+2018.0;   Federal Government Public Administration (including Defence Services);33800.0
+2018.0;   Provincial and Territorial Public Administration;34000.0
+2018.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;36500.0
+2019.0;All industries;2559000.0
+2019.0;Goods-Producing Sector;485600.0
+2019.0;Agriculture;26600.0
+2019.0;   Crop Production;14800.0
+2019.0;   Animal Production;9800.0
+2019.0;   Mix farming;
+2019.0;   Support Activities for Agriculture;
+2019.0;Forestry, fishing, mining, quarrying, oil and gas;44500.0
+2019.0;   Forestry and Logging with support activities;16100.0
+2019.0;   Fishing, Hunting and Trapping;1800.0
+2019.0;   Mining and Oil and Gas Extraction;26500.0
+2019.0;      Oil and Gas Extraction;5100.0
+2019.0;      Mining (except Oil and Gas) & Mix Mining;13900.0
+2019.0;      Support Activities for Mining and Oil and Gas Extraction;7500.0
+2019.0;Utilities;12200.0
+2019.0;Construction;236600.0
+2019.0;  Construction of Buildings;74800.0
+2019.0;     Residential Building Construction;60300.0
+2019.0;     Non-residential Building Construction;14500.0
+2019.0;  Heavy and Civil Engineering Construction;26700.0
+2019.0;     Utility System Construction;7200.0
+2019.0;     Land Subdivision;7500.0
+2019.0;     Highway, Street and Bridge Construction;9800.0
+2019.0;     Other Heavy and Civil Engineering Construction;2200.0
+2019.0;   Trade Contracting;135100.0
+2019.0;     Foundation Structure and Building Exterior Contractors;28200.0
+2019.0;     Building Equipment Contractors;58700.0
+2019.0;     Building Finishing Contractors;31400.0
+2019.0;     Other Specialty Trade Contractors;16800.0
+2019.0;Manufacturing;165700.0
+2019.0;   Food Manufacturing;29100.0
+2019.0;   Beverage and Tobacco Product Manufacturing;6600.0
+2019.0;   Textile Mills & Textile Product Mills;
+2019.0;   Clothing Manufacturing & Leather & Allied Product Manufacturing;3900.0
+2019.0;   Wood Product Manufacturing;21000.0
+2019.0;   Paper Manufacturing;9000.0
+2019.0;   Printing and Related Support Activities;3600.0
+2019.0;   Petroleum and Coal Products Manufacturing;
+2019.0;   Chemical Manufacturing;6200.0
+2019.0;   Plastics and Rubber Products Manufacturing;2800.0
+2019.0;   Non-Metallic Mineral Product Manufacturing;7500.0
+2019.0;   Primary Metal Manufacturing;6300.0
+2019.0;   Fabricated Metal Product Manufacturing;13200.0
+2019.0;   Machinery Manufacturing;11700.0
+2019.0;   Computer and Electronic Product Manufacturing;7000.0
+2019.0;   Electrical Equipment, Appliance and Component Manufacturing;3900.0
+2019.0;   Transportation Equipment Manufacturing;10200.0
+2019.0;      Motor Vehicle, Body, Trailer & Parts Manufacturing;1900.0
+2019.0;      Other Transportation Equipment Manufacturing;8300.0
+2019.0;   Furniture and Related Product Manufacturing;8400.0
+2019.0;   Miscellaneous Manufacturing;13800.0
+2019.0;  Durables;103000.0
+2019.0;  Non-durables;62700.0
+2019.0;Services-Producing Sector;2073400.0
+2019.0;Trade;389200.0
+2019.0;   Wholesale;87300.0
+2019.0;      Farm Product Wholesaler-Distributors;
+2019.0;      Petroleum Product Wholesaler-Distributors;
+2019.0;      Food, Beverage and Tobacco Wholesaler-Distributors;12200.0
+2019.0;      Personal and Household Goods Wholesaler-Distributors;9900.0
+2019.0;      Motor Vehicle and Parts Wholesaler-Distributors;7000.0
+2019.0;      Building Material and Supplies Wholesaler-Distributors;15700.0
+2019.0;      Machinery, Equipment and Supplies Wholesaler-Distributors;23400.0
+2019.0;      Miscellaneous Wholesaler-Distributors & Wholesale Agents & Brokers;16900.0
+2019.0;   Retail;301900.0
+2019.0;      Motor Vehicle and Parts Dealers;37100.0
+2019.0;      Furniture and Home Furnishings Stores;9500.0
+2019.0;      Electronics and Appliance Stores;15500.0
+2019.0;      Building Material and Garden Equipment and Supplies Dealers;17200.0
+2019.0;      Food and Beverage Stores;81600.0
+2019.0;      Health and Personal Care Stores;29400.0
+2019.0;      Gasoline Stations;7300.0
+2019.0;      Clothing and Clothing Accessories Stores;33400.0
+2019.0;      Sporting Goods, Hobby, Book and Music Stores;13000.0
+2019.0;      General Merchandise Stores;21900.0
+2019.0;      Miscellaneous Store Retailers;24800.0
+2019.0;      Non-Store Retailers;11200.0
+2019.0;Transportation and Warehousing;140600.0
+2019.0;   Transportation;132700.0
+2019.0;      Air Transportation;13300.0
+2019.0;      Rail Transportation;6000.0
+2019.0;      Water Transportation;7200.0
+2019.0;      Truck Transportation;36000.0
+2019.0;      Transit and Ground Passenger Transportation;20200.0
+2019.0;      Pipeline Transportation;
+2019.0;      Scenic and Sightseeing Transportation & Support Activities for Transportation;25500.0
+2019.0;      Postal Service;11400.0
+2019.0;      Couriers and Messengers;12600.0
+2019.0;   Warehousing and Storage;8000.0
+2019.0;Finance, Insurance, Real Estate and Leasing;158900.0
+2019.0;   Monetary Authorities - Central Bank & Credit Intermediation and Related Activities;47600.0
+2019.0;   Securities, Commodity Contracts, and Other Intermediation and Related Activities;20800.0
+2019.0;    Insurance Carriers & Related Activities and Funds & Other Financial Vehicles;29800.0
+2019.0;   Real Estate;52500.0
+2019.0;   Rental & Leasing Services and Owners & Lessors of Other Non-Financial Assets;8200.0
+2019.0;Professional, Scientific and Technical Services;223700.0
+2019.0;   Legal Services;25400.0
+2019.0;   Accounting and Tax Preparation;27800.0
+2019.0;   Architectural, Engineering and Design Services;57000.0
+2019.0;   Computer System Design Services;57500.0
+2019.0;   Management, Scientific and Technical Services;33800.0
+2019.0;   Advertising and Related Services;13100.0
+2019.0;   Other Professional Services;9200.0
+2019.0;Business, Building and Other Support Services;112300.0
+2019.0;   Employment Services;7400.0
+2019.0;   Business Services;8600.0
+2019.0;   Travelling Services;13500.0
+2019.0;   Security Services;17300.0
+2019.0;   Building Services;51500.0
+2019.0;   Management of Enterprises and Other Administrative Services;6200.0
+2019.0;   Waste Management and Remediation Services;7800.0
+2019.0;Educational Services;178700.0
+2019.0;   Primary and Secondary;100000.0
+2019.0;   Post-Secondary;11900.0
+2019.0;   University;31300.0
+2019.0;   Other Schools and Educational Support;35500.0
+2019.0;Health Care and Social Assistance;312600.0
+2019.0;   Ambulatory Health Care Services;92900.0
+2019.0;   Hospitals;104600.0
+2019.0;   Nursing and Residential Care Facilities;53700.0
+2019.0;   Social Assistance;61500.0
+2019.0;Information, culture and recreation;131500.0
+2019.0;   Publishing Industries;14600.0
+2019.0;   Motion Picture and Sound Recording Industries;20300.0
+2019.0;   Broadcasting and Telecommunications;16800.0
+2019.0;   Information Services and Data Processing Services;6800.0
+2019.0;   Performing Arts, Spectator Sports and Related Industries;27200.0
+2019.0;   Heritage Institutions;3500.0
+2019.0;   Amusement, Gambling and Recreation Industries;42200.0
+2019.0;Accommodation and food services;191200.0
+2019.0;   Accommodation Services;34300.0
+2019.0;   Food Services and Drinking Places;156900.0
+2019.0;Other services;118800.0
+2019.0;   Repair and Maintenance;36000.0
+2019.0;   Personal and Laundry Services;44400.0
+2019.0;   Religious, Grant-Making, Civic, and Professional and Similar Organizations;28300.0
+2019.0;   Private Households;10100.0
+2019.0;Public administration;116000.0
+2019.0;   Federal Government Public Administration (including Defence Services);42700.0
+2019.0;   Provincial and Territorial Public Administration;35400.0
+2019.0;   Local, Municipal & Regional Public Administration and Aboriginal, Inter & Other Extra-Territorial Public Admin;37900.0
