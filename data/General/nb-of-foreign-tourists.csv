@@ -1,0 +1,25 @@
+Actual year;YEAR;COUNTRY;Nb_tourists (M)
+2014;N-2;Brazil;6.43
+2015;N-1;Brazil;6.306
+2016;N;Brazil;6.578
+2017;N+1;Brazil;6.588
+2018;N+2;Brazil;6.589
+2019;N+3;Brazil;6.35
+2010;N-2;United Kingdom;30.4
+2011;N-1;United Kingdom;31.89
+2012;N;United Kingdom;32.22
+2013;N+1;United Kingdom;33.57
+2014;N+2;United Kingdom;35.34
+2015;N+3;United Kingdom;36.79
+2006;N-2;China;22.2103
+2007;N-1;China;26.1097
+2008;N;China;24.3253
+2009;N+1;China;21.9375
+2010;N+2;China;26.1269
+2011;N+3;China;27.1120
+2000;N-2;Greece;13.096
+2001;N-1;Greece;14.057
+2002;N;Greece;14.180
+2003;N+1;Greece;13.969
+2004;N+2;Greece;13.313
+2005;N+3;Greece;14.765

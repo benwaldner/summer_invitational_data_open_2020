@@ -1,0 +1,1226 @@
+Month,Admissions,Lay-offs,Job_type,Year
+January,548,536,Public Service,2000
+February,447,582,Public Service,2000
+March,265,420,Public Service,2000
+April,162,270,Public Service,2000
+May,190,591,Public Service,2000
+June,231,428,Public Service,2000
+July,203,578,Public Service,2000
+August,196,444,Public Service,2000
+September,139,390,Public Service,2000
+October,141,313,Public Service,2000
+November,88,154,Public Service,2000
+December,92,233,Public Service,2000
+January,83,193,Public Service,2001
+February,219,497,Public Service,2001
+March,176,306,Public Service,2001
+April,296,205,Public Service,2001
+May,232,403,Public Service,2001
+June,283,406,Public Service,2001
+July,868,395,Public Service,2001
+August,589,234,Public Service,2001
+September,244,265,Public Service,2001
+October,231,198,Public Service,2001
+November,317,333,Public Service,2001
+December,324,240,Public Service,2001
+January,363,221,Public Service,2002
+February,322,155,Public Service,2002
+March,398,219,Public Service,2002
+April,381,244,Public Service,2002
+May,217,294,Public Service,2002
+June,220,168,Public Service,2002
+July,108,195,Public Service,2002
+August,314,126,Public Service,2002
+September,246,197,Public Service,2002
+October,262,205,Public Service,2002
+November,304,219,Public Service,2002
+December,42,339,Public Service,2002
+January,254,200,Public Service,2003
+February,123,219,Public Service,2003
+March,270,264,Public Service,2003
+April,74,140,Public Service,2003
+May,90,118,Public Service,2003
+June,52,95,Public Service,2003
+July,66,55,Public Service,2003
+August,103,96,Public Service,2003
+September,95,96,Public Service,2003
+October,77,77,Public Service,2003
+November,39,100,Public Service,2003
+December,85,116,Public Service,2003
+January,373,121,Public Service,2004
+February,347,89,Public Service,2004
+March,189,146,Public Service,2004
+April,125,97,Public Service,2004
+May,407,270,Public Service,2004
+June,202,124,Public Service,2004
+July,141,145,Public Service,2004
+August,420,145,Public Service,2004
+September,167,159,Public Service,2004
+October,117,237,Public Service,2004
+November,76,158,Public Service,2004
+December,244,127,Public Service,2004
+January,180,120,Public Service,2005
+February,464,108,Public Service,2005
+March,187,186,Public Service,2005
+April,176,159,Public Service,2005
+May,88,127,Public Service,2005
+June,217,154,Public Service,2005
+July,453,123,Public Service,2005
+August,296,140,Public Service,2005
+September,138,191,Public Service,2005
+October,71,110,Public Service,2005
+November,197,140,Public Service,2005
+December,372,109,Public Service,2005
+January,203,140,Public Service,2006
+February,145,132,Public Service,2006
+March,179,166,Public Service,2006
+April,396,134,Public Service,2006
+May,295,144,Public Service,2006
+June,177,172,Public Service,2006
+July,450,191,Public Service,2006
+August,263,197,Public Service,2006
+September,107,195,Public Service,2006
+October,266,305,Public Service,2006
+November,233,200,Public Service,2006
+December,238,160,Public Service,2006
+January,193,270,Public Service,2007
+February,172,141,Public Service,2007
+March,258,190,Public Service,2007
+April,359,251,Public Service,2007
+May,351,199,Public Service,2007
+June,245,146,Public Service,2007
+July,101,261,Public Service,2007
+August,75,213,Public Service,2007
+September,101,150,Public Service,2007
+October,198,246,Public Service,2007
+November,157,181,Public Service,2007
+December,199,151,Public Service,2007
+January,324,374,Public Service,2008
+February,268,267,Public Service,2008
+March,742,210,Public Service,2008
+April,528,241,Public Service,2008
+May,213,165,Public Service,2008
+June,299,214,Public Service,2008
+July,198,235,Public Service,2008
+August,257,238,Public Service,2008
+September,250,295,Public Service,2008
+October,329,228,Public Service,2008
+November,238,201,Public Service,2008
+December,130,89,Public Service,2008
+January,270,227,Public Service,2009
+February,152,259,Public Service,2009
+March,283,432,Public Service,2009
+April,532,274,Public Service,2009
+May,255,185,Public Service,2009
+June,242,165,Public Service,2009
+July,184,178,Public Service,2009
+August,198,194,Public Service,2009
+September,181,254,Public Service,2009
+October,221,176,Public Service,2009
+November,495,180,Public Service,2009
+December,158,276,Public Service,2009
+January,1391,361,Public Service,2010
+February,1208,403,Public Service,2010
+March,827,331,Public Service,2010
+April,521,278,Public Service,2010
+May,341,221,Public Service,2010
+June,421,210,Public Service,2010
+July,728,248,Public Service,2010
+August,550,387,Public Service,2010
+September,469,292,Public Service,2010
+October,634,308,Public Service,2010
+November,577,293,Public Service,2010
+December,862,342,Public Service,2010
+January,645,333,Public Service,2011
+February,387,414,Public Service,2011
+March,700,385,Public Service,2011
+April,807,394,Public Service,2011
+May,474,333,Public Service,2011
+June,527,334,Public Service,2011
+July,381,377,Public Service,2011
+August,627,427,Public Service,2011
+September,698,362,Public Service,2011
+October,767,454,Public Service,2011
+November,581,676,Public Service,2011
+December,361,436,Public Service,2011
+January,662,578,Public Service,2012
+February,692,760,Public Service,2012
+March,970,593,Public Service,2012
+April,758,643,Public Service,2012
+May,781,602,Public Service,2012
+June,958,613,Public Service,2012
+July,1065,640,Public Service,2012
+August,1186,695,Public Service,2012
+September,888,646,Public Service,2012
+October,664,908,Public Service,2012
+November,528,602,Public Service,2012
+December,381,764,Public Service,2012
+January,901,605,Public Service,2013
+February,803,874,Public Service,2013
+March,610,953,Public Service,2013
+April,560,915,Public Service,2013
+May,685,835,Public Service,2013
+June,503,880,Public Service,2013
+July,338,1277,Public Service,2013
+August,264,693,Public Service,2013
+September,346,478,Public Service,2013
+October,418,588,Public Service,2013
+November,415,805,Public Service,2013
+December,851,821,Public Service,2013
+January,464,440,Public Service,2014
+February,615,618,Public Service,2014
+March,491,372,Public Service,2014
+April,499,362,Public Service,2014
+May,437,489,Public Service,2014
+June,261,279,Public Service,2014
+July,509,233,Public Service,2014
+August,272,375,Public Service,2014
+September,260,355,Public Service,2014
+October,245,298,Public Service,2014
+November,287,351,Public Service,2014
+December,177,454,Public Service,2014
+January,240,252,Public Service,2015
+February,234,268,Public Service,2015
+March,267,398,Public Service,2015
+April,217,538,Public Service,2015
+May,417,326,Public Service,2015
+June,247,345,Public Service,2015
+July,162,316,Public Service,2015
+August,286,265,Public Service,2015
+September,235,242,Public Service,2015
+October,294,273,Public Service,2015
+November,289,355,Public Service,2015
+December,133,332,Public Service,2015
+January,196,327,Public Service,2016
+February,266,304,Public Service,2016
+March,222,319,Public Service,2016
+April,164,308,Public Service,2016
+May,183,299,Public Service,2016
+June,212,270,Public Service,2016
+July,148,232,Public Service,2016
+August,180,239,Public Service,2016
+September,184,235,Public Service,2016
+October,200,200,Public Service,2016
+November,183,195,Public Service,2016
+December,199,207,Public Service,2016
+January,283,260,Public Service,2017
+February,134,320,Public Service,2017
+March,147,229,Public Service,2017
+April,168,204,Public Service,2017
+May,261,355,Public Service,2017
+June,222,250,Public Service,2017
+July,179,251,Public Service,2017
+August,205,259,Public Service,2017
+September,283,162,Public Service,2017
+October,154,200,Public Service,2017
+November,194,177,Public Service,2017
+December,212,568,Public Service,2017
+January,175,200,Public Service,2018
+February,340,169,Public Service,2018
+March,191,179,Public Service,2018
+April,229,147,Public Service,2018
+May,154,252,Public Service,2018
+June,270,199,Public Service,2018
+July,224,205,Public Service,2018
+August,315,316,Public Service,2018
+September,324,199,Public Service,2018
+October,227,201,Public Service,2018
+November,261,151,Public Service,2018
+December,174,236,Public Service,2018
+January,276,210,Public Service,2019
+February,320,196,Public Service,2019
+March,196,224,Public Service,2019
+April,229,160,Public Service,2019
+May,194,171,Public Service,2019
+June,215,287,Public Service,2019
+July,218,194,Public Service,2019
+August,204,210,Public Service,2019
+September,164,407,Public Service,2019
+October,234,230,Public Service,2019
+November,365,214,Public Service,2019
+December,323,275,Public Service,2019
+January,294,212,Public Service,2020
+February,220,198,Public Service,2020
+March,215,280,Public Service,2020
+April,56,230,Public Service,2020
+May,167,208,Public Service,2020
+January,4502,3882,Civil Construction,2000
+February,4620,3714,Civil Construction,2000
+March,4189,4591,Civil Construction,2000
+April,4653,4023,Civil Construction,2000
+May,5821,5238,Civil Construction,2000
+June,6026,5094,Civil Construction,2000
+July,5688,5049,Civil Construction,2000
+August,4870,4714,Civil Construction,2000
+September,5015,4743,Civil Construction,2000
+October,5181,4593,Civil Construction,2000
+November,4084,4971,Civil Construction,2000
+December,3181,5574,Civil Construction,2000
+January,4751,4841,Civil Construction,2001
+February,4183,3365,Civil Construction,2001
+March,3768,4259,Civil Construction,2001
+April,4389,4087,Civil Construction,2001
+May,3868,3779,Civil Construction,2001
+June,4462,4236,Civil Construction,2001
+July,4571,4346,Civil Construction,2001
+August,4840,5330,Civil Construction,2001
+September,4305,4514,Civil Construction,2001
+October,4441,5257,Civil Construction,2001
+November,4326,5006,Civil Construction,2001
+December,2767,3696,Civil Construction,2001
+January,3579,2823,Civil Construction,2002
+February,3495,2774,Civil Construction,2002
+March,3930,3824,Civil Construction,2002
+April,3107,3999,Civil Construction,2002
+May,3203,3986,Civil Construction,2002
+June,2725,3342,Civil Construction,2002
+July,3781,4098,Civil Construction,2002
+August,4153,3896,Civil Construction,2002
+September,3713,3170,Civil Construction,2002
+October,4129,3980,Civil Construction,2002
+November,3787,3311,Civil Construction,2002
+December,1769,4087,Civil Construction,2002
+January,3475,3210,Civil Construction,2003
+February,3210,2510,Civil Construction,2003
+March,2266,3362,Civil Construction,2003
+April,2871,2908,Civil Construction,2003
+May,3056,2905,Civil Construction,2003
+June,4037,2679,Civil Construction,2003
+July,4028,3456,Civil Construction,2003
+August,3525,3327,Civil Construction,2003
+September,3571,3172,Civil Construction,2003
+October,3618,3534,Civil Construction,2003
+November,2813,3214,Civil Construction,2003
+December,1871,3409,Civil Construction,2003
+January,4123,3047,Civil Construction,2004
+February,3275,2740,Civil Construction,2004
+March,3577,3909,Civil Construction,2004
+April,3290,3369,Civil Construction,2004
+May,3807,3228,Civil Construction,2004
+June,3675,3470,Civil Construction,2004
+July,4038,3654,Civil Construction,2004
+August,3768,2786,Civil Construction,2004
+September,3001,2933,Civil Construction,2004
+October,3150,3440,Civil Construction,2004
+November,2964,4744,Civil Construction,2004
+December,2002,3769,Civil Construction,2004
+January,3822,3158,Civil Construction,2005
+February,2515,2470,Civil Construction,2005
+March,3315,3359,Civil Construction,2005
+April,3139,3044,Civil Construction,2005
+May,3604,3074,Civil Construction,2005
+June,3948,3322,Civil Construction,2005
+July,3756,3022,Civil Construction,2005
+August,3850,3040,Civil Construction,2005
+September,3499,3301,Civil Construction,2005
+October,3015,3040,Civil Construction,2005
+November,2818,3313,Civil Construction,2005
+December,2514,2961,Civil Construction,2005
+January,4252,2678,Civil Construction,2006
+February,3871,2768,Civil Construction,2006
+March,4409,3678,Civil Construction,2006
+April,3614,3205,Civil Construction,2006
+May,4847,3539,Civil Construction,2006
+June,4356,3641,Civil Construction,2006
+July,4163,3468,Civil Construction,2006
+August,4340,3853,Civil Construction,2006
+September,5410,3660,Civil Construction,2006
+October,5183,3585,Civil Construction,2006
+November,4274,4280,Civil Construction,2006
+December,3368,4188,Civil Construction,2006
+January,5357,4507,Civil Construction,2007
+February,3948,3500,Civil Construction,2007
+March,5295,4961,Civil Construction,2007
+April,5180,4124,Civil Construction,2007
+May,5259,4553,Civil Construction,2007
+June,6264,4975,Civil Construction,2007
+July,5358,7379,Civil Construction,2007
+August,6842,4981,Civil Construction,2007
+September,6227,3393,Civil Construction,2007
+October,6555,4032,Civil Construction,2007
+November,6421,4601,Civil Construction,2007
+December,4259,5003,Civil Construction,2007
+January,7728,4935,Civil Construction,2008
+February,7031,4417,Civil Construction,2008
+March,8006,5170,Civil Construction,2008
+April,7826,5520,Civil Construction,2008
+May,8332,5980,Civil Construction,2008
+June,8262,5628,Civil Construction,2008
+July,8961,6266,Civil Construction,2008
+August,8174,6388,Civil Construction,2008
+September,10231,8338,Civil Construction,2008
+October,7555,7185,Civil Construction,2008
+November,7388,7770,Civil Construction,2008
+December,5056,7567,Civil Construction,2008
+January,8273,6767,Civil Construction,2009
+February,7930,5552,Civil Construction,2009
+March,9357,7298,Civil Construction,2009
+April,8144,7670,Civil Construction,2009
+May,8207,7285,Civil Construction,2009
+June,8177,7765,Civil Construction,2009
+July,8163,7363,Civil Construction,2009
+August,8546,6885,Civil Construction,2009
+September,8307,7285,Civil Construction,2009
+October,8749,7196,Civil Construction,2009
+November,7019,7660,Civil Construction,2009
+December,6629,7980,Civil Construction,2009
+January,9600,5862,Civil Construction,2010
+February,8648,6195,Civil Construction,2010
+March,10188,8654,Civil Construction,2010
+April,8349,9625,Civil Construction,2010
+May,9650,8361,Civil Construction,2010
+June,9555,8337,Civil Construction,2010
+July,9703,8998,Civil Construction,2010
+August,10628,9184,Civil Construction,2010
+September,9212,8690,Civil Construction,2010
+October,8502,8855,Civil Construction,2010
+November,7529,8349,Civil Construction,2010
+December,5173,8405,Civil Construction,2010
+January,8285,8518,Civil Construction,2011
+February,9621,6823,Civil Construction,2011
+March,8512,8243,Civil Construction,2011
+April,10437,8472,Civil Construction,2011
+May,10143,7957,Civil Construction,2011
+June,10357,7916,Civil Construction,2011
+July,9920,7801,Civil Construction,2011
+August,9790,8632,Civil Construction,2011
+September,9534,8425,Civil Construction,2011
+October,8238,8585,Civil Construction,2011
+November,9084,8968,Civil Construction,2011
+December,6878,8875,Civil Construction,2011
+January,9652,7325,Civil Construction,2012
+February,10885,7206,Civil Construction,2012
+March,12196,9111,Civil Construction,2012
+April,11325,8485,Civil Construction,2012
+May,10157,10307,Civil Construction,2012
+June,9827,10893,Civil Construction,2012
+July,11063,10337,Civil Construction,2012
+August,11421,9459,Civil Construction,2012
+September,10866,9011,Civil Construction,2012
+October,11093,10054,Civil Construction,2012
+November,9545,10563,Civil Construction,2012
+December,6929,7995,Civil Construction,2012
+January,10163,10281,Civil Construction,2013
+February,9036,7267,Civil Construction,2013
+March,12431,9285,Civil Construction,2013
+April,11362,9931,Civil Construction,2013
+May,10503,11115,Civil Construction,2013
+June,10567,11676,Civil Construction,2013
+July,10854,9935,Civil Construction,2013
+August,11058,12290,Civil Construction,2013
+September,10977,10691,Civil Construction,2013
+October,11285,10644,Civil Construction,2013
+November,8466,10086,Civil Construction,2013
+December,4802,7132,Civil Construction,2013
+January,9727,9301,Civil Construction,2014
+February,12062,9126,Civil Construction,2014
+March,10035,11590,Civil Construction,2014
+April,9654,9791,Civil Construction,2014
+May,9647,10004,Civil Construction,2014
+June,9405,10990,Civil Construction,2014
+July,10082,10432,Civil Construction,2014
+August,10315,9236,Civil Construction,2014
+September,11141,9376,Civil Construction,2014
+October,10413,9539,Civil Construction,2014
+November,8963,9656,Civil Construction,2014
+December,5285,7307,Civil Construction,2014
+January,9041,9289,Civil Construction,2015
+February,8793,8644,Civil Construction,2015
+March,10674,10589,Civil Construction,2015
+April,9209,9877,Civil Construction,2015
+May,9414,8536,Civil Construction,2015
+June,10339,9323,Civil Construction,2015
+July,9845,10023,Civil Construction,2015
+August,9208,9811,Civil Construction,2015
+September,7944,9145,Civil Construction,2015
+October,7064,10178,Civil Construction,2015
+November,6676,9151,Civil Construction,2015
+December,4772,7943,Civil Construction,2015
+January,6398,7581,Civil Construction,2016
+February,6272,8539,Civil Construction,2016
+March,8308,10198,Civil Construction,2016
+April,7567,9943,Civil Construction,2016
+May,5717,9868,Civil Construction,2016
+June,5745,10747,Civil Construction,2016
+July,4644,13136,Civil Construction,2016
+August,4474,10061,Civil Construction,2016
+September,3725,7620,Civil Construction,2016
+October,3640,8389,Civil Construction,2016
+November,3823,8158,Civil Construction,2016
+December,2371,6858,Civil Construction,2016
+January,3983,5020,Civil Construction,2017
+February,3876,4989,Civil Construction,2017
+March,3887,4836,Civil Construction,2017
+April,4007,4594,Civil Construction,2017
+May,3918,4661,Civil Construction,2017
+June,4112,4388,Civil Construction,2017
+July,4559,3911,Civil Construction,2017
+August,3387,4993,Civil Construction,2017
+September,3035,3690,Civil Construction,2017
+October,3234,4014,Civil Construction,2017
+November,3295,3952,Civil Construction,2017
+December,2021,3697,Civil Construction,2017
+January,3238,3704,Civil Construction,2018
+February,2653,4137,Civil Construction,2018
+March,3418,4258,Civil Construction,2018
+April,3928,3793,Civil Construction,2018
+May,2880,4081,Civil Construction,2018
+June,3017,3365,Civil Construction,2018
+July,3281,3832,Civil Construction,2018
+August,3662,3738,Civil Construction,2018
+September,3659,3167,Civil Construction,2018
+October,3372,3495,Civil Construction,2018
+November,3908,3661,Civil Construction,2018
+December,2491,3406,Civil Construction,2018
+January,4002,3872,Civil Construction,2019
+February,3805,3242,Civil Construction,2019
+March,3195,4094,Civil Construction,2019
+April,3769,3981,Civil Construction,2019
+May,3763,4278,Civil Construction,2019
+June,4104,3875,Civil Construction,2019
+July,4235,4014,Civil Construction,2019
+August,4471,4030,Civil Construction,2019
+September,4471,4092,Civil Construction,2019
+October,4211,4266,Civil Construction,2019
+November,3418,3689,Civil Construction,2019
+December,2302,3441,Civil Construction,2019
+January,3828,4345,Civil Construction,2020
+February,3991,4393,Civil Construction,2020
+March,3576,5025,Civil Construction,2020
+April,1209,4813,Civil Construction,2020
+May,1696,3606,Civil Construction,2020
+January,13213,17852,Commerce,2000
+February,12162,11776,Commerce,2000
+March,12663,12889,Commerce,2000
+April,12239,9917,Commerce,2000
+May,12340,12070,Commerce,2000
+June,12625,11744,Commerce,2000
+July,12121,11569,Commerce,2000
+August,12765,12584,Commerce,2000
+September,11216,10294,Commerce,2000
+October,12145,10832,Commerce,2000
+November,13922,10151,Commerce,2000
+December,12620,11908,Commerce,2000
+January,12251,15622,Commerce,2001
+February,11038,11935,Commerce,2001
+March,11792,12406,Commerce,2001
+April,13731,11454,Commerce,2001
+May,12267,12073,Commerce,2001
+June,12765,12426,Commerce,2001
+July,12400,12561,Commerce,2001
+August,12927,13191,Commerce,2001
+September,13282,11480,Commerce,2001
+October,12521,10336,Commerce,2001
+November,13997,10625,Commerce,2001
+December,12413,10156,Commerce,2001
+January,10090,13258,Commerce,2002
+February,9302,8461,Commerce,2002
+March,10858,10643,Commerce,2002
+April,10789,9742,Commerce,2002
+May,11315,10863,Commerce,2002
+June,9929,9049,Commerce,2002
+July,10956,9926,Commerce,2002
+August,11288,10018,Commerce,2002
+September,11534,8854,Commerce,2002
+October,12172,10177,Commerce,2002
+November,13234,8480,Commerce,2002
+December,11280,8922,Commerce,2002
+January,10307,13476,Commerce,2003
+February,10674,10123,Commerce,2003
+March,8639,9247,Commerce,2003
+April,10431,9197,Commerce,2003
+May,10425,10834,Commerce,2003
+June,10206,10031,Commerce,2003
+July,10626,10488,Commerce,2003
+August,10701,9944,Commerce,2003
+September,10878,9313,Commerce,2003
+October,10663,9266,Commerce,2003
+November,12960,8366,Commerce,2003
+December,11382,9994,Commerce,2003
+January,10575,12495,Commerce,2004
+February,11367,9324,Commerce,2004
+March,11821,11715,Commerce,2004
+April,10871,8568,Commerce,2004
+May,11698,10215,Commerce,2004
+June,11249,10779,Commerce,2004
+July,11264,10509,Commerce,2004
+August,12450,9719,Commerce,2004
+September,11340,9641,Commerce,2004
+October,11201,9100,Commerce,2004
+November,14068,9463,Commerce,2004
+December,13396,11578,Commerce,2004
+January,10324,12803,Commerce,2005
+February,10120,10356,Commerce,2005
+March,12572,12838,Commerce,2005
+April,12510,9554,Commerce,2005
+May,12472,11787,Commerce,2005
+June,12293,11608,Commerce,2005
+July,12001,10910,Commerce,2005
+August,12379,10895,Commerce,2005
+September,12293,10353,Commerce,2005
+October,12366,9866,Commerce,2005
+November,16644,10561,Commerce,2005
+December,15644,12504,Commerce,2005
+January,10866,15101,Commerce,2006
+February,10671,10333,Commerce,2006
+March,11699,12419,Commerce,2006
+April,11772,9395,Commerce,2006
+May,11913,11650,Commerce,2006
+June,11047,10830,Commerce,2006
+July,11754,10029,Commerce,2006
+August,12102,11481,Commerce,2006
+September,11808,10164,Commerce,2006
+October,12528,9869,Commerce,2006
+November,14803,10287,Commerce,2006
+December,15499,11680,Commerce,2006
+January,11851,16266,Commerce,2007
+February,10641,11004,Commerce,2007
+March,13173,12439,Commerce,2007
+April,12708,9744,Commerce,2007
+May,12423,12724,Commerce,2007
+June,13445,12030,Commerce,2007
+July,12623,11469,Commerce,2007
+August,13271,12439,Commerce,2007
+September,13152,10937,Commerce,2007
+October,13507,11225,Commerce,2007
+November,17187,10200,Commerce,2007
+December,16520,12246,Commerce,2007
+January,12676,18797,Commerce,2008
+February,12086,12346,Commerce,2008
+March,14516,14146,Commerce,2008
+April,13753,11193,Commerce,2008
+May,12985,13083,Commerce,2008
+June,15540,12662,Commerce,2008
+July,14556,13998,Commerce,2008
+August,15511,13195,Commerce,2008
+September,15393,13267,Commerce,2008
+October,16710,14087,Commerce,2008
+November,17679,12744,Commerce,2008
+December,15823,14404,Commerce,2008
+January,11618,20155,Commerce,2009
+February,11832,13239,Commerce,2009
+March,14449,15266,Commerce,2009
+April,13500,12330,Commerce,2009
+May,13558,13985,Commerce,2009
+June,14329,13777,Commerce,2009
+July,15599,13334,Commerce,2009
+August,15834,12914,Commerce,2009
+September,15141,13704,Commerce,2009
+October,16014,12877,Commerce,2009
+November,18387,12587,Commerce,2009
+December,17767,15283,Commerce,2009
+January,13377,16627,Commerce,2010
+February,14316,14132,Commerce,2010
+March,18796,16055,Commerce,2010
+April,15188,12958,Commerce,2010
+May,16640,15826,Commerce,2010
+June,16699,15874,Commerce,2010
+July,17031,15534,Commerce,2010
+August,17635,15278,Commerce,2010
+September,17308,15747,Commerce,2010
+October,17756,14270,Commerce,2010
+November,21543,14002,Commerce,2010
+December,20348,17291,Commerce,2010
+January,16427,21669,Commerce,2011
+February,16958,17577,Commerce,2011
+March,16419,16781,Commerce,2011
+April,18555,15188,Commerce,2011
+May,18703,19043,Commerce,2011
+June,18575,16871,Commerce,2011
+July,17683,17539,Commerce,2011
+August,18656,17712,Commerce,2011
+September,18058,16501,Commerce,2011
+October,18473,15500,Commerce,2011
+November,22411,15200,Commerce,2011
+December,21864,18997,Commerce,2011
+January,16429,23419,Commerce,2012
+February,15174,17502,Commerce,2012
+March,18628,18718,Commerce,2012
+April,18620,15588,Commerce,2012
+May,17663,18316,Commerce,2012
+June,18435,17980,Commerce,2012
+July,18935,17336,Commerce,2012
+August,18883,18592,Commerce,2012
+September,17637,16033,Commerce,2012
+October,19155,16865,Commerce,2012
+November,22916,16300,Commerce,2012
+December,21394,18076,Commerce,2012
+January,17166,26135,Commerce,2013
+February,17000,18225,Commerce,2013
+March,19912,19192,Commerce,2013
+April,19859,17930,Commerce,2013
+May,18831,20744,Commerce,2013
+June,20179,20148,Commerce,2013
+July,18901,19365,Commerce,2013
+August,20312,18502,Commerce,2013
+September,20357,17069,Commerce,2013
+October,21539,18892,Commerce,2013
+November,21699,15794,Commerce,2013
+December,18207,15823,Commerce,2013
+January,15527,25576,Commerce,2014
+February,18584,19718,Commerce,2014
+March,16157,18646,Commerce,2014
+April,18606,17668,Commerce,2014
+May,18789,19560,Commerce,2014
+June,17412,17704,Commerce,2014
+July,19496,19531,Commerce,2014
+August,20581,17668,Commerce,2014
+September,20145,17517,Commerce,2014
+October,20283,18789,Commerce,2014
+November,22589,16636,Commerce,2014
+December,22223,19631,Commerce,2014
+January,15072,25909,Commerce,2015
+February,15834,18613,Commerce,2015
+March,19905,18322,Commerce,2015
+April,16427,16691,Commerce,2015
+May,16901,18641,Commerce,2015
+June,17050,18084,Commerce,2015
+July,15833,17439,Commerce,2015
+August,16199,17292,Commerce,2015
+September,15875,15740,Commerce,2015
+October,15321,15591,Commerce,2015
+November,19290,14200,Commerce,2015
+December,19165,19201,Commerce,2015
+January,12596,19557,Commerce,2016
+February,12238,15682,Commerce,2016
+March,15848,16293,Commerce,2016
+April,14144,14269,Commerce,2016
+May,14372,15320,Commerce,2016
+June,14179,15285,Commerce,2016
+July,13569,14188,Commerce,2016
+August,13330,14389,Commerce,2016
+September,15927,14673,Commerce,2016
+October,14405,13406,Commerce,2016
+November,17215,12770,Commerce,2016
+December,17326,17618,Commerce,2016
+January,11696,20034,Commerce,2017
+February,11752,14365,Commerce,2017
+March,12115,13756,Commerce,2017
+April,11764,11231,Commerce,2017
+May,12705,13758,Commerce,2017
+June,12553,13309,Commerce,2017
+July,12404,12306,Commerce,2017
+August,12816,13243,Commerce,2017
+September,12624,12231,Commerce,2017
+October,12855,11818,Commerce,2017
+November,15663,11173,Commerce,2017
+December,16074,14512,Commerce,2017
+January,11469,17214,Commerce,2018
+February,10522,12487,Commerce,2018
+March,13697,13267,Commerce,2018
+April,13322,11450,Commerce,2018
+May,12792,13042,Commerce,2018
+June,11697,12860,Commerce,2018
+July,11433,12561,Commerce,2018
+August,13027,13107,Commerce,2018
+September,11782,10865,Commerce,2018
+October,12123,12307,Commerce,2018
+November,15934,10761,Commerce,2018
+December,17288,14057,Commerce,2018
+January,11449,17572,Commerce,2019
+February,13112,13328,Commerce,2019
+March,11131,12343,Commerce,2019
+April,12128,11127,Commerce,2019
+May,12203,13575,Commerce,2019
+June,11775,12353,Commerce,2019
+July,12237,12917,Commerce,2019
+August,13733,13198,Commerce,2019
+September,13148,10794,Commerce,2019
+October,13268,12941,Commerce,2019
+November,17167,10455,Commerce,2019
+December,15877,12811,Commerce,2019
+January,3828,4345,Commerce,2020
+February,3991,4393,Commerce,2020
+March,3576,5025,Commerce,2020
+April,3537,13915,Commerce,2020
+May,4273,8795,Commerce,2020
+January,548,536,Industrial service of Public utility,2000
+February,447,582,Industrial service of Public utility,2000
+March,265,420,Industrial service of Public utility,2000
+April,162,270,Industrial service of Public utility,2000
+May,190,591,Industrial service of Public utility,2000
+June,231,428,Industrial service of Public utility,2000
+July,203,578,Industrial service of Public utility,2000
+August,196,444,Industrial service of Public utility,2000
+September,139,390,Industrial service of Public utility,2000
+October,141,313,Industrial service of Public utility,2000
+November,88,154,Industrial service of Public utility,2000
+December,92,233,Industrial service of Public utility,2000
+January,83,193,Industrial service of Public utility,2001
+February,219,497,Industrial service of Public utility,2001
+March,176,306,Industrial service of Public utility,2001
+April,296,205,Industrial service of Public utility,2001
+May,232,403,Industrial service of Public utility,2001
+June,283,406,Industrial service of Public utility,2001
+July,868,395,Industrial service of Public utility,2001
+August,589,234,Industrial service of Public utility,2001
+September,244,265,Industrial service of Public utility,2001
+October,231,198,Industrial service of Public utility,2001
+November,317,333,Industrial service of Public utility,2001
+December,324,240,Industrial service of Public utility,2001
+January,363,221,Industrial service of Public utility,2002
+February,322,155,Industrial service of Public utility,2002
+March,398,219,Industrial service of Public utility,2002
+April,381,244,Industrial service of Public utility,2002
+May,217,294,Industrial service of Public utility,2002
+June,220,168,Industrial service of Public utility,2002
+July,108,195,Industrial service of Public utility,2002
+August,314,126,Industrial service of Public utility,2002
+September,246,197,Industrial service of Public utility,2002
+October,262,205,Industrial service of Public utility,2002
+November,304,219,Industrial service of Public utility,2002
+December,42,339,Industrial service of Public utility,2002
+January,254,200,Industrial service of Public utility,2003
+February,123,219,Industrial service of Public utility,2003
+March,270,264,Industrial service of Public utility,2003
+April,74,140,Industrial service of Public utility,2003
+May,90,118,Industrial service of Public utility,2003
+June,52,95,Industrial service of Public utility,2003
+July,66,55,Industrial service of Public utility,2003
+August,103,96,Industrial service of Public utility,2003
+September,95,96,Industrial service of Public utility,2003
+October,77,77,Industrial service of Public utility,2003
+November,39,100,Industrial service of Public utility,2003
+December,85,116,Industrial service of Public utility,2003
+January,373,121,Industrial service of Public utility,2004
+February,347,89,Industrial service of Public utility,2004
+March,189,146,Industrial service of Public utility,2004
+April,125,97,Industrial service of Public utility,2004
+May,407,270,Industrial service of Public utility,2004
+June,202,124,Industrial service of Public utility,2004
+July,141,145,Industrial service of Public utility,2004
+August,420,145,Industrial service of Public utility,2004
+September,167,159,Industrial service of Public utility,2004
+October,117,237,Industrial service of Public utility,2004
+November,76,158,Industrial service of Public utility,2004
+December,244,127,Industrial service of Public utility,2004
+January,180,120,Industrial service of Public utility,2005
+February,464,108,Industrial service of Public utility,2005
+March,187,186,Industrial service of Public utility,2005
+April,176,159,Industrial service of Public utility,2005
+May,88,127,Industrial service of Public utility,2005
+June,217,154,Industrial service of Public utility,2005
+July,453,123,Industrial service of Public utility,2005
+August,296,140,Industrial service of Public utility,2005
+September,138,191,Industrial service of Public utility,2005
+October,71,110,Industrial service of Public utility,2005
+November,197,140,Industrial service of Public utility,2005
+December,372,109,Industrial service of Public utility,2005
+January,203,140,Industrial service of Public utility,2006
+February,145,132,Industrial service of Public utility,2006
+March,179,166,Industrial service of Public utility,2006
+April,396,134,Industrial service of Public utility,2006
+May,295,144,Industrial service of Public utility,2006
+June,177,172,Industrial service of Public utility,2006
+July,450,191,Industrial service of Public utility,2006
+August,263,197,Industrial service of Public utility,2006
+September,107,195,Industrial service of Public utility,2006
+October,266,305,Industrial service of Public utility,2006
+November,233,200,Industrial service of Public utility,2006
+December,238,160,Industrial service of Public utility,2006
+January,193,270,Industrial service of Public utility,2007
+February,172,141,Industrial service of Public utility,2007
+March,258,190,Industrial service of Public utility,2007
+April,359,251,Industrial service of Public utility,2007
+May,351,199,Industrial service of Public utility,2007
+June,245,146,Industrial service of Public utility,2007
+July,101,261,Industrial service of Public utility,2007
+August,75,213,Industrial service of Public utility,2007
+September,101,150,Industrial service of Public utility,2007
+October,198,246,Industrial service of Public utility,2007
+November,157,181,Industrial service of Public utility,2007
+December,199,151,Industrial service of Public utility,2007
+January,324,374,Industrial service of Public utility,2008
+February,268,267,Industrial service of Public utility,2008
+March,742,210,Industrial service of Public utility,2008
+April,528,241,Industrial service of Public utility,2008
+May,213,165,Industrial service of Public utility,2008
+June,299,214,Industrial service of Public utility,2008
+July,198,235,Industrial service of Public utility,2008
+August,257,238,Industrial service of Public utility,2008
+September,250,295,Industrial service of Public utility,2008
+October,329,228,Industrial service of Public utility,2008
+November,238,201,Industrial service of Public utility,2008
+December,130,89,Industrial service of Public utility,2008
+January,270,227,Industrial service of Public utility,2009
+February,152,259,Industrial service of Public utility,2009
+March,283,432,Industrial service of Public utility,2009
+April,532,274,Industrial service of Public utility,2009
+May,255,185,Industrial service of Public utility,2009
+June,242,165,Industrial service of Public utility,2009
+July,184,178,Industrial service of Public utility,2009
+August,198,194,Industrial service of Public utility,2009
+September,181,254,Industrial service of Public utility,2009
+October,221,176,Industrial service of Public utility,2009
+November,495,180,Industrial service of Public utility,2009
+December,158,276,Industrial service of Public utility,2009
+January,1391,361,Industrial service of Public utility,2010
+February,1208,403,Industrial service of Public utility,2010
+March,827,331,Industrial service of Public utility,2010
+April,521,278,Industrial service of Public utility,2010
+May,341,221,Industrial service of Public utility,2010
+June,421,210,Industrial service of Public utility,2010
+July,728,248,Industrial service of Public utility,2010
+August,550,387,Industrial service of Public utility,2010
+September,469,292,Industrial service of Public utility,2010
+October,634,308,Industrial service of Public utility,2010
+November,577,293,Industrial service of Public utility,2010
+December,862,342,Industrial service of Public utility,2010
+January,645,333,Industrial service of Public utility,2011
+February,387,414,Industrial service of Public utility,2011
+March,700,385,Industrial service of Public utility,2011
+April,807,394,Industrial service of Public utility,2011
+May,474,333,Industrial service of Public utility,2011
+June,527,334,Industrial service of Public utility,2011
+July,381,377,Industrial service of Public utility,2011
+August,627,427,Industrial service of Public utility,2011
+September,698,362,Industrial service of Public utility,2011
+October,767,454,Industrial service of Public utility,2011
+November,581,676,Industrial service of Public utility,2011
+December,361,436,Industrial service of Public utility,2011
+January,662,578,Industrial service of Public utility,2012
+February,692,760,Industrial service of Public utility,2012
+March,970,593,Industrial service of Public utility,2012
+April,758,643,Industrial service of Public utility,2012
+May,781,602,Industrial service of Public utility,2012
+June,958,613,Industrial service of Public utility,2012
+July,1065,640,Industrial service of Public utility,2012
+August,1186,695,Industrial service of Public utility,2012
+September,888,646,Industrial service of Public utility,2012
+October,664,908,Industrial service of Public utility,2012
+November,528,602,Industrial service of Public utility,2012
+December,381,764,Industrial service of Public utility,2012
+January,901,605,Industrial service of Public utility,2013
+February,803,874,Industrial service of Public utility,2013
+March,610,953,Industrial service of Public utility,2013
+April,560,915,Industrial service of Public utility,2013
+May,685,835,Industrial service of Public utility,2013
+June,503,880,Industrial service of Public utility,2013
+July,338,1277,Industrial service of Public utility,2013
+August,264,693,Industrial service of Public utility,2013
+September,346,478,Industrial service of Public utility,2013
+October,418,588,Industrial service of Public utility,2013
+November,415,805,Industrial service of Public utility,2013
+December,851,821,Industrial service of Public utility,2013
+January,464,440,Industrial service of Public utility,2014
+February,615,618,Industrial service of Public utility,2014
+March,491,372,Industrial service of Public utility,2014
+April,499,362,Industrial service of Public utility,2014
+May,437,489,Industrial service of Public utility,2014
+June,261,279,Industrial service of Public utility,2014
+July,509,233,Industrial service of Public utility,2014
+August,272,375,Industrial service of Public utility,2014
+September,260,355,Industrial service of Public utility,2014
+October,245,298,Industrial service of Public utility,2014
+November,287,351,Industrial service of Public utility,2014
+December,177,454,Industrial service of Public utility,2014
+January,240,252,Industrial service of Public utility,2015
+February,234,268,Industrial service of Public utility,2015
+March,267,398,Industrial service of Public utility,2015
+April,217,538,Industrial service of Public utility,2015
+May,417,326,Industrial service of Public utility,2015
+June,247,345,Industrial service of Public utility,2015
+July,162,316,Industrial service of Public utility,2015
+August,286,265,Industrial service of Public utility,2015
+September,235,242,Industrial service of Public utility,2015
+October,294,273,Industrial service of Public utility,2015
+November,289,355,Industrial service of Public utility,2015
+December,133,332,Industrial service of Public utility,2015
+January,196,327,Industrial service of Public utility,2016
+February,266,304,Industrial service of Public utility,2016
+March,222,319,Industrial service of Public utility,2016
+April,164,308,Industrial service of Public utility,2016
+May,183,299,Industrial service of Public utility,2016
+June,212,270,Industrial service of Public utility,2016
+July,148,232,Industrial service of Public utility,2016
+August,180,239,Industrial service of Public utility,2016
+September,184,235,Industrial service of Public utility,2016
+October,200,200,Industrial service of Public utility,2016
+November,183,195,Industrial service of Public utility,2016
+December,199,207,Industrial service of Public utility,2016
+January,283,260,Industrial service of Public utility,2017
+February,134,320,Industrial service of Public utility,2017
+March,147,229,Industrial service of Public utility,2017
+April,168,204,Industrial service of Public utility,2017
+May,261,355,Industrial service of Public utility,2017
+June,222,250,Industrial service of Public utility,2017
+July,179,251,Industrial service of Public utility,2017
+August,205,259,Industrial service of Public utility,2017
+September,283,162,Industrial service of Public utility,2017
+October,154,200,Industrial service of Public utility,2017
+November,194,177,Industrial service of Public utility,2017
+December,212,568,Industrial service of Public utility,2017
+January,175,200,Industrial service of Public utility,2018
+February,340,169,Industrial service of Public utility,2018
+March,191,179,Industrial service of Public utility,2018
+April,229,147,Industrial service of Public utility,2018
+May,154,252,Industrial service of Public utility,2018
+June,270,199,Industrial service of Public utility,2018
+July,224,205,Industrial service of Public utility,2018
+August,315,316,Industrial service of Public utility,2018
+September,324,199,Industrial service of Public utility,2018
+October,227,201,Industrial service of Public utility,2018
+November,261,151,Industrial service of Public utility,2018
+December,174,236,Industrial service of Public utility,2018
+January,276,210,Industrial service of Public utility,2019
+February,320,196,Industrial service of Public utility,2019
+March,196,224,Industrial service of Public utility,2019
+April,229,160,Industrial service of Public utility,2019
+May,194,171,Industrial service of Public utility,2019
+June,215,287,Industrial service of Public utility,2019
+July,218,194,Industrial service of Public utility,2019
+August,204,210,Industrial service of Public utility,2019
+September,164,407,Industrial service of Public utility,2019
+October,234,230,Industrial service of Public utility,2019
+November,365,214,Industrial service of Public utility,2019
+December,323,275,Industrial service of Public utility,2019
+January,294,212,Industrial service of Public utility,2020
+February,220,198,Industrial service of Public utility,2020
+March,215,280,Industrial service of Public utility,2020
+April,56,230,Industrial service of Public utility,2020
+May,167,208,Industrial service of Public utility,2020
+January,27670,27087,Services,2000
+February,28094,26709,Services,2000
+March,26288,25374,Services,2000
+April,26438,20916,Services,2000
+May,28394,27492,Services,2000
+June,26907,24905,Services,2000
+July,27803,24984,Services,2000
+August,31362,25739,Services,2000
+September,28336,23926,Services,2000
+October,28102,27398,Services,2000
+November,24752,23145,Services,2000
+December,24406,25626,Services,2000
+January,33122,31338,Services,2001
+February,29034,23459,Services,2001
+March,35140,30387,Services,2001
+April,29840,25568,Services,2001
+May,30446,27489,Services,2001
+June,31336,36085,Services,2001
+July,30742,27480,Services,2001
+August,33624,28753,Services,2001
+September,28719,24696,Services,2001
+October,26123,27567,Services,2001
+November,25286,23868,Services,2001
+December,20099,26659,Services,2001
+January,23346,22901,Services,2002
+February,22373,20323,Services,2002
+March,28014,26272,Services,2002
+April,25340,24341,Services,2002
+May,24675,23541,Services,2002
+June,21054,19791,Services,2002
+July,22991,24850,Services,2002
+August,25245,21758,Services,2002
+September,23644,19983,Services,2002
+October,22780,21782,Services,2002
+November,22680,19754,Services,2002
+December,17175,21233,Services,2002
+January,23192,25115,Services,2003
+February,26328,21254,Services,2003
+March,21175,21467,Services,2003
+April,22939,20534,Services,2003
+May,23686,22654,Services,2003
+June,22508,19536,Services,2003
+July,24348,24019,Services,2003
+August,23797,21911,Services,2003
+September,23692,19421,Services,2003
+October,23093,19828,Services,2003
+November,22293,18134,Services,2003
+December,18864,21299,Services,2003
+January,22652,22151,Services,2004
+February,22221,21381,Services,2004
+March,25213,25417,Services,2004
+April,23116,20627,Services,2004
+May,24409,19480,Services,2004
+June,24133,20966,Services,2004
+July,25621,21332,Services,2004
+August,26205,21241,Services,2004
+September,22913,20773,Services,2004
+October,22565,19451,Services,2004
+November,23519,19738,Services,2004
+December,20552,22122,Services,2004
+January,24953,21982,Services,2005
+February,22478,20832,Services,2005
+March,27142,24768,Services,2005
+April,27087,23812,Services,2005
+May,27992,24046,Services,2005
+June,27895,23754,Services,2005
+July,26050,23758,Services,2005
+August,28721,22468,Services,2005
+September,26770,21256,Services,2005
+October,25529,20938,Services,2005
+November,26353,21856,Services,2005
+December,21776,25629,Services,2005
+January,30282,25832,Services,2006
+February,29519,22088,Services,2006
+March,31161,28826,Services,2006
+April,30227,24313,Services,2006
+May,29458,27723,Services,2006
+June,25298,25673,Services,2006
+July,26799,26011,Services,2006
+August,29484,29903,Services,2006
+September,27365,23109,Services,2006
+October,27075,23827,Services,2006
+November,27482,23223,Services,2006
+December,23420,27348,Services,2006
+January,33072,29158,Services,2007
+February,31031,25689,Services,2007
+March,34138,29015,Services,2007
+April,30758,25445,Services,2007
+May,30805,28732,Services,2007
+June,31827,26050,Services,2007
+July,32331,28683,Services,2007
+August,32668,31288,Services,2007
+September,31889,25905,Services,2007
+October,32264,27085,Services,2007
+November,29793,24892,Services,2007
+December,26268,25706,Services,2007
+January,31803,30101,Services,2008
+February,34356,29636,Services,2008
+March,38283,31529,Services,2008
+April,37502,31598,Services,2008
+May,34995,30106,Services,2008
+June,35603,35968,Services,2008
+July,40246,34317,Services,2008
+August,35853,32434,Services,2008
+September,36811,31191,Services,2008
+October,37937,34583,Services,2008
+November,34657,30284,Services,2008
+December,28250,33366,Services,2008
+January,32576,33111,Services,2009
+February,34525,28073,Services,2009
+March,38811,34037,Services,2009
+April,33468,34368,Services,2009
+May,35976,34639,Services,2009
+June,34103,33087,Services,2009
+July,34942,34143,Services,2009
+August,36250,33043,Services,2009
+September,35473,30798,Services,2009
+October,35013,30824,Services,2009
+November,35467,29005,Services,2009
+December,32119,33764,Services,2009
+January,35117,34498,Services,2010
+February,39761,32944,Services,2010
+March,46087,38339,Services,2010
+April,37519,33283,Services,2010
+May,41517,35562,Services,2010
+June,39930,35869,Services,2010
+July,40773,37858,Services,2010
+August,44713,36445,Services,2010
+September,43736,35207,Services,2010
+October,41321,35733,Services,2010
+November,42941,34065,Services,2010
+December,36436,38104,Services,2010
+January,43021,41233,Services,2011
+February,50111,39695,Services,2011
+March,46189,43484,Services,2011
+April,47153,39360,Services,2011
+May,49148,45396,Services,2011
+June,45543,43093,Services,2011
+July,44643,41233,Services,2011
+August,49177,42501,Services,2011
+September,48560,40425,Services,2011
+October,44464,41398,Services,2011
+November,44995,39828,Services,2011
+December,38566,45848,Services,2011
+January,45006,44007,Services,2012
+February,49662,42299,Services,2012
+March,49923,45783,Services,2012
+April,47274,43653,Services,2012
+May,47572,43517,Services,2012
+June,48140,47082,Services,2012
+July,49550,46040,Services,2012
+August,49983,46275,Services,2012
+September,44401,39544,Services,2012
+October,43533,42635,Services,2012
+November,43829,38579,Services,2012
+December,37634,46148,Services,2012
+January,47148,50780,Services,2013
+February,47673,42470,Services,2013
+March,51762,47442,Services,2013
+April,52134,48452,Services,2013
+May,53228,50268,Services,2013
+June,48958,46806,Services,2013
+July,47671,48915,Services,2013
+August,50505,46526,Services,2013
+September,50516,44893,Services,2013
+October,49473,50221,Services,2013
+November,45512,39714,Services,2013
+December,30570,37124,Services,2013
+January,44941,48911,Services,2014
+February,56433,45019,Services,2014
+March,47920,48391,Services,2014
+April,52028,49514,Services,2014
+May,53101,49016,Services,2014
+June,49918,44087,Services,2014
+July,47438,52129,Services,2014
+August,51422,47554,Services,2014
+September,49446,45486,Services,2014
+October,47181,46714,Services,2014
+November,45566,42952,Services,2014
+December,36642,45085,Services,2014
+January,39882,48181,Services,2015
+February,47081,44920,Services,2015
+March,50955,47877,Services,2015
+April,42070,46334,Services,2015
+May,42123,46731,Services,2015
+June,42017,43922,Services,2015
+July,39825,45694,Services,2015
+August,41197,42841,Services,2015
+September,42738,42074,Services,2015
+October,36996,40813,Services,2015
+November,33986,36710,Services,2015
+December,29256,40940,Services,2015
+January,31969,37243,Services,2016
+February,35758,39569,Services,2016
+March,41052,43180,Services,2016
+April,38720,41345,Services,2016
+May,34446,37696,Services,2016
+June,38070,37838,Services,2016
+July,45570,39401,Services,2016
+August,38656,49839,Services,2016
+September,34550,51790,Services,2016
+October,28719,36401,Services,2016
+November,29297,34975,Services,2016
+December,26030,41756,Services,2016
+January,30811,34827,Services,2017
+February,33636,30997,Services,2017
+March,29574,36409,Services,2017
+April,28446,31295,Services,2017
+May,30576,32135,Services,2017
+June,28731,31998,Services,2017
+July,28961,31560,Services,2017
+August,32525,32790,Services,2017
+September,33661,35397,Services,2017
+October,27430,29450,Services,2017
+November,28038,31740,Services,2017
+December,24687,31627,Services,2017
+January,32510,30768,Services,2018
+February,34035,33019,Services,2018
+March,34860,32803,Services,2018
+April,33192,30169,Services,2018
+May,31626,32076,Services,2018
+June,28866,30169,Services,2018
+July,32309,31025,Services,2018
+August,34397,31808,Services,2018
+September,31978,28667,Services,2018
+October,30587,32714,Services,2018
+November,28131,27170,Services,2018
+December,24553,34921,Services,2018
+January,31250,32511,Services,2019
+February,34855,31717,Services,2019
+March,33260,34675,Services,2019
+April,31805,30747,Services,2019
+May,32487,33193,Services,2019
+June,32179,31958,Services,2019
+July,34304,37880,Services,2019
+August,36825,31540,Services,2019
+September,37599,30242,Services,2019
+October,29507,39550,Services,2019
+November,29915,27811,Services,2019
+December,24281,32978,Services,2019
+January,32849,35448,Services,2020
+February,36164,31904,Services,2020
+March,31049,42163,Services,2020
+April,12078,40783,Services,2020
+May,13630,25467,Services,2020
